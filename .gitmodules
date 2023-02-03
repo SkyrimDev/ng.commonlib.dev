@@ -1,0 +1,6 @@
+[submodule "CommonLibSSE-NG"]
+	path = CommonLibSSE-NG
+	url = https://github.com/CharmedBaryon/CommonLibSSE-NG
+[submodule "doxygen-awesome-css"]
+	path = doxygen-awesome-css
+	url = https://github.com/jothepro/doxygen-awesome-css.git

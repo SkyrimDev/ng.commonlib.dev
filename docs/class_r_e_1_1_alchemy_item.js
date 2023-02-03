@@ -1,0 +1,38 @@
+var class_r_e_1_1_alchemy_item =
+[
+    [ "Data", "class_r_e_1_1_alchemy_item_1_1_data.html", "class_r_e_1_1_alchemy_item_1_1_data" ],
+    [ "RecordFlags", "struct_r_e_1_1_alchemy_item_1_1_record_flags.html", "struct_r_e_1_1_alchemy_item_1_1_record_flags" ],
+    [ "AlchemyFlag", "class_r_e_1_1_alchemy_item.html#a17dc8f1814d3244d05cd287f7ba330f9", [
+      [ "kNone", "class_r_e_1_1_alchemy_item.html#a17dc8f1814d3244d05cd287f7ba330f9a35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kCostOverride", "class_r_e_1_1_alchemy_item.html#a17dc8f1814d3244d05cd287f7ba330f9aaa4f745da4d1c37f1a62600c81f2e32c", null ],
+      [ "kFoodItem", "class_r_e_1_1_alchemy_item.html#a17dc8f1814d3244d05cd287f7ba330f9afb2e35a57d5e0f7c7858406d9ba911ad", null ],
+      [ "kExtendDuration", "class_r_e_1_1_alchemy_item.html#a17dc8f1814d3244d05cd287f7ba330f9a91bfddeff682dc7f16a3a4cdf9078dd4", null ],
+      [ "kMedicine", "class_r_e_1_1_alchemy_item.html#a17dc8f1814d3244d05cd287f7ba330f9a08502404fcdcaba0ce090c44ab087338", null ],
+      [ "kPoison", "class_r_e_1_1_alchemy_item.html#a17dc8f1814d3244d05cd287f7ba330f9a031091a5909dbce8aef8a8425abebb1f", null ]
+    ] ],
+    [ "~AlchemyItem", "class_r_e_1_1_alchemy_item.html#a6f8724dc8759c2e863996afd51dcf8ed", null ],
+    [ "ClearData", "class_r_e_1_1_alchemy_item.html#aa76437f4f777d0fb9afeafb04f1c1e27", null ],
+    [ "CopyMagicItemData", "class_r_e_1_1_alchemy_item.html#a0da88c3cd77b0de54b353126c4f51977", null ],
+    [ "GetAssociatedSkill", "class_r_e_1_1_alchemy_item.html#a85799a94d377db6b3aad21fff48224a3", null ],
+    [ "GetCastingType", "class_r_e_1_1_alchemy_item.html#acb3705a61aa6d59ee0d26e3f358ee494", null ],
+    [ "GetChunkID", "class_r_e_1_1_alchemy_item.html#abe99a2a3288d7535181b15497e1ba912", null ],
+    [ "GetData1", "class_r_e_1_1_alchemy_item.html#a3c3749bf2630d65c4967c8f2070eef76", null ],
+    [ "GetData2", "class_r_e_1_1_alchemy_item.html#a0854b68e25da0bb55478885343452785", null ],
+    [ "GetDataSize", "class_r_e_1_1_alchemy_item.html#a4a5875e88e15517b22ff0ad183aa6746", null ],
+    [ "GetDefaultKeyword", "class_r_e_1_1_alchemy_item.html#a83b0dbc2fa931137c38d1659b18208c4", null ],
+    [ "GetDelivery", "class_r_e_1_1_alchemy_item.html#a54d6ee46bef3b5443f8234b1e4c14d5d", null ],
+    [ "GetSpellType", "class_r_e_1_1_alchemy_item.html#abef4d5409dec043d7b529106e0502ce5", null ],
+    [ "InitChunk", "class_r_e_1_1_alchemy_item.html#aee36d0cf468b214406f2c1f0c83b67ce", null ],
+    [ "InitFromChunk", "class_r_e_1_1_alchemy_item.html#a8fe97e6e5f4321412b806c253d722691", null ],
+    [ "InitializeData", "class_r_e_1_1_alchemy_item.html#ad734f4158581d4892351d3470989eb9f", null ],
+    [ "InitItemImpl", "class_r_e_1_1_alchemy_item.html#a6d64e32f206ca5ab14b7d23d183f85b2", null ],
+    [ "IsFood", "class_r_e_1_1_alchemy_item.html#a9dd94881a3a1dcb750704ede93fe7d5d", null ],
+    [ "IsMedicine", "class_r_e_1_1_alchemy_item.html#a0825517d2497574ba3e26a90eb8312b4", null ],
+    [ "IsPoison", "class_r_e_1_1_alchemy_item.html#a7daeb943f72ed91ad755eb81571229d3", null ],
+    [ "LoadMagicItemChunk", "class_r_e_1_1_alchemy_item.html#a2a691883d098d42b863347f00f6a7dd2", null ],
+    [ "data", "class_r_e_1_1_alchemy_item.html#aa16985448a1e4d17fd30d5d6856cfa52", null ],
+    [ "FORMTYPE", "class_r_e_1_1_alchemy_item.html#ad0d4dd278cd982978f74c1b019dc93cb", null ],
+    [ "messageIcon", "class_r_e_1_1_alchemy_item.html#a330b6b2c2e5398c0e7e800c12a910aba", null ],
+    [ "RTTI", "class_r_e_1_1_alchemy_item.html#a46ff29fcbbd37f931eb9b8f06f4726b6", null ],
+    [ "VTABLE", "class_r_e_1_1_alchemy_item.html#a1125c451f7cfdb97be31fd48ac3e7e54", null ]
+];
