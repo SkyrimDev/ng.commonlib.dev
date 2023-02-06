@@ -525,7 +525,7 @@ var searchData=
   ['commitend_522',['commitEnd',['../class_r_e_1_1_scrap_heap.html#acedbadbc4147ee574ae314694fb3e51c',1,'RE::ScrapHeap::commitEnd()'],['../class_r_e_1_1bhk_thread_memory_source.html#a132334b44b762f7e496f57fe55b17d14',1,'RE::bhkThreadMemorySource::commitEnd()']]],
   ['commitpages_523',['CommitPages',['../class_r_e_1_1_abstract_heap.html#aaa2103c16fd4e5eb52cc2ae452d35630',1,'RE::AbstractHeap']]],
   ['committedsize_524',['committedSize',['../struct_r_e_1_1_memory_stats.html#a5e935604f3d2bd631a69666cccf070d3',1,'RE::MemoryStats']]],
-  ['commonlibsse_20ng_525',['CommonLibSSE NG',['../index.html',1,'']]],
+  ['commonlibsse_20ng_20_28_22next_20generation_22_29_525',['CommonLibSSE NG (&quot;Next Generation&quot;)',['../index.html',1,'']]],
   ['commontypetraits_2eh_526',['CommonTypeTraits.h',['../_common_type_traits_8h.html',1,'']]],
   ['compacted_527',['compacted',['../class_r_e_1_1_compacting_store_1_1_store.html#a990ff8ba6fef612d5a09d37d5ae2f3d7',1,'RE::CompactingStore::Store']]],
   ['compactingstore_528',['compactingStore',['../class_r_e_1_1_memory_manager.html#a6f91b05d043f6a5fa25e2ae0849cb105',1,'RE::MemoryManager']]],

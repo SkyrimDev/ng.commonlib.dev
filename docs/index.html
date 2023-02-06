@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.6"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>CommonLibSSE NG: CommonLibSSE NG</title>
+<title>CommonLibSSE NG: CommonLibSSE NG (&quot;Next Generation&quot;)</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -91,25 +91,61 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 </div>
 
 <div><div class="header">
-  <div class="headertitle"><div class="title">CommonLibSSE NG </div></div>
+  <div class="headertitle"><div class="title">CommonLibSSE NG ("Next Generation") </div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="md_README"></a> <b>Unofficial</b> API documentation for the <b>CommonLibSSE</b> C++ library for authoring Skyrim <a class="el" href="namespace_s_k_s_e.html">SKSE</a> plugins.</p>
-<p><em>Please use the sidebar to search and browse through the API!</em></p>
+<div class="textblock"><p><a class="anchor" id="md_README"></a> This API documentation for the <code>NG</code> fork of <code>CommonLibSSE</code>:</p>
+<p><a href="https://github.com/CharmedBaryon/CommonLibSSE-NG">https://github.com/CharmedBaryon/CommonLibSSE-NG</a></p>
 <h1><a class="anchor" id="autotoc_md1"></a>
-CommonLibSSE</h1>
-<p>CommonLibSSE is released under the MIT license:</p>
-<div class="fragment"><div class="line">Copyright (c) 2018 Ryan-rsm-McKenzie</div>
-</div><!-- fragment --><ul>
-<li><a href="https://github.com/Ryan-rsm-McKenzie/CommonLibSSE">https://github.com/Ryan-rsm-McKenzie/CommonLibSSE</a></li>
-</ul>
+About the NG fork</h1>
+<blockquote class="doxtable">
+<p>&zwj;CommonLibSSE NG is a fork of CommonLibSSE which tracks upstream updates but adds a number of enhancements</p>
+<p>CommonLibSSE NG has support for Skyrim SE, AE, and VR, and is able to create builds for any combination of these runtimes, including all three.</p>
+<p>This makes it possible to create <a class="el" href="namespace_s_k_s_e.html">SKSE</a> plugins with a single DLL that works in any Skyrim runtime. </p>
+</blockquote>
 <h1><a class="anchor" id="autotoc_md2"></a>
-CommonLibSSE-NG</h1>
-<p>This API documentation for the <code>NG</code> fork of <code>CommonLibSSE</code>:</p><ul>
-<li><a href="https://github.com/CharmedBaryon/CommonLibSSE-NG">https://github.com/CharmedBaryon/CommonLibSSE-NG</a></li>
+Versions of CommonLibSSE</h1>
+<table class="markdownTable">
+<tr class="markdownTableHead">
+<th class="markdownTableHeadNone">Maintainer   </th><th class="markdownTableHeadNone">GitHub Repo   </th><th class="markdownTableHeadNone"><em>Unofficial</em> Generated API docs    </th></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone">Ryan McKenzie (<a href="https://github.com/Ryan-rsm-McKenzie">GitHub</a>, <a href="https://www.nexusmods.com/skyrimspecialedition/users/5687342">Nexus</a>)   </td><td class="markdownTableBodyNone"><a href="https://github.com/Ryan-rsm-McKenzie/CommonLibSSE">Ryan-rsm-McKenzie/CommonLibSSE</a>   </td><td class="markdownTableBodyNone"><a href="https://ryan.commonlib.dev"><code>https://ryan.commonlib.dev</code></a>    </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">Alan Tse (<a href="https://github.com/alandtse">GitHub</a>)   </td><td class="markdownTableBodyNone"><a href="https://github.com/alandtse/CommonLibVR">alandtse/CommonLibVR</a>   </td><td class="markdownTableBodyNone"><a href="https://vr.commonlib.dev"><code>https://vr.commonlib.dev</code></a>    </td></tr>
+<tr class="markdownTableRowOdd">
+<td class="markdownTableBodyNone"><code>powerof3</code> (<a href="https://github.com/powerof3">GitHub</a>, <a href="https://www.nexusmods.com/skyrimspecialedition/users/2148728">Nexus</a>)   </td><td class="markdownTableBodyNone"><a href="https://github.com/powerof3/CommonLibSSE">powerof3/CommonLibSSE</a>   </td><td class="markdownTableBodyNone"><a href="https://po3.commonlib.dev"><code>https://po3.commonlib.dev</code></a>    </td></tr>
+<tr class="markdownTableRowEven">
+<td class="markdownTableBodyNone">Charmed Baryon (<a href="https://github.com/CharmedBaryon">GitHub</a>)   </td><td class="markdownTableBodyNone"><a href="https://github.com/CharmedBaryon/CommonLibSSE-NG">CharmedBaryon/CommonLibSSE-NG</a>   </td><td class="markdownTableBodyNone"><a href="https://ng.commonlib.dev"><code>https://ng.commonlib.dev</code></a>   </td></tr>
+</table>
+<h2><a class="anchor" id="autotoc_md3"></a>
+Original CommonLibSSE</h2>
+<p><code>CommonLibSSE</code> is a reverse engineered library for Skyrim Special Edition.</p>
+<p>The library was created by Ryan McKenzie (<a href="https://github.com/Ryan-rsm-McKenzie">GitHub</a>, <a href="https://www.nexusmods.com/skyrimspecialedition/users/5687342">Nexus</a>) in <a href="https://github.com/Ryan-rsm-McKenzie/CommonLibSSE/commit/224773c424bdb8e36c761810cdff0fcfefda5f4a">2018</a>.</p>
+<p>It is released under the <a href="https://github.com/Ryan-rsm-McKenzie/CommonLibSSE/blob/master/LICENSE">MIT license</a>:</p>
+<div class="fragment"><div class="line">Copyright (c) 2018 Ryan-rsm-McKenzie</div>
+</div><!-- fragment --><h2><a class="anchor" id="autotoc_md4"></a>
+CommonLibVR</h2>
+<p>Maintained by <a href="https://github.com/alandtse">Alan Tse</a>, this fork supports Skyrim VR.</p>
+<p>As of 2023, Alan includes a number of <b>Credits</b> in their README:</p>
+<blockquote class="doxtable">
+<p>&zwj;* Thanks to Ryan McKenzie for original code</p><ul>
+<li>Thanks to RollingRock &amp; po3 for important contributions</li>
+<li>Thanks to lfrazer for <a href="https://github.com/lfrazer/CommonLibVR">commonlibvr</a> port which is the source of Exit-9B recombination; also thanks for all the support in discord.</li>
+<li>Thanks to Exit-9B for recombination of <a href="https://github.com/Ryan-rsm-McKenzie/CommonLibSSE">CommonLibSSE</a> and <a href="https://github.com/lfrazer/CommonLibVR">CommonLibVR</a></li>
+<li>Thanks to powerof3 for maintaing a SSE branch of <a href="https://github.com/powerof3/CommonLibSSE/tree/dev">CommonLibSSE</a> </li>
 </ul>
-<h1><a class="anchor" id="autotoc_md3"></a>
-Other Resources</h1>
+</blockquote>
+<p>Visit the <a href="https://github.com/alandtse/CommonLibVR#credits">README's Credits section</a> for an up-to-date list.</p>
+<h2><a class="anchor" id="autotoc_md5"></a>
+CommonLibSSE (po3)</h2>
+<p>Maintained by <code>powerof3</code> (<a href="https://github.com/powerof3">GitHub</a>, <a href="https://www.nexusmods.com/skyrimspecialedition/users/2148728">Nexus</a>), this fork is where a lot of the action happens.</p>
+<p>New features added to CommonLibSSE are often added here!</p>
+<p>Occassionally, the <b>VR</b> and <b>NG</b> forks merge changes from this <code>dev</code> fork.</p>
+<h2><a class="anchor" id="autotoc_md6"></a>
+CommonLibSSE-NG</h2>
+<p>Maintained by Charmed Baryon (<a href="https://github.com/CharmedBaryon">GitHub</a>), the <b>NG</b> ("Next Generation") fork provided support for the <code>SE</code> (1.5.97), <code>AE</code> (1.6+), <b>and</b> <code>VR</code> editions of the game - <em>all via a single, compiled <code>.dll</code></em></p>
+<h1><a class="anchor" id="autotoc_md7"></a>
+Other SKSE Resources</h1>
 <hr  />
 <ul>
 <li><a href="https://youtube.com/SkyrimScripting">https://youtube.com/SkyrimScripting</a> for videos on getting started with Skyrim <a class="el" href="namespace_s_k_s_e.html">SKSE</a> plugin development</li>
@@ -117,6 +153,16 @@ Other Resources</h1>
 </ul>
 <blockquote class="doxtable">
 <p>&zwj;<em>Feel free to recommend additional <a class="el" href="namespace_s_k_s_e.html">SKSE</a> learning resources!</em> </p>
+</blockquote>
+<h1><a class="anchor" id="autotoc_md9"></a>
+Contact</h1>
+<p>Created by <a href="https://github.com/mrowrpurr/">Mrowr Purr</a> <code>&lt;3</code></p>
+<p>~ <a href="https://mrowrpurr.com">https://mrowrpurr.com</a> ~</p>
+<p><a href="https://discord.gg/vzaqMpQgZn">Find me on Discord</a></p>
+<blockquote class="doxtable">
+<p>&zwj;Do you have a version of CommonLibSSE which other developers use?</p>
+<p>Do you want a generated website like this one? <em>Feel free to reach out!</em></p>
+<p><b>THANK YOU TO ALL CommonLibSSE CONTRIBUTORS IN THE COMMUNITY 🎈</b> </p>
 </blockquote>
 </div></div><!-- PageDoc -->
 </div><!-- contents -->
