@@ -1,4 +1,4 @@
-# CommonLibSSE NG
+# API documentation: CommonLibSSE (NG fork)
 
 **Unofficial** API documentation for the **CommonLibSSE** C++ library for authoring Skyrim SKSE plugins.
 
