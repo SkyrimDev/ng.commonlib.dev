@@ -6,5 +6,6 @@ var class_r_e_1_1hkp_single_shape_container =
     [ "GetNextKey", "class_r_e_1_1hkp_single_shape_container.html#a58504d3bff0b721a0fcf9f10ea8ef0f1", null ],
     [ "GetNumChildShapes", "class_r_e_1_1hkp_single_shape_container.html#abcd711b58f441314e9f7b2c09a306b65", null ],
     [ "childShape", "class_r_e_1_1hkp_single_shape_container.html#aad8b569e86d44572c0868764820b4e75", null ],
-    [ "RTTI", "class_r_e_1_1hkp_single_shape_container.html#abfcfdada7a4edfd0d608635b1f9d4346", null ]
+    [ "RTTI", "class_r_e_1_1hkp_single_shape_container.html#abfcfdada7a4edfd0d608635b1f9d4346", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_single_shape_container.html#a47e34a0a63ef4c6b964262c7491c7951", null ]
 ];

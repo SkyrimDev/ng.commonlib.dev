@@ -1,7 +1,7 @@
 var _u_i3_d_scene_manager_8h =
 [
+    [ "RE::MenuLight", "class_r_e_1_1_menu_light.html", "class_r_e_1_1_menu_light" ],
     [ "RE::UI3DSceneManager", "class_r_e_1_1_u_i3_d_scene_manager.html", "class_r_e_1_1_u_i3_d_scene_manager" ],
-    [ "RE::UI3DSceneManager::MenuLight", "struct_r_e_1_1_u_i3_d_scene_manager_1_1_menu_light.html", "struct_r_e_1_1_u_i3_d_scene_manager_1_1_menu_light" ],
     [ "INTERFACE_LIGHT_SCHEME", "_u_i3_d_scene_manager_8h.html#af8da37bb851bf2a2fcefb0fe752f806d", [
       [ "kJournal", "_u_i3_d_scene_manager_8h.html#af8da37bb851bf2a2fcefb0fe752f806dab903a3aa87bd6ca806b7d37c0cafb07c", null ],
       [ "kInventory", "_u_i3_d_scene_manager_8h.html#af8da37bb851bf2a2fcefb0fe752f806da47498f9cb264d86d832bd286a7eb917b", null ],

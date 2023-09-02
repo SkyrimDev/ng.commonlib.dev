@@ -1,14 +1,15 @@
 var class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu =
 [
     [ "SmithingConfirmCallback", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu_1_1_smithing_confirm_callback.html", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu_1_1_smithing_confirm_callback" ],
+    [ "SmithingItemEntry", "struct_r_e_1_1_crafting_sub_menus_1_1_smithing_menu_1_1_smithing_item_entry.html", "struct_r_e_1_1_crafting_sub_menus_1_1_smithing_menu_1_1_smithing_item_entry" ],
     [ "~SmithingMenu", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#a704fa083210877bb92e658a4bae18bf1", null ],
     [ "Accept", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#aabfa00cfff85f48e09757df426a1f5f2", null ],
+    [ "ProcessUserEvent", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#a8685c51657791093f63fb39d261b87b6", null ],
     [ "Unk_02", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#a5435e3753e2eee982db4a333bdce67e7", null ],
-    [ "Unk_05", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#a4cb4cec74fdb1e3611dbbf3dbf81f9a6", null ],
     [ "furnitureRef", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#a25220f6a99f260def982db918ed85cba", null ],
     [ "RTTI", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#ae8b41d3e1662db19820f4cec6f760d09", null ],
     [ "smithingType", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#ab8c226d50cd295d2e6672c1673d1f1df", null ],
-    [ "unk100", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#a67671e8747733bc4ee146c383f9de4c9", null ],
+    [ "unk100", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#a472ed1b31dc9641b2e1d0e1a75c6401d", null ],
     [ "unk118", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#a5ee8b9e793a43b1f8d3d345c8209e0e8", null ],
     [ "unk150", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#a4f185653728035e2f13ba4db12dc6982", null ],
     [ "unk154", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu.html#ab1a59071fb5854751e91bd48c3408264", null ],

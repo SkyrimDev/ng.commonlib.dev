@@ -8,7 +8,9 @@ var namespaces_dup =
       [ "getline", "namespacestd.html#af8ec2a13c33b7cbfbeed7b54b930c0b7", null ],
       [ "getline", "namespacestd.html#a3d5f147e5c162f7633cbd22eb889ba4a", null ],
       [ "to_string", "namespacestd.html#a67e99161b9c85e616966438312120475", null ],
+      [ "to_string", "namespacestd.html#afb21d8067880c8a2c02ca6a167d3c062", null ],
       [ "to_string", "namespacestd.html#a005a0db0b5dbf299cb6be9788be325ff", null ],
+      [ "to_string", "namespacestd.html#af516367ae0824415d794dc523f3a11c2", null ],
       [ "to_string", "namespacestd.html#acab99406e48217851d5e3fc152785fc3", null ]
     ] ]
 ];

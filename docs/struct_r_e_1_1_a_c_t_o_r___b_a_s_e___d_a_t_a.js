@@ -11,13 +11,16 @@ var struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a =
       [ "kDoesntAffectStealthMeter", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a1c9253094abfd1ef10173fc3e2927515", null ],
       [ "kPCLevelMult", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a324979f47e6cf0e468a8179325554650", null ],
       [ "kUsesTemplate", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a93a615b575f2309803d82db5b36881c8", null ],
+      [ "kCalcForAllTemplates", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a4d60c493baa74ca62908e9559ef1546d", null ],
       [ "kProtected", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a29b22e010bf2edfbf57a7a03522a64c9", null ],
+      [ "kNoRumors", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a9f46470d8134437e51f0f40bb593cfe1", null ],
       [ "kSummonable", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a07dea0ea8f17b94af487c4bcf43496f0", null ],
       [ "kDoesntBleed", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a30798eaea406555ea194ef5e340bfa02", null ],
       [ "kBleedoutOverride", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a0cdc3d553aeff7dec606b382ff492538", null ],
-      [ "kOppositeGenderanims", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a845a8cc67aed6c8a9e95a274b398aefc", null ],
+      [ "kOppositeGenderAnims", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a927ec22b3d78bb2f6904b4e61e2f6452", null ],
       [ "kSimpleActor", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2ac09a1ebdda977d8a99919cfa0bf1ad9d", null ],
       [ "kLoopedScript", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a896334be5af1e874da426725c1de36d9", null ],
+      [ "kNoActivation", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a88b3fd7ee480c69e074178377e45dc70", null ],
       [ "kLoopedAudio", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a8166514ba835272a402cbbd222c74746", null ],
       [ "kIsGhost", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a3fae3a97fae1ca5df11bf95b2649e8f2", null ],
       [ "kInvulnerable", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#ad7f75fec80141a2e9f1eafc8e0bd4ee2a289ffc4611e1ec48cd6241a3502b309e", null ]
@@ -36,7 +39,8 @@ var struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a =
       [ "kScript", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#a8c182009d8c983e14e108ebf4e978820ad6a54ead0655dbd060189710f07faf7b", null ],
       [ "kAIDefPackList", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#a8c182009d8c983e14e108ebf4e978820aa29aca1ce64338b5635e846f590541a8", null ],
       [ "kAttackData", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#a8c182009d8c983e14e108ebf4e978820af0f1badbb230e22f8939db74df7b7c6a", null ],
-      [ "kKeywords", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#a8c182009d8c983e14e108ebf4e978820afad4da13b42085e0e6e94b5f25394bdb", null ]
+      [ "kKeywords", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#a8c182009d8c983e14e108ebf4e978820afad4da13b42085e0e6e94b5f25394bdb", null ],
+      [ "kCopiedTemplate", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#a8c182009d8c983e14e108ebf4e978820a7c634993c000c2dcd1ad37d160de7ca6", null ]
     ] ],
     [ "actorBaseFlags", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#a1baba6283cf02c1eba4a095522fb56c4", null ],
     [ "baseDisposition", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html#a4438beb0499f241df4910465b7089eb6", null ],

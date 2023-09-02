@@ -22,6 +22,7 @@ var class_r_e_1_1hkp_motion =
     [ "GetInertiaInvWorld", "class_r_e_1_1hkp_motion.html#a152475c51faca7a81ef662c3c2248611", null ],
     [ "GetInertiaLocal", "class_r_e_1_1hkp_motion.html#a159f7a614c5a9a1cbde98c4695218899", null ],
     [ "GetInertiaWorld", "class_r_e_1_1hkp_motion.html#a68a39e8c418e2536e6f16a79aabbc725", null ],
+    [ "GetMass", "class_r_e_1_1hkp_motion.html#abd82de76c51f014da336bd106bb1fc70", null ],
     [ "GetMotionStateAndVelocitiesAndDeactivationType", "class_r_e_1_1hkp_motion.html#a42c6a1fafe76aef431dc910fcf29b081", null ],
     [ "GetProjectedPointVelocity", "class_r_e_1_1hkp_motion.html#a759c7610fe6e6325a14e09ab34c261ee", null ],
     [ "SetAngularVelocity", "class_r_e_1_1hkp_motion.html#a2fa53a6c2805c21f41ded7f35b74564b", null ],
@@ -43,13 +44,14 @@ var class_r_e_1_1hkp_motion =
     [ "gravityFactor", "class_r_e_1_1hkp_motion.html#acefc5507b306c7c96d28128ff1bfac3b", null ],
     [ "inertiaAndMassInv", "class_r_e_1_1hkp_motion.html#aa2f06598a045e4b708d5e2bfca1fdfb3", null ],
     [ "linearVelocity", "class_r_e_1_1hkp_motion.html#ae44d8cd19a1c59e3db9d472aec2e4add", null ],
-    [ "mavedMotion", "class_r_e_1_1hkp_motion.html#abc8e3e6a679d61be38efd12de653d98b", null ],
     [ "motionState", "class_r_e_1_1hkp_motion.html#aaa1e6a8f7e09b732b0f11c63812a936a", null ],
     [ "pad016", "class_r_e_1_1hkp_motion.html#a3dbbfa0ed0e21d0eba93c1db07dacfb4", null ],
     [ "pad018", "class_r_e_1_1hkp_motion.html#a5462608753e8e07d1dd01d9e7a5ef871", null ],
     [ "pad132", "class_r_e_1_1hkp_motion.html#afb714002ebf56074e2dd706de52ed7c8", null ],
     [ "pad138", "class_r_e_1_1hkp_motion.html#a194bd205b545505f0e237da515bba1df", null ],
     [ "RTTI", "class_r_e_1_1hkp_motion.html#a8fae4010d4ef2d8b9236573335a8cb44", null ],
+    [ "savedMotion", "class_r_e_1_1hkp_motion.html#a159c9cbf196a038c96fe3799bd06a3dc", null ],
     [ "savedQualityTypeIndex", "class_r_e_1_1hkp_motion.html#abd1d40025cab0d91b9cfadf868978fe7", null ],
-    [ "type", "class_r_e_1_1hkp_motion.html#a1205d2a10e4e9e143965d49b22e8ace3", null ]
+    [ "type", "class_r_e_1_1hkp_motion.html#a1205d2a10e4e9e143965d49b22e8ace3", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_motion.html#ae1de61f4a179675b5d96a1a438b72c41", null ]
 ];

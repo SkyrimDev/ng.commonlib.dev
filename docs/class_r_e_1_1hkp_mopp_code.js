@@ -14,5 +14,6 @@ var class_r_e_1_1hkp_mopp_code =
     [ "pad32", "class_r_e_1_1hkp_mopp_code.html#abce74b9954b182e4d29abd68d6a5bb33", null ],
     [ "pad34", "class_r_e_1_1hkp_mopp_code.html#adc6504eed18a2a90f5b99382cdd74a5c", null ],
     [ "pad38", "class_r_e_1_1hkp_mopp_code.html#a4fbbe08dd6500cc067a5c915e10730f5", null ],
-    [ "RTTI", "class_r_e_1_1hkp_mopp_code.html#ab4a33bc6d1c95becae4b26a8e1856414", null ]
+    [ "RTTI", "class_r_e_1_1hkp_mopp_code.html#ab4a33bc6d1c95becae4b26a8e1856414", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_mopp_code.html#a6c6d8e930fc105d16f042fc22b1df6c1", null ]
 ];

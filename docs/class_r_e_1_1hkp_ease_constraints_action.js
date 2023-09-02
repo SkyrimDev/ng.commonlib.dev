@@ -7,5 +7,6 @@ var class_r_e_1_1hkp_ease_constraints_action =
     [ "originalConstraints", "class_r_e_1_1hkp_ease_constraints_action.html#a3e75924354aba575b98d3533f556e726", null ],
     [ "originalLimits", "class_r_e_1_1hkp_ease_constraints_action.html#a2341d980452b1cb148810bd91cbcdf02", null ],
     [ "RTTI", "class_r_e_1_1hkp_ease_constraints_action.html#ac6884d5545daaee311b4c33167fb924f", null ],
-    [ "timePassed", "class_r_e_1_1hkp_ease_constraints_action.html#abc7f804b828eadb6a38495f0f79520d7", null ]
+    [ "timePassed", "class_r_e_1_1hkp_ease_constraints_action.html#abc7f804b828eadb6a38495f0f79520d7", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_ease_constraints_action.html#aac4e2ccb5e8941f922baac7b6b82a39e", null ]
 ];

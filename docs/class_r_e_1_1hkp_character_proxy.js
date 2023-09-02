@@ -31,5 +31,6 @@ var class_r_e_1_1hkp_character_proxy =
     [ "staticFriction", "class_r_e_1_1hkp_character_proxy.html#a7904d65710330e6b666203ddcfa2ba1a", null ],
     [ "up", "class_r_e_1_1hkp_character_proxy.html#a0dc7c8b61cd7b4ce9564cc070b212b99", null ],
     [ "userPlanes", "class_r_e_1_1hkp_character_proxy.html#afe320c834bbe49c742d3214a50db7b7a", null ],
-    [ "velocity", "class_r_e_1_1hkp_character_proxy.html#afa2a7cb7efb16cd9bc4f9c1000494765", null ]
+    [ "velocity", "class_r_e_1_1hkp_character_proxy.html#afa2a7cb7efb16cd9bc4f9c1000494765", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_character_proxy.html#a4589c2ceb088135d5d4726681d9712a9", null ]
 ];

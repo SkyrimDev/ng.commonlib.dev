@@ -29,5 +29,6 @@ var class_r_e_1_1hkp_simulation_island =
     [ "timeSinceLastHighFrequencyCheck", "class_r_e_1_1hkp_simulation_island.html#ad737a7cea73dd4cc6605af76a09a7100", null ],
     [ "timeSinceLastLowFrequencyCheck", "class_r_e_1_1hkp_simulation_island.html#a582e7f01a6a12ad093f8d18635023386", null ],
     [ "tryToIncreaseIslandSizeMark", "class_r_e_1_1hkp_simulation_island.html#ad90609abcac2cd530f218b5bf593a078", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_simulation_island.html#a6bead3a1d9301261d5d31a0c2fcd590a", null ],
     [ "world", "class_r_e_1_1hkp_simulation_island.html#a7305b89eaa61c03304921d51daa95a3b", null ]
 ];

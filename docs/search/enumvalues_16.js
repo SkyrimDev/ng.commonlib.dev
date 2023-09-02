@@ -1,5 +1,19 @@
 var searchData=
 [
   ['x64_0',['x64',['../struct_r_e_1_1_r_t_t_i_1_1_complete_object_locator.html#ad3a3df50dca11c9d74f1cf856a61d384a9c16d991c79c6330e655aa29ea623492',1,'RE::RTTI::CompleteObjectLocator']]],
-  ['x86_1',['x86',['../struct_r_e_1_1_r_t_t_i_1_1_complete_object_locator.html#ad3a3df50dca11c9d74f1cf856a61d384a8a9da7865483c5fd359f3acef178d26d',1,'RE::RTTI::CompleteObjectLocator']]]
+  ['x86_1',['x86',['../struct_r_e_1_1_r_t_t_i_1_1_complete_object_locator.html#ad3a3df50dca11c9d74f1cf856a61d384a8a9da7865483c5fd359f3acef178d26d',1,'RE::RTTI::CompleteObjectLocator']]],
+  ['xinput_5fgamepad_5fa_2',['XINPUT_GAMEPAD_A',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553af59107a17c8f1f9853f96072608d3554',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fb_3',['XINPUT_GAMEPAD_B',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553af634092167a804a70c1c29372a9ed695',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fback_4',['XINPUT_GAMEPAD_BACK',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553aa793d3ee86afa4faf5fcba5d1870d75c',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fdpad_5fdown_5',['XINPUT_GAMEPAD_DPAD_DOWN',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553a7b6340d16acb2a18a1cf98bc31986b5d',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fdpad_5fleft_6',['XINPUT_GAMEPAD_DPAD_LEFT',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553a1e0424cf5fc2662c51982b0818feebef',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fdpad_5fright_7',['XINPUT_GAMEPAD_DPAD_RIGHT',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553ac907c82a142aa7ad80e0652d136e3eb3',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fdpad_5fup_8',['XINPUT_GAMEPAD_DPAD_UP',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553ab2ab6dfc1120c4921a83946e6e155d02',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fleft_5fshoulder_9',['XINPUT_GAMEPAD_LEFT_SHOULDER',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553aa86e2f5e07a0d24e1eca219d3c2694b7',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fleft_5fthumb_10',['XINPUT_GAMEPAD_LEFT_THUMB',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553aa0edb38fb8a699f3c6029016c81634c2',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fright_5fshoulder_11',['XINPUT_GAMEPAD_RIGHT_SHOULDER',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553ae3c81fccebfa59800777a9d48274236c',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fright_5fthumb_12',['XINPUT_GAMEPAD_RIGHT_THUMB',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553aed2e99b0a46c634ee94c03709a8dc0b9',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fstart_13',['XINPUT_GAMEPAD_START',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553a0c5b1a04c6200559b3bfeffda441a23f',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fx_14',['XINPUT_GAMEPAD_X',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553a05c551eba3e3c058586aab7435d142b4',1,'RE::XInput']]],
+  ['xinput_5fgamepad_5fy_15',['XINPUT_GAMEPAD_Y',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553a4803a3f8bc043312697b2aba28434254',1,'RE::XInput']]]
 ];

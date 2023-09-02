@@ -30,6 +30,7 @@ var class_r_e_1_1_b_s_shadow_light =
     [ "unk544", "class_r_e_1_1_b_s_shadow_light.html#a6822d425312116688611bb1308bbbac9", null ],
     [ "unk548", "class_r_e_1_1_b_s_shadow_light.html#a6415a8f078e6d1727951fc9168e06dd5", null ],
     [ "unk54C", "class_r_e_1_1_b_s_shadow_light.html#a220396eb2e31382e4494a21b66548460", null ],
-    [ "unk550", "class_r_e_1_1_b_s_shadow_light.html#a2db2eebe63cae8b278ae6cefcabccb45", null ],
+    [ "unk550", "class_r_e_1_1_b_s_shadow_light.html#a77eb0ada6c12e7f62fb5333c59886550", null ],
+    [ "unk554", "class_r_e_1_1_b_s_shadow_light.html#a076c62110dc745a925e88e2c89e9f569", null ],
     [ "unk558", "class_r_e_1_1_b_s_shadow_light.html#a244137e76389b25fd591c53358fa88de", null ]
 ];

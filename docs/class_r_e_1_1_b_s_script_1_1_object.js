@@ -7,6 +7,8 @@ var class_r_e_1_1_b_s_script_1_1_object =
     [ "GetProperty", "class_r_e_1_1_b_s_script_1_1_object.html#a2d6dd4cf2b4f595e3b3995375bd98c53", null ],
     [ "GetTypeInfo", "class_r_e_1_1_b_s_script_1_1_object.html#a2cc3b5a0d9e49c8d60a98e49cda58a0b", null ],
     [ "GetTypeInfo", "class_r_e_1_1_b_s_script_1_1_object.html#a02ac079befe16d37f630f48c97771650", null ],
+    [ "GetVariable", "class_r_e_1_1_b_s_script_1_1_object.html#ac198b94642a794d1fa1073724d3058f7", null ],
+    [ "GetVariable", "class_r_e_1_1_b_s_script_1_1_object.html#af282f232da8524758d82ea6c4dc1fbd7", null ],
     [ "IncRef", "class_r_e_1_1_b_s_script_1_1_object.html#a1085a57e197d0b2dd660953c92a3a7b0", null ],
     [ "IsConstructed", "class_r_e_1_1_b_s_script_1_1_object.html#a2cb0c8e94df943a831563c18b26277b4", null ],
     [ "IsInitialized", "class_r_e_1_1_b_s_script_1_1_object.html#ab05007ce74b9636a44e2ea84cf4a4cda", null ],

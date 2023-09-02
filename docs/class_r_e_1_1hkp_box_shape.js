@@ -14,5 +14,6 @@ var class_r_e_1_1hkp_box_shape =
     [ "halfExtents", "class_r_e_1_1hkp_box_shape.html#a338664b518bc6cd0e8f6c55742a96d4b", null ],
     [ "pad28", "class_r_e_1_1hkp_box_shape.html#afdef21d253588f72a821da883d1a1946", null ],
     [ "pad2C", "class_r_e_1_1hkp_box_shape.html#a3b2cce53f2315c21419e82898696e852", null ],
-    [ "RTTI", "class_r_e_1_1hkp_box_shape.html#ac7d37d1cb6a126577432ec0920254576", null ]
+    [ "RTTI", "class_r_e_1_1hkp_box_shape.html#ac7d37d1cb6a126577432ec0920254576", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_box_shape.html#a9d9571a500a9d4f5d8f6eb2f658bb213", null ]
 ];

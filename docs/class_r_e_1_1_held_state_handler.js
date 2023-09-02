@@ -7,5 +7,6 @@ var class_r_e_1_1_held_state_handler =
     [ "pad12", "class_r_e_1_1_held_state_handler.html#a1d3b11f1f051fd2ea69d7425e85dbd23", null ],
     [ "pad14", "class_r_e_1_1_held_state_handler.html#ab7e6d73dbabbda584641dc01beccaf5b", null ],
     [ "RTTI", "class_r_e_1_1_held_state_handler.html#a7833ab68e3ba72c09d516df7b8a9918d", null ],
-    [ "triggerReleaseEvent", "class_r_e_1_1_held_state_handler.html#a6b8eff186c29ff984a5e337a7995b563", null ]
+    [ "triggerReleaseEvent", "class_r_e_1_1_held_state_handler.html#a6b8eff186c29ff984a5e337a7995b563", null ],
+    [ "VTABLE", "class_r_e_1_1_held_state_handler.html#a39f7223c0b1fcf92e0a1711d4b8ff318", null ]
 ];

@@ -51,5 +51,6 @@ var class_r_e_1_1hkb_behavior_graph =
     [ "updateActiveNodes", "class_r_e_1_1hkb_behavior_graph.html#afd3e6b0038f9b15141b8c30108fcfe44", null ],
     [ "variableIDMap", "class_r_e_1_1hkb_behavior_graph.html#aa5d83224f578f903d141977ccd9c4a4f", null ],
     [ "variableMode", "class_r_e_1_1hkb_behavior_graph.html#aa6df412f5cfcc4b17a2831510fe64cb4", null ],
-    [ "variableValueSet", "class_r_e_1_1hkb_behavior_graph.html#a92a2faf28f08a807fd98e0358562621d", null ]
+    [ "variableValueSet", "class_r_e_1_1hkb_behavior_graph.html#a92a2faf28f08a807fd98e0358562621d", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_behavior_graph.html#a816e34e74e814640c465ad698b6a1ce9", null ]
 ];

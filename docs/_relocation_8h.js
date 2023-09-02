@@ -82,6 +82,16 @@ var _relocation_8h =
     [ "wildcard", "_relocation_8h.html#a69a706bb4268930f707958976e69afa1", null ],
     [ "INT3", "_relocation_8h.html#a5d8f45f30b5676debe5122bf3fc4ebbc", null ],
     [ "is_x64_pod_v", "_relocation_8h.html#ac81bdf80b9339e26c7df8d69644a8b9a", null ],
+    [ "JMP32", "_relocation_8h.html#afad1b20016e966ca2282927ef9bbeca8", null ],
+    [ "JMP8", "_relocation_8h.html#a2588ed24ec39d8be0730f06d067a74db", null ],
     [ "NOP", "_relocation_8h.html#a3238f5cdd5721e125ac350e8777944ee", null ],
+    [ "NOP2", "_relocation_8h.html#a8c10363fce20cde8931057b07ac0674d", null ],
+    [ "NOP3", "_relocation_8h.html#ac99d3a700cce3b798407948ecbc6b7b8", null ],
+    [ "NOP4", "_relocation_8h.html#a3edf92419c2d0e19791fa42bfeea7e06", null ],
+    [ "NOP5", "_relocation_8h.html#ac4c6b65c36aa73c569b707541f46824a", null ],
+    [ "NOP6", "_relocation_8h.html#a1f12b0754a3fc57decafad98b339ebda", null ],
+    [ "NOP7", "_relocation_8h.html#afe116e07bcce874869e7cc4cacb2ad28", null ],
+    [ "NOP8", "_relocation_8h.html#a6bc1517a23ccb5105bf8b4437e5b3fa8", null ],
+    [ "NOP9", "_relocation_8h.html#acf255a5e5577809d27e764bf16813e67", null ],
     [ "RET", "_relocation_8h.html#af8acf0e6cd305b532fd1baaf2afc7948", null ]
 ];

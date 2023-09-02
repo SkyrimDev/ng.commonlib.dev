@@ -1,5 +1,6 @@
 var _material_i_ds_8h =
 [
+    [ "fmt::formatter< RE::MATERIAL_ID >", "structfmt_1_1formatter_3_01_r_e_1_1_m_a_t_e_r_i_a_l___i_d_01_4.html", "structfmt_1_1formatter_3_01_r_e_1_1_m_a_t_e_r_i_a_l___i_d_01_4" ],
     [ "MATERIAL_ID", "_material_i_ds_8h.html#ab5ee7f780369d8cba53eb694a4da6e6f", [
       [ "kNone", "_material_i_ds_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kStoneBroken", "_material_i_ds_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa8d0c6e45060d4667e88b5ecd8a16ff82", null ],
@@ -90,5 +91,7 @@ var _material_i_ds_8h =
       [ "kBlunt2Hand", "_material_i_ds_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa4be0a94479394c7eb5c012fcfa708bc6", null ],
       [ "kDLC1SwingingBridge", "_material_i_ds_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa87cf8654eb7b371303abb8f4bc1d1454", null ],
       [ "kBoulderMedium", "_material_i_ds_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fad8a0da5b34b1920284cf0db11be4c5ec", null ]
-    ] ]
+    ] ],
+    [ "MaterialIDToString", "_material_i_ds_8h.html#a20a0704dc331921f7b3e637115d15def", null ],
+    [ "to_string", "_material_i_ds_8h.html#af516367ae0824415d794dc523f3a11c2", null ]
 ];

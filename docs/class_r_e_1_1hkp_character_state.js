@@ -6,5 +6,6 @@ var class_r_e_1_1hkp_character_state =
     [ "GetType", "class_r_e_1_1hkp_character_state.html#ab53b55d35a847179447bbc001d53ca12", null ],
     [ "LeaveState", "class_r_e_1_1hkp_character_state.html#ab1dba2bea121b44e3f2fee094cd72404", null ],
     [ "Update", "class_r_e_1_1hkp_character_state.html#a82705df9932b487e5d3472cad4ef7c11", null ],
-    [ "RTTI", "class_r_e_1_1hkp_character_state.html#ac418b171ae84b16c0396de721729b216", null ]
+    [ "RTTI", "class_r_e_1_1hkp_character_state.html#ac418b171ae84b16c0396de721729b216", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_character_state.html#a1d43d7c9a47b0aa5e45493a174f6b716", null ]
 ];

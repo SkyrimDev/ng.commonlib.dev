@@ -7,6 +7,7 @@ var _actor_8h =
     [ "RE::Actor::SlotTypes", "struct_r_e_1_1_actor_1_1_slot_types.html", null ],
     [ "RE::Actor::ChangeFlags", "struct_r_e_1_1_actor_1_1_change_flags.html", "struct_r_e_1_1_actor_1_1_change_flags" ],
     [ "RE::Actor::RecordFlags", "struct_r_e_1_1_actor_1_1_record_flags.html", "struct_r_e_1_1_actor_1_1_record_flags" ],
+    [ "RE::Actor::ForEachSpellVisitor", "class_r_e_1_1_actor_1_1_for_each_spell_visitor.html", "class_r_e_1_1_actor_1_1_for_each_spell_visitor" ],
     [ "RE::Actor::ACTOR_RUNTIME_DATA", "struct_r_e_1_1_actor_1_1_a_c_t_o_r___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RUNTIME_DATA_CONTENT", "_actor_8h.html#a6f315081dd3dcc1a9f810d9f2ab44c9c", null ],
     [ "ACTOR_CRITICAL_STAGE", "_actor_8h.html#ae0700b94b48070db0c671bdb54984367", [

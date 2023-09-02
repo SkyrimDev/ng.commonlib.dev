@@ -32,5 +32,6 @@ var class_r_e_1_1hka_default_animation_control =
     [ "padA4", "class_r_e_1_1hka_default_animation_control.html#ab65cd55022358b489319a40f9325d765", null ],
     [ "playbackSpeed", "class_r_e_1_1hka_default_animation_control.html#a4440d93853ed6817615a7e772eaec165", null ],
     [ "RTTI", "class_r_e_1_1hka_default_animation_control.html#a716f573161fbc9b1188741fab708aefc", null ],
-    [ "underflowCount", "class_r_e_1_1hka_default_animation_control.html#a0a78d4a183d55fdc736b7ad3f5db107b", null ]
+    [ "underflowCount", "class_r_e_1_1hka_default_animation_control.html#a0a78d4a183d55fdc736b7ad3f5db107b", null ],
+    [ "VTABLE", "class_r_e_1_1hka_default_animation_control.html#a392d98a03a9007d2046fff4208b5c37e", null ]
 ];

@@ -10,5 +10,6 @@ var class_r_e_1_1hk_mopp_bv_tree_shape_base =
     [ "moppData", "class_r_e_1_1hk_mopp_bv_tree_shape_base.html#ab8595dd7cd5495be1623d03b4be343ad", null ],
     [ "moppDataSize", "class_r_e_1_1hk_mopp_bv_tree_shape_base.html#a90a7b164570c4a5fadda65f7c402aea0", null ],
     [ "pad3C", "class_r_e_1_1hk_mopp_bv_tree_shape_base.html#a5805a787e72b259a3e7d96809e4762d8", null ],
-    [ "RTTI", "class_r_e_1_1hk_mopp_bv_tree_shape_base.html#ad138a5e262f2550272cb61eafb50d503", null ]
+    [ "RTTI", "class_r_e_1_1hk_mopp_bv_tree_shape_base.html#ad138a5e262f2550272cb61eafb50d503", null ],
+    [ "VTABLE", "class_r_e_1_1hk_mopp_bv_tree_shape_base.html#aaf4ef63dcb8eb33fd78a2ec289c6c5f5", null ]
 ];

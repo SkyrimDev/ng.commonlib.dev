@@ -2,6 +2,7 @@ var class_r_e_1_1_g_fx_movie_def =
 [
     [ "ImportVisitor", "struct_r_e_1_1_g_fx_movie_def_1_1_import_visitor.html", "struct_r_e_1_1_g_fx_movie_def_1_1_import_visitor" ],
     [ "MemoryContext", "class_r_e_1_1_g_fx_movie_def_1_1_memory_context.html", "class_r_e_1_1_g_fx_movie_def_1_1_memory_context" ],
+    [ "MemoryContextImpl", "class_r_e_1_1_g_fx_movie_def_1_1_memory_context_impl.html", "class_r_e_1_1_g_fx_movie_def_1_1_memory_context_impl" ],
     [ "MemoryParams", "struct_r_e_1_1_g_fx_movie_def_1_1_memory_params.html", "struct_r_e_1_1_g_fx_movie_def_1_1_memory_params" ],
     [ "ResourceVisitor", "struct_r_e_1_1_g_fx_movie_def_1_1_resource_visitor.html", "struct_r_e_1_1_g_fx_movie_def_1_1_resource_visitor" ],
     [ "FileAttrFlags", "class_r_e_1_1_g_fx_movie_def.html#ae699529172df2004a94271f9640ab991", [

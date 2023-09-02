@@ -5,5 +5,6 @@ var class_r_e_1_1hkb_behavior_graph_string_data =
     [ "characterPropertyNames", "class_r_e_1_1hkb_behavior_graph_string_data.html#a641cad9946552497c629c84e18ee8ca6", null ],
     [ "eventNames", "class_r_e_1_1hkb_behavior_graph_string_data.html#a1439c1ff026b8267e987a5ac43b0f83c", null ],
     [ "RTTI", "class_r_e_1_1hkb_behavior_graph_string_data.html#a19ce9441b4d815d5a5e5005d7c9409cd", null ],
-    [ "variableNames", "class_r_e_1_1hkb_behavior_graph_string_data.html#a6c6474a2eb558045d2ed4af033888be5", null ]
+    [ "variableNames", "class_r_e_1_1hkb_behavior_graph_string_data.html#a6c6474a2eb558045d2ed4af033888be5", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_behavior_graph_string_data.html#ab9d1eca1742178622b35cbdf7ca9f93f", null ]
 ];

@@ -7,5 +7,6 @@ var class_r_e_1_1hkp_constraint_instance =
     [ "data", "class_r_e_1_1hkp_constraint_instance.html#a7b796c6140b369614c31bb01e6878fe1", null ],
     [ "entities", "class_r_e_1_1hkp_constraint_instance.html#a2b1d28202e692c473e26a6bff4ad7229", null ],
     [ "owner", "class_r_e_1_1hkp_constraint_instance.html#acfdeec30c6307caf9e48e452633ef65c", null ],
-    [ "RTTI", "class_r_e_1_1hkp_constraint_instance.html#a72124379fd5b586f5ec8c9a69e7ee15a", null ]
+    [ "RTTI", "class_r_e_1_1hkp_constraint_instance.html#a72124379fd5b586f5ec8c9a69e7ee15a", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_constraint_instance.html#a82ff93b177a94f683f8b1359530a7b3c", null ]
 ];

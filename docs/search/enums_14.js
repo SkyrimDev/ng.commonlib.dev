@@ -8,5 +8,6 @@ var searchData=
   ['vertexformat_5',['VertexFormat',['../class_r_e_1_1_g_renderer.html#a98758eb3d2540447f449443208b0a280',1,'RE::GRenderer']]],
   ['visitcontrol_6',['VisitControl',['../class_r_e_1_1_b_g_s_story_manager_tree_visitor.html#a0d760cd415d6837df8e394d6e4e0fa12',1,'RE::BGSStoryManagerTreeVisitor']]],
   ['visitresourcemask_7',['VisitResourceMask',['../class_r_e_1_1_g_fx_movie_def.html#ade3fe3d6a380c014cbad4e7742248e3b',1,'RE::GFxMovieDef']]],
-  ['voice_5fstate_8',['VOICE_STATE',['../namespace_r_e.html#ac5d67c12c861db64e9fa8950d547c547',1,'RE']]]
+  ['vkenum_8',['VKEnum',['../namespace_s_k_s_e_1_1_win_a_p_i.html#a677c645ee7954b731e902a9ff76244ba',1,'SKSE::WinAPI']]],
+  ['voice_5fstate_9',['VOICE_STATE',['../namespace_r_e.html#ac5d67c12c861db64e9fa8950d547c547',1,'RE']]]
 ];

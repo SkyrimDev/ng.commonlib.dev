@@ -30,6 +30,16 @@ var namespace_r_e_l =
     [ "safe_write", "namespace_r_e_l.html#ac0be0f4dd3d72c4b5305629515a5bc08", null ],
     [ "safe_write", "namespace_r_e_l.html#ab2c111ca28523d7e95d7ddac9f1f6f51", null ],
     [ "INT3", "namespace_r_e_l.html#a5d8f45f30b5676debe5122bf3fc4ebbc", null ],
+    [ "JMP32", "namespace_r_e_l.html#afad1b20016e966ca2282927ef9bbeca8", null ],
+    [ "JMP8", "namespace_r_e_l.html#a2588ed24ec39d8be0730f06d067a74db", null ],
     [ "NOP", "namespace_r_e_l.html#a3238f5cdd5721e125ac350e8777944ee", null ],
+    [ "NOP2", "namespace_r_e_l.html#a8c10363fce20cde8931057b07ac0674d", null ],
+    [ "NOP3", "namespace_r_e_l.html#ac99d3a700cce3b798407948ecbc6b7b8", null ],
+    [ "NOP4", "namespace_r_e_l.html#a3edf92419c2d0e19791fa42bfeea7e06", null ],
+    [ "NOP5", "namespace_r_e_l.html#ac4c6b65c36aa73c569b707541f46824a", null ],
+    [ "NOP6", "namespace_r_e_l.html#a1f12b0754a3fc57decafad98b339ebda", null ],
+    [ "NOP7", "namespace_r_e_l.html#afe116e07bcce874869e7cc4cacb2ad28", null ],
+    [ "NOP8", "namespace_r_e_l.html#a6bc1517a23ccb5105bf8b4437e5b3fa8", null ],
+    [ "NOP9", "namespace_r_e_l.html#acf255a5e5577809d27e764bf16813e67", null ],
     [ "RET", "namespace_r_e_l.html#af8acf0e6cd305b532fd1baaf2afc7948", null ]
 ];

@@ -105,5 +105,6 @@ var class_r_e_1_1hkp_world_cinfo =
     [ "treeUpdateType", "class_r_e_1_1hkp_world_cinfo.html#a6a1f2dd4b8b8cdba6d67798dd6a25251", null ],
     [ "useHybridBroadphase", "class_r_e_1_1hkp_world_cinfo.html#a4752cdd0b7605bf743a9a09282851270", null ],
     [ "useKdTree", "class_r_e_1_1hkp_world_cinfo.html#adc2f8c7fe72104f207957717f797585f", null ],
-    [ "useMultipleTree", "class_r_e_1_1hkp_world_cinfo.html#a1c2e45758e6f986296cb52dafecfe58a", null ]
+    [ "useMultipleTree", "class_r_e_1_1hkp_world_cinfo.html#a1c2e45758e6f986296cb52dafecfe58a", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_world_cinfo.html#acb06d96704d55b36c8b6d60e47a3492b", null ]
 ];

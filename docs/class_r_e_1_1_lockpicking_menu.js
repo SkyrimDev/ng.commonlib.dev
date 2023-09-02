@@ -16,5 +16,6 @@ var class_r_e_1_1_lockpicking_menu =
     [ "ProcessMouseMove", "class_r_e_1_1_lockpicking_menu.html#a997abdd77972aeb352c6c8a62aa66ba3", null ],
     [ "ProcessThumbstick", "class_r_e_1_1_lockpicking_menu.html#a0f931536cd28e3cb607bb26d9d56d525", null ],
     [ "MENU_NAME", "class_r_e_1_1_lockpicking_menu.html#a68f2ef4c09b1be6ce0ad39deab9fd295", null ],
-    [ "RTTI", "class_r_e_1_1_lockpicking_menu.html#aebd9339970ef8ced4e4d4e98c1c8746e", null ]
+    [ "RTTI", "class_r_e_1_1_lockpicking_menu.html#aebd9339970ef8ced4e4d4e98c1c8746e", null ],
+    [ "VTABLE", "class_r_e_1_1_lockpicking_menu.html#ae0fd40edec59fc5268075c77527d027d", null ]
 ];

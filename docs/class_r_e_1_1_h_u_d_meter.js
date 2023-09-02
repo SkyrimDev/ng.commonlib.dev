@@ -11,5 +11,6 @@ var class_r_e_1_1_h_u_d_meter =
     [ "pad44", "class_r_e_1_1_h_u_d_meter.html#a34a29eb610c20820b31d901857f15db2", null ],
     [ "RTTI", "class_r_e_1_1_h_u_d_meter.html#ad0162d8bd24935b5985c82fc9d483275", null ],
     [ "setBlinkingName", "class_r_e_1_1_h_u_d_meter.html#a3b1317fa98723420ed1f365eca9d6025", null ],
-    [ "setPctName", "class_r_e_1_1_h_u_d_meter.html#a3e83efe345e6dcd7ef9b40e39ca4f265", null ]
+    [ "setPctName", "class_r_e_1_1_h_u_d_meter.html#a3e83efe345e6dcd7ef9b40e39ca4f265", null ],
+    [ "VTABLE", "class_r_e_1_1_h_u_d_meter.html#a67e36055396ddb8ada24a93c0ed54b01", null ]
 ];

@@ -43,5 +43,6 @@ var class_r_e_1_1_h_u_d_data =
     [ "type", "class_r_e_1_1_h_u_d_data.html#aa82b7bdbe353381a65a277694d6e6f60", null ],
     [ "unk30", "class_r_e_1_1_h_u_d_data.html#afcaa305c36a6a13cc49869476f124366", null ],
     [ "unk38", "class_r_e_1_1_h_u_d_data.html#a8fb798677092d77bd7fa4769d1a022b9", null ],
-    [ "unk40", "class_r_e_1_1_h_u_d_data.html#a75925f3039e20ce00df66ef0cb57d002", null ]
+    [ "unk40", "class_r_e_1_1_h_u_d_data.html#a75925f3039e20ce00df66ef0cb57d002", null ],
+    [ "VTABLE", "class_r_e_1_1_h_u_d_data.html#ab2830705657ff7aa2c3c7abf47eaef22", null ]
 ];

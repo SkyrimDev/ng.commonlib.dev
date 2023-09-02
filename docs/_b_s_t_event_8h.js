@@ -1,6 +1,5 @@
 var _b_s_t_event_8h =
 [
-    [ "RE::BSContainer", "struct_r_e_1_1_b_s_container.html", "struct_r_e_1_1_b_s_container" ],
     [ "RE::BSTEventSource< Event >", "class_r_e_1_1_b_s_t_event_source.html", "class_r_e_1_1_b_s_t_event_source" ],
     [ "RE::BSTEventSink< Event >", "class_r_e_1_1_b_s_t_event_sink.html", "class_r_e_1_1_b_s_t_event_sink" ],
     [ "BSEventNotifyControl", "_b_s_t_event_8h.html#afac395ace98ab9d789334300c69c6648", [

@@ -6,5 +6,6 @@ var class_r_e_1_1hkp_constraint_owner =
     [ "CheckAccessRW", "class_r_e_1_1hkp_constraint_owner.html#a34c68337e46ceae98390bc6955697e6a", null ],
     [ "RemoveConstraintFromCriticalLockedIsland", "class_r_e_1_1hkp_constraint_owner.html#a42851206fd5d2bfd25c9b86374be0507", null ],
     [ "constraintInfo", "class_r_e_1_1hkp_constraint_owner.html#acc197043d96f37ff01514e9ff23f3923", null ],
-    [ "RTTI", "class_r_e_1_1hkp_constraint_owner.html#a7f22873b9fde435f8e56a471de55f23e", null ]
+    [ "RTTI", "class_r_e_1_1hkp_constraint_owner.html#a7f22873b9fde435f8e56a471de55f23e", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_constraint_owner.html#a33c7dbf429786737f98c2f4c19d1b75f", null ]
 ];

@@ -35,7 +35,7 @@ var class_r_e_1_1_combat_inventory_item =
     [ "LoadGame", "class_r_e_1_1_combat_inventory_item.html#acf182c8181d5d428b63ab368a1a3ddf2", null ],
     [ "SaveGame", "class_r_e_1_1_combat_inventory_item.html#a210b441e6ffde972e905dac8e0388702", null ],
     [ "Unequip", "class_r_e_1_1_combat_inventory_item.html#aad9a4eb4053629da7589a5502f2e1c91", null ],
-    [ "item", "class_r_e_1_1_combat_inventory_item.html#a621e09e3fb45414acb4a9989271ee20a", null ],
+    [ "item", "class_r_e_1_1_combat_inventory_item.html#ae15c9e57d8945a17ea418113454dcbcd", null ],
     [ "itemScore", "class_r_e_1_1_combat_inventory_item.html#a5dc7f58d64d19ef48cd3bca83ba2cded", null ],
     [ "itemSlot", "class_r_e_1_1_combat_inventory_item.html#a446e4a843fbcd1e25972ed532307ecc3", null ],
     [ "RTTI", "class_r_e_1_1_combat_inventory_item.html#a48294ec301bde1e81121b356b5cccbbe", null ],

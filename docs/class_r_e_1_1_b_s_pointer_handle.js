@@ -8,7 +8,7 @@ var class_r_e_1_1_b_s_pointer_handle =
     [ "BSPointerHandle", "class_r_e_1_1_b_s_pointer_handle.html#afad592b5fb800d9ccbb5c354178335ae", null ],
     [ "~BSPointerHandle", "class_r_e_1_1_b_s_pointer_handle.html#a70f0ff5ba8f1c25c4b3d2d5afc7274a5", null ],
     [ "get", "class_r_e_1_1_b_s_pointer_handle.html#a2e7fcf4a07bc5753e5dd6a2557923c99", null ],
-    [ "native_handle", "class_r_e_1_1_b_s_pointer_handle.html#aab8a4d2023b4a0c24927bcdc4f7b9ba9", null ],
+    [ "native_handle", "class_r_e_1_1_b_s_pointer_handle.html#a9c2420b373278668ca86e13545d8b15e", null ],
     [ "operator bool", "class_r_e_1_1_b_s_pointer_handle.html#a0d7f456e4fab9900598b29aa9514fa25", null ],
     [ "operator=", "class_r_e_1_1_b_s_pointer_handle.html#ab9ad1d329d9b6f2624c7cda8717d6fb6", null ],
     [ "operator=", "class_r_e_1_1_b_s_pointer_handle.html#ababf28cf084e63566a6fa2fdc4365a82", null ],

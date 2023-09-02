@@ -7,5 +7,6 @@ var struct_r_e_1_1hk_container_heap_allocator_1_1_allocator =
     [ "BufFree", "struct_r_e_1_1hk_container_heap_allocator_1_1_allocator.html#a59dd8fe9f8a765e8e23014d879031f0e", null ],
     [ "GetAllocatedSize", "struct_r_e_1_1hk_container_heap_allocator_1_1_allocator.html#a417f4503d901cfc3ff1a9b84ede74e0e", null ],
     [ "GetMemoryStatistics", "struct_r_e_1_1hk_container_heap_allocator_1_1_allocator.html#a783d930ab1e7d6c78ef7a003206d39de", null ],
-    [ "RTTI", "struct_r_e_1_1hk_container_heap_allocator_1_1_allocator.html#a92de2544be7a8d2da97224b6d72f38cf", null ]
+    [ "RTTI", "struct_r_e_1_1hk_container_heap_allocator_1_1_allocator.html#a92de2544be7a8d2da97224b6d72f38cf", null ],
+    [ "VTABLE", "struct_r_e_1_1hk_container_heap_allocator_1_1_allocator.html#acc0c8b9f156a54f203f2475fac023714", null ]
 ];

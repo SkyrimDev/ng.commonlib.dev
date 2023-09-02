@@ -15,5 +15,6 @@ var class_r_e_1_1hkp_capsule_shape =
     [ "pad2C", "class_r_e_1_1hkp_capsule_shape.html#a2168e145254ef12692a8e2675dd89c98", null ],
     [ "RTTI", "class_r_e_1_1hkp_capsule_shape.html#a5038a3f32de39b2df2122ab3c01e3e0f", null ],
     [ "vertexA", "class_r_e_1_1hkp_capsule_shape.html#a987031e02021cd097232d70b3b1133ec", null ],
-    [ "vertexB", "class_r_e_1_1hkp_capsule_shape.html#a5d8a964b1264419887dc9f77b9332d21", null ]
+    [ "vertexB", "class_r_e_1_1hkp_capsule_shape.html#a5d8a964b1264419887dc9f77b9332d21", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_capsule_shape.html#a0ba899e86768b6f4a03d7ab2e0eb43e1", null ]
 ];

@@ -24,7 +24,7 @@ var class_r_e_1_1_b_s_string_t =
     [ "front", "class_r_e_1_1_b_s_string_t.html#af25343cff7f99b2ca3a43a207fed5f67", null ],
     [ "front", "class_r_e_1_1_b_s_string_t.html#a9c3865fd29037ecf0cb622562b65cac6", null ],
     [ "length", "class_r_e_1_1_b_s_string_t.html#a6f6a7e1fed4fc1534ef325b815bc6d33", null ],
-    [ "operator std::basic_string_view< value_type >", "class_r_e_1_1_b_s_string_t.html#a09c969f5693c1621fe7e2165d0a3508e", null ],
+    [ "operator std::basic_string_view", "class_r_e_1_1_b_s_string_t.html#a8d6b73b8316c5a943938eff6c1f76a87", null ],
     [ "operator=", "class_r_e_1_1_b_s_string_t.html#a1ef4ec5b8bd7745df839b4476953c94e", null ],
     [ "operator=", "class_r_e_1_1_b_s_string_t.html#ad29a7d8bd2c1e33b35e85f3d7ace4f7a", null ],
     [ "operator=", "class_r_e_1_1_b_s_string_t.html#a687b0e4f62f6fb8adb1c764c0dab241b", null ],

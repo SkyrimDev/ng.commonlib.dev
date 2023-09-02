@@ -5,7 +5,7 @@ var _misc_8h =
     [ "DebugMessageBox", "_misc_8h.html#a7b401ac5f6ebf38ec0893946abdb9521", null ],
     [ "DebugNotification", "_misc_8h.html#ac19f479fe04a984b18df9b729675634f", null ],
     [ "GetArmorFinalRating", "_misc_8h.html#a233f8ce12b3769a3a86d51911f8b2a44", null ],
-    [ "GetDurationOfApplicationRunTime", "_misc_8h.html#ae602d5647213f7d6783112b1c0702e90", null ],
+    [ "GetDurationOfApplicationRunTime", "_misc_8h.html#a14d91dfe4bcfdb42a7a73b081a41fcb1", null ],
     [ "GetINISetting", "_misc_8h.html#acf7286fc75691cee32ff191a5a64c1a2", null ],
     [ "GetSecondsSinceLastFrame", "_misc_8h.html#a13f56592f804aad884e142b18183521a", null ],
     [ "LookupReferenceByHandle", "_misc_8h.html#af24d441f4b95ac2b8e4a4a0ffa3c4fd5", null ],

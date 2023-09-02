@@ -7,6 +7,7 @@ var class_r_e_1_1_inventory_entry_data =
     [ "~InventoryEntryData", "class_r_e_1_1_inventory_entry_data.html#ad26e7b8450c8a3e707940f5448cae820", null ],
     [ "AddExtraList", "class_r_e_1_1_inventory_entry_data.html#a381052919bd49258c55f67d92dee4e38", null ],
     [ "GetDisplayName", "class_r_e_1_1_inventory_entry_data.html#a27499afa5a8aa77de3954b9ae42ba218", null ],
+    [ "GetEnchantment", "class_r_e_1_1_inventory_entry_data.html#ae6aca9ff60a9da76b0571c7994d7f578", null ],
     [ "GetEnchantmentCharge", "class_r_e_1_1_inventory_entry_data.html#abaaf3fe0afc2e02f7cfa3f6bf3e03eab", null ],
     [ "GetObject", "class_r_e_1_1_inventory_entry_data.html#a1c6e5068f0cb7ef56d16c8531d6b5f36", null ],
     [ "GetObject", "class_r_e_1_1_inventory_entry_data.html#a849ec98ad7f4b3befb188842c9f42df9", null ],

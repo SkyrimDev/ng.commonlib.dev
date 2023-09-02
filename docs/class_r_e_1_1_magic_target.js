@@ -17,13 +17,16 @@ var class_r_e_1_1_magic_target =
     [ "GetTargetStatsObject", "class_r_e_1_1_magic_target.html#a10e73db567b99142776928dff599f511", null ],
     [ "HasEffectWithArchetype", "class_r_e_1_1_magic_target.html#a82080508c31ca32c913027469ca4d024", null ],
     [ "HasMagicEffect", "class_r_e_1_1_magic_target.html#a1f9e8e2c04fa90e9fdcdd4b0734bd4e2", null ],
+    [ "HasMagicEffectWithKeyword", "class_r_e_1_1_magic_target.html#aaa6042777be736e29866974eed0d04e5", null ],
     [ "InvalidateCommandedActorEffect", "class_r_e_1_1_magic_target.html#a4e858069bc1716e5ab0f8a615f930e7f", null ],
     [ "IsInvulnerable", "class_r_e_1_1_magic_target.html#a8aa55102e626707d223260af150071d2", null ],
     [ "MagicTargetIsActor", "class_r_e_1_1_magic_target.html#ab4c7cb3ffaefb165aba17f31ffebe21a", null ],
+    [ "VisitEffects", "class_r_e_1_1_magic_target.html#a53d49ca24bd409b6a1bd26bb922f7644", null ],
     [ "flags", "class_r_e_1_1_magic_target.html#ab851a45d0f03034a20cd56f47d2c66e9", null ],
     [ "pad11", "class_r_e_1_1_magic_target.html#a6d45e4cf5988c5a4605372ec9068374b", null ],
     [ "pad12", "class_r_e_1_1_magic_target.html#a449bb91601286e23daaeab23f729adaf", null ],
     [ "pad14", "class_r_e_1_1_magic_target.html#ab6b4a1e3533654ef71e5918da8204c4a", null ],
     [ "postUpdateDispelList", "class_r_e_1_1_magic_target.html#a05609052733f37e0bc81e48a295894ec", null ],
-    [ "RTTI", "class_r_e_1_1_magic_target.html#aea4478fd8e85ea35234b1bb84acd107a", null ]
+    [ "RTTI", "class_r_e_1_1_magic_target.html#aea4478fd8e85ea35234b1bb84acd107a", null ],
+    [ "VTABLE", "class_r_e_1_1_magic_target.html#ab8566816eadcf8c0db9ceaba58568035", null ]
 ];

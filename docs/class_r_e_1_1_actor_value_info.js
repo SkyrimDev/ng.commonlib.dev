@@ -12,6 +12,7 @@ var class_r_e_1_1_actor_value_info =
     [ "flags", "class_r_e_1_1_actor_value_info.html#a6c54376477bce005359f5b75a6c0f574", null ],
     [ "FORMTYPE", "class_r_e_1_1_actor_value_info.html#ade6b02c305861267b8154f11a4602501", null ],
     [ "perkTree", "class_r_e_1_1_actor_value_info.html#a5cc6a4feda5562036d4f05a0973db575", null ],
+    [ "perkTreeWidth", "class_r_e_1_1_actor_value_info.html#a811672233068ae3c549b561d4c9bca24", null ],
     [ "RTTI", "class_r_e_1_1_actor_value_info.html#a7d43427358553713a8c404aae1618822", null ],
     [ "skill", "class_r_e_1_1_actor_value_info.html#a46a6f29fe7467428cfb7f3656ea7454c", null ],
     [ "unk064", "class_r_e_1_1_actor_value_info.html#af8bb7ab03029c56eb1623e6fb9127848", null ],
@@ -45,7 +46,6 @@ var class_r_e_1_1_actor_value_info =
     [ "unk100", "class_r_e_1_1_actor_value_info.html#a5b5caf7462a29727043d2cf6b372d14a", null ],
     [ "unk110", "class_r_e_1_1_actor_value_info.html#ac3ed58d65b5dc495870937426b0f2297", null ],
     [ "unk114", "class_r_e_1_1_actor_value_info.html#a38d207b40a01a6d37102e9b44f831099", null ],
-    [ "unk120", "class_r_e_1_1_actor_value_info.html#a2ed05aeb9548d2e58c3e4b03703dcd08", null ],
     [ "unk124", "class_r_e_1_1_actor_value_info.html#ab97018090fb8b1825407281496d61d61", null ],
     [ "VTABLE", "class_r_e_1_1_actor_value_info.html#ad4d21673cdb5624eb0db2683d752a52d", null ]
 ];

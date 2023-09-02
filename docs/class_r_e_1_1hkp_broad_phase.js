@@ -55,5 +55,6 @@ var class_r_e_1_1hkp_broad_phase =
     [ "pad24", "class_r_e_1_1hkp_broad_phase.html#a0dfa4d3628a68af31dfcfe3e1409aafd", null ],
     [ "RTTI", "class_r_e_1_1hkp_broad_phase.html#a54d9bf32d70daf14e06cb9c16b186459", null ],
     [ "size", "class_r_e_1_1hkp_broad_phase.html#a9abc331c4c729f6364439b6807e3b3a9", null ],
-    [ "type", "class_r_e_1_1hkp_broad_phase.html#a362a8e1e7868e730b1c2c677cea972e1", null ]
+    [ "type", "class_r_e_1_1hkp_broad_phase.html#a362a8e1e7868e730b1c2c677cea972e1", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_broad_phase.html#a00e134943837003fbd6d5608f682a440", null ]
 ];

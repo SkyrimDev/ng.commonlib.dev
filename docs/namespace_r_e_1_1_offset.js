@@ -37,6 +37,13 @@ var namespace_r_e_1_1_offset =
       [ "Save", "namespace_r_e_1_1_offset_1_1_b_g_s_save_load_manager.html#a275008577ac3b44aff723bcd8668a165", null ],
       [ "Singleton", "namespace_r_e_1_1_offset_1_1_b_g_s_save_load_manager.html#ae61fdea645bb995c4705985c87a44fb1", null ]
     ] ],
+    [ "BGSSkillPerkTreeNode", "namespace_r_e_1_1_offset_1_1_b_g_s_skill_perk_tree_node.html", [
+      [ "Ctor", "namespace_r_e_1_1_offset_1_1_b_g_s_skill_perk_tree_node.html#ace4472c8b3cd50211eb28e22016180b3", null ]
+    ] ],
+    [ "BGSStoryEventManager", "namespace_r_e_1_1_offset_1_1_b_g_s_story_event_manager.html", [
+      [ "AddEvent", "namespace_r_e_1_1_offset_1_1_b_g_s_story_event_manager.html#a20fa45e6f7c5b2deebd4e47388025c88", null ],
+      [ "GetSingleton", "namespace_r_e_1_1_offset_1_1_b_g_s_story_event_manager.html#a90e0d1e9de7dbb77e0ca3be6d0b2df0e", null ]
+    ] ],
     [ "BGSStoryTeller", "namespace_r_e_1_1_offset_1_1_b_g_s_story_teller.html", [
       [ "BeginShutDownQuest", "namespace_r_e_1_1_offset_1_1_b_g_s_story_teller.html#ae30cfdbaab78e54fa67ad1b8520115f5", null ],
       [ "BeginStartUpQuest", "namespace_r_e_1_1_offset_1_1_b_g_s_story_teller.html#a57f1fe39e0d8d57b3c96734b1e5016dc", null ],
@@ -67,6 +74,9 @@ var namespace_r_e_1_1_offset =
       [ "Dtor", "namespace_r_e_1_1_offset_1_1_b_s_resource_ni_binary_stream.html#a9e61d5661092ca5752518e894e107dd6", null ],
       [ "Seek", "namespace_r_e_1_1_offset_1_1_b_s_resource_ni_binary_stream.html#a460949e6a03a652c96447319624c5da0", null ],
       [ "SetEndianSwap", "namespace_r_e_1_1_offset_1_1_b_s_resource_ni_binary_stream.html#ac8c8ad0a67ca749d89bb2338506fdc7a", null ]
+    ] ],
+    [ "BSScaleformTranslator", "namespace_r_e_1_1_offset_1_1_b_s_scaleform_translator.html", [
+      [ "GetCachedString", "namespace_r_e_1_1_offset_1_1_b_s_scaleform_translator.html#acfb3a5f759614bba97d19f4ff0331da5", null ]
     ] ],
     [ "BSScript", "namespace_r_e_1_1_offset_1_1_b_s_script.html", "namespace_r_e_1_1_offset_1_1_b_s_script" ],
     [ "BSSoundHandle", "namespace_r_e_1_1_offset_1_1_b_s_sound_handle.html", [
@@ -99,6 +109,7 @@ var namespace_r_e_1_1_offset =
     [ "ControlMap", "namespace_r_e_1_1_offset_1_1_control_map.html", [
       [ "Singleton", "namespace_r_e_1_1_offset_1_1_control_map.html#a39ce7c906d3dd4ba98d4fd960ae62bf2", null ]
     ] ],
+    [ "CraftingSubMenus", "namespace_r_e_1_1_offset_1_1_crafting_sub_menus.html", "namespace_r_e_1_1_offset_1_1_crafting_sub_menus" ],
     [ "CRC32Calculator", "namespace_r_e_1_1_offset_1_1_c_r_c32_calculator.html", [
       [ "SizeOf32", "namespace_r_e_1_1_offset_1_1_c_r_c32_calculator.html#a3df7d8179bb4c025fa5f9cd01dcc3830", null ],
       [ "SizeOf64", "namespace_r_e_1_1_offset_1_1_c_r_c32_calculator.html#a8f1956f551ee684c306c5f10ca81b247", null ],
@@ -106,17 +117,45 @@ var namespace_r_e_1_1_offset =
     ] ],
     [ "ExtraDataList", "namespace_r_e_1_1_offset_1_1_extra_data_list.html", [
       [ "Add", "namespace_r_e_1_1_offset_1_1_extra_data_list.html#a5f504ccc8f6025d73fceba414b65b251", null ],
+      [ "SetCount", "namespace_r_e_1_1_offset_1_1_extra_data_list.html#a911c52a6ac01d46c65a703ecef41c9eb", null ],
       [ "SetExtraFlags", "namespace_r_e_1_1_offset_1_1_extra_data_list.html#a36aeeb00777b177a2ebc899e5c31a4c3", null ],
       [ "SetInventoryChanges", "namespace_r_e_1_1_offset_1_1_extra_data_list.html#ac80e064ede28f8e1b21bebde18b17c2d", null ]
     ] ],
     [ "GameSettingCollection", "namespace_r_e_1_1_offset_1_1_game_setting_collection.html", [
       [ "Singleton", "namespace_r_e_1_1_offset_1_1_game_setting_collection.html#a9bed7c6d93ebb41bfccbc9df580bcd91", null ]
     ] ],
+    [ "GASActionBufferData", "namespace_r_e_1_1_offset_1_1_g_a_s_action_buffer_data.html", [
+      [ "Vtbl", "namespace_r_e_1_1_offset_1_1_g_a_s_action_buffer_data.html#a978feca32badb117d0ff77eec5d3f806", null ]
+    ] ],
+    [ "GASDoAction", "namespace_r_e_1_1_offset_1_1_g_a_s_do_action.html", [
+      [ "Vtbl", "namespace_r_e_1_1_offset_1_1_g_a_s_do_action.html#a5baaf9b24a41b9e375d3377bc514d6d4", null ]
+    ] ],
+    [ "GASDoInitAction", "namespace_r_e_1_1_offset_1_1_g_a_s_do_init_action.html", [
+      [ "Vtbl", "namespace_r_e_1_1_offset_1_1_g_a_s_do_init_action.html#a6b97994302a4c42a7acd8ac877a3358c", null ]
+    ] ],
+    [ "GFxInitImportActions", "namespace_r_e_1_1_offset_1_1_g_fx_init_import_actions.html", [
+      [ "Vtbl", "namespace_r_e_1_1_offset_1_1_g_fx_init_import_actions.html#a32bde89fb81c6091cf7acf203dad7a7e", null ]
+    ] ],
     [ "GFxLoader", "namespace_r_e_1_1_offset_1_1_g_fx_loader.html", [
       [ "CreateMovie", "namespace_r_e_1_1_offset_1_1_g_fx_loader.html#a2e9cc9f4176d3663e38ea278d395f3f9", null ]
     ] ],
     [ "GFxMovieView", "namespace_r_e_1_1_offset_1_1_g_fx_movie_view.html", [
       [ "InvokeNoReturn", "namespace_r_e_1_1_offset_1_1_g_fx_movie_view.html#a355f5aca90fe17fe00b021414d043a97", null ]
+    ] ],
+    [ "GFxPlaceObject2", "namespace_r_e_1_1_offset_1_1_g_fx_place_object2.html", [
+      [ "Vtbl", "namespace_r_e_1_1_offset_1_1_g_fx_place_object2.html#a17267f21b9d7161afe7ae6cc581d6f26", null ]
+    ] ],
+    [ "GFxPlaceObject3", "namespace_r_e_1_1_offset_1_1_g_fx_place_object3.html", [
+      [ "Vtbl", "namespace_r_e_1_1_offset_1_1_g_fx_place_object3.html#a31bc7b3da42c3d6d74546b5200c2bda6", null ]
+    ] ],
+    [ "GFxRemoveObject", "namespace_r_e_1_1_offset_1_1_g_fx_remove_object.html", [
+      [ "Vtbl", "namespace_r_e_1_1_offset_1_1_g_fx_remove_object.html#aa614c86a5f6e5b27b27438cd1b6aad81", null ]
+    ] ],
+    [ "GFxRemoveObject2", "namespace_r_e_1_1_offset_1_1_g_fx_remove_object2.html", [
+      [ "Vtbl", "namespace_r_e_1_1_offset_1_1_g_fx_remove_object2.html#a792590fb362482888e97832d6c62514c", null ]
+    ] ],
+    [ "GFxSetBackgroundColor", "namespace_r_e_1_1_offset_1_1_g_fx_set_background_color.html", [
+      [ "Vtbl", "namespace_r_e_1_1_offset_1_1_g_fx_set_background_color.html#a3057b1044fc454b7092081b5a74b4586", null ]
     ] ],
     [ "GFxValue", "namespace_r_e_1_1_offset_1_1_g_fx_value.html", "namespace_r_e_1_1_offset_1_1_g_fx_value" ],
     [ "GMemory", "namespace_r_e_1_1_offset_1_1_g_memory.html", [
@@ -189,6 +228,9 @@ var namespace_r_e_1_1_offset =
     [ "NiNode", "namespace_r_e_1_1_offset_1_1_ni_node.html", [
       [ "Ctor", "namespace_r_e_1_1_offset_1_1_ni_node.html#ad5ef721485ccf3c2c1c1f386b2282555", null ]
     ] ],
+    [ "NiPoint3", "namespace_r_e_1_1_offset_1_1_ni_point3.html", [
+      [ "Zero", "namespace_r_e_1_1_offset_1_1_ni_point3.html#ab3875b5f1f564ba93b495ea26f450b15", null ]
+    ] ],
     [ "NiRefObject", "namespace_r_e_1_1_offset_1_1_ni_ref_object.html", [
       [ "TotalObjectCount", "namespace_r_e_1_1_offset_1_1_ni_ref_object.html#a15892ad010c7afcbe526ef110607f6d5", null ]
     ] ],
@@ -203,6 +245,12 @@ var namespace_r_e_1_1_offset =
     [ "PlayerControls", "namespace_r_e_1_1_offset_1_1_player_controls.html", [
       [ "Ctor", "namespace_r_e_1_1_offset_1_1_player_controls.html#a5dca63adb29f2b1b1408b89d4b098191", null ],
       [ "Singleton", "namespace_r_e_1_1_offset_1_1_player_controls.html#ad23acedb56cd4defdbb9a9733aaf6c09", null ]
+    ] ],
+    [ "RaceSexMenu", "namespace_r_e_1_1_offset_1_1_race_sex_menu.html", [
+      [ "ChangeName", "namespace_r_e_1_1_offset_1_1_race_sex_menu.html#a7377b70a1b9fb36f8fa2d4fb3744f94b", null ]
+    ] ],
+    [ "ReferenceEffectController", "namespace_r_e_1_1_offset_1_1_reference_effect_controller.html", [
+      [ "Start", "namespace_r_e_1_1_offset_1_1_reference_effect_controller.html#aa2ad3557c92ffc662d4abfcf09d97d2e", null ]
     ] ],
     [ "Script", "namespace_r_e_1_1_offset_1_1_script.html", [
       [ "CompileAndRun", "namespace_r_e_1_1_offset_1_1_script.html#adcb9fa227097c028d3915976b1582f80", null ],
@@ -289,6 +337,7 @@ var namespace_r_e_1_1_offset =
     ] ],
     [ "CreateRefHandle", "namespace_r_e_1_1_offset.html#a16bd58bfa4554b4b9fcaef19d1a1a5f0", null ],
     [ "DebugNotification", "namespace_r_e_1_1_offset.html#a07f350379d82bcfc185cda4e68562c16", null ],
+    [ "GlobalStateCounter", "namespace_r_e_1_1_offset.html#af660f20aaac90ca4d69b603521138030", null ],
     [ "LookupReferenceByHandle", "namespace_r_e_1_1_offset.html#a8ea13b9ae9c50bc895a93c540141675f", null ],
     [ "PlaySound", "namespace_r_e_1_1_offset.html#a32f4544272b2de414f35666336458e2c", null ],
     [ "TlsIndex", "namespace_r_e_1_1_offset.html#a8b933c37b2413fcdf7bd55e516e1bb0e", null ]

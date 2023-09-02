@@ -2,8 +2,8 @@ var class_r_e_1_1_reanimate_effect =
 [
     [ "~ReanimateEffect", "class_r_e_1_1_reanimate_effect.html#a9b3742787c5ae459451fb8c42d2881ff", null ],
     [ "Finish", "class_r_e_1_1_reanimate_effect.html#a73eb2aa7601ac6c7acd30f6581fbb7d5", null ],
-    [ "LoadGame", "class_r_e_1_1_reanimate_effect.html#a25bedece2661b45669acfe8ae6d6b93a", null ],
-    [ "SaveGame", "class_r_e_1_1_reanimate_effect.html#a0fe41c40854c5a1d4015682d1af72931", null ],
+    [ "LoadGame", "class_r_e_1_1_reanimate_effect.html#a8e0b0a63c34912c6a3aee734e58fad45", null ],
+    [ "SaveGame", "class_r_e_1_1_reanimate_effect.html#a68fd99d88d831152e050783b4165716b", null ],
     [ "ShouldDispelOnDeath", "class_r_e_1_1_reanimate_effect.html#a998b3c9f088f3c4d990ee92387e735c2", null ],
     [ "Start", "class_r_e_1_1_reanimate_effect.html#ad8fb45d5d3a6a1c5cd90936232285b94", null ],
     [ "Update", "class_r_e_1_1_reanimate_effect.html#a13d52e7c705bf2e9b64a459d06548354", null ],

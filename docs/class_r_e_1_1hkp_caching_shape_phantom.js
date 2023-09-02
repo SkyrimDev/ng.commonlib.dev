@@ -23,5 +23,6 @@ var class_r_e_1_1hkp_caching_shape_phantom =
     [ "pad1B2", "class_r_e_1_1hkp_caching_shape_phantom.html#aa33d2af6de068d626859ae590479e76c", null ],
     [ "pad1B4", "class_r_e_1_1hkp_caching_shape_phantom.html#a7b4d286dd7513c11982b27260f360c88", null ],
     [ "pad1B8", "class_r_e_1_1hkp_caching_shape_phantom.html#a3ab6e201c52f2a52c94f0e0142fc6e61", null ],
-    [ "RTTI", "class_r_e_1_1hkp_caching_shape_phantom.html#a352458a89283a7fe0558cfa007962fc9", null ]
+    [ "RTTI", "class_r_e_1_1hkp_caching_shape_phantom.html#a352458a89283a7fe0558cfa007962fc9", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_caching_shape_phantom.html#a4d1495f9a13b414713e6ada817927767", null ]
 ];

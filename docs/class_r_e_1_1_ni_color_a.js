@@ -4,6 +4,7 @@ var class_r_e_1_1_ni_color_a =
     [ "NiColorA", "class_r_e_1_1_ni_color_a.html#ac0031d8279751ca2648bf98f4a1bca73", null ],
     [ "NiColorA", "class_r_e_1_1_ni_color_a.html#a92f23e2826bee424404fe74d063fc716", null ],
     [ "NiColorA", "class_r_e_1_1_ni_color_a.html#ad2c6b3a9ee13ca64a1ae167f7311394a", null ],
+    [ "NiColorA", "class_r_e_1_1_ni_color_a.html#ae857eca8ad0216e929e87bed19ce86aa", null ],
     [ "~NiColorA", "class_r_e_1_1_ni_color_a.html#a252a02ed04be5695f2ba42cbba337a03", null ],
     [ "operator*", "class_r_e_1_1_ni_color_a.html#af3ea37a54ec2785b20afb1aaed2642f0", null ],
     [ "operator*=", "class_r_e_1_1_ni_color_a.html#a0dd6d81d4e46962e1c73df462a61b190", null ],

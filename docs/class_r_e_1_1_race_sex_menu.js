@@ -7,6 +7,7 @@ var class_r_e_1_1_race_sex_menu =
     [ "AsMenuEventHandler", "class_r_e_1_1_race_sex_menu.html#a019ca00b84c48ceb7725b080143db302", null ],
     [ "AsMenuEventHandler", "class_r_e_1_1_race_sex_menu.html#ab1d0f63d67469a0f5be3d9382046dde0", null ],
     [ "CanProcess", "class_r_e_1_1_race_sex_menu.html#a40c0a9cd62f1f9c2dbe1356fb85643a3", null ],
+    [ "ChangeName", "class_r_e_1_1_race_sex_menu.html#ad9f46901ea069a21a739342c908dc4a4", null ],
     [ "GetRuntimeData", "class_r_e_1_1_race_sex_menu.html#abd6ff0be59219693129d39604474b8ce", null ],
     [ "GetRuntimeData", "class_r_e_1_1_race_sex_menu.html#a7d1bdee715856453a29b8d493356a9a2", null ],
     [ "PostCreate", "class_r_e_1_1_race_sex_menu.html#a23170d2061c7350f2f1a40ed75b51384", null ],

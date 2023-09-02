@@ -10,5 +10,6 @@ var class_r_e_1_1hkb_behavior_graph_data =
     [ "unk68", "class_r_e_1_1hkb_behavior_graph_data.html#a64ac511f12b93ed530c8cd0be8bb6122", null ],
     [ "variableBounds", "class_r_e_1_1hkb_behavior_graph_data.html#ab40d8c45beff092b0d65f0c2697225b6", null ],
     [ "variableInfos", "class_r_e_1_1hkb_behavior_graph_data.html#ac0b2ddf7095a84e0bd71bd7665fe2012", null ],
-    [ "variableInitialValues", "class_r_e_1_1hkb_behavior_graph_data.html#a04b972b605d8c09af80e6baaeaa9c2ce", null ]
+    [ "variableInitialValues", "class_r_e_1_1hkb_behavior_graph_data.html#a04b972b605d8c09af80e6baaeaa9c2ce", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_behavior_graph_data.html#a8263449b813a97d7ace5cb7a9e0b7083", null ]
 ];

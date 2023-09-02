@@ -15,5 +15,6 @@ var class_r_e_1_1_skyrim_script_1_1_handle_policy =
     [ "RTTI", "class_r_e_1_1_skyrim_script_1_1_handle_policy.html#a66abcab7d08dfb2b6f3ced01c6cf164a", null ],
     [ "unk08", "class_r_e_1_1_skyrim_script_1_1_handle_policy.html#a75dbca68adeb410df09c2fd6ee251656", null ],
     [ "unk10", "class_r_e_1_1_skyrim_script_1_1_handle_policy.html#afe4f317588f6469e654c8495c722de1f", null ],
-    [ "unk40", "class_r_e_1_1_skyrim_script_1_1_handle_policy.html#a4463de16eb9c03e92cbb869d0470f785", null ]
+    [ "unk40", "class_r_e_1_1_skyrim_script_1_1_handle_policy.html#a4463de16eb9c03e92cbb869d0470f785", null ],
+    [ "VTABLE", "class_r_e_1_1_skyrim_script_1_1_handle_policy.html#aa1f561528725505206ad350a24902014", null ]
 ];

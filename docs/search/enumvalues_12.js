@@ -7,6 +7,7 @@ var searchData=
   ['tlod_4',['TLOD',['../namespace_r_e.html#a5910781a8c2570b85386c4111dcfe4eeac338940939a6e424607c64370792d3d9',1,'RE']]],
   ['tls_5',['tls',['../class_r_e_l_1_1_segment.html#a412a9da8f3683601948cdfe1136d5b28a455d307e8b463dce2c050d59896bb140',1,'REL::Segment']]],
   ['toft_6',['TOFT',['../namespace_r_e.html#a5910781a8c2570b85386c4111dcfe4eea9c2f4eff97c05e9a1ff4d3b0dbc69ba9',1,'RE']]],
-  ['total_7',['total',['../class_r_e_l_1_1_segment.html#a412a9da8f3683601948cdfe1136d5b28aaa58fdd72d36095045930b52fddeffd5',1,'REL::Segment']]],
-  ['tree_8',['Tree',['../namespace_r_e.html#a5910781a8c2570b85386c4111dcfe4eea3b0c14770e6bd663518496da60f524da',1,'RE']]]
+  ['total_7',['Total',['../class_r_e_1_1_image_space_manager.html#a63cfa09e979244d0fa6757953f4ba7a2a620d2155414795d03262a5e79b03b19f',1,'RE::ImageSpaceManager']]],
+  ['total_8',['total',['../class_r_e_l_1_1_segment.html#a412a9da8f3683601948cdfe1136d5b28aaa58fdd72d36095045930b52fddeffd5',1,'REL::Segment']]],
+  ['tree_9',['Tree',['../namespace_r_e.html#a5910781a8c2570b85386c4111dcfe4eea3b0c14770e6bd663518496da60f524da',1,'RE']]]
 ];

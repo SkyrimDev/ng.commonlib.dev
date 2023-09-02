@@ -21,12 +21,13 @@ var searchData=
   ['breadcrumb_5fstate_18',['BREADCRUMB_STATE',['../namespace_r_e.html#a53d39d0afd61ec981e5bc9dcde0db428',1,'RE']]],
   ['breakinfoflags_19',['BreakInfoFlags',['../class_r_e_1_1_g_fx_w_w_helper.html#a20754ced6fd130118f6a612ccee7b896',1,'RE::GFxWWHelper']]],
   ['broadphaseborderbehaviour_20',['BroadPhaseBorderBehaviour',['../class_r_e_1_1hkp_world_cinfo.html#ad653d0cae6ade1b6ed9c56d605343432',1,'RE::hkpWorldCinfo']]],
-  ['broadphasetype_21',['BroadPhaseType',['../class_r_e_1_1hkp_broad_phase.html#a17f1c65e90000f627fce7dba9239e525',1,'RE::hkpBroadPhase::BroadPhaseType()'],['../class_r_e_1_1hkp_world_object.html#a641bc73a86cf2b2540ee9420ac05260d',1,'RE::hkpWorldObject::BroadPhaseType()']]],
+  ['broadphasetype_21',['BroadPhaseType',['../class_r_e_1_1hkp_broad_phase.html#a17f1c65e90000f627fce7dba9239e525',1,'RE::hkpBroadPhase::BroadPhaseType'],['../class_r_e_1_1hkp_world_object.html#a641bc73a86cf2b2540ee9420ac05260d',1,'RE::hkpWorldObject::BroadPhaseType']]],
   ['bscpcullingtype_22',['BSCPCullingType',['../class_r_e_1_1_b_s_culling_process.html#a64c5907edc9ba52cc0c9026808710efb',1,'RE::BSCullingProcess']]],
   ['bseventnotifycontrol_23',['BSEventNotifyControl',['../namespace_r_e.html#afac395ace98ab9d789334300c69c6648',1,'RE']]],
-  ['bsvisitcontrol_24',['BSVisitControl',['../namespace_r_e_1_1_b_s_visit.html#ad264c11ace6f164605748cd5063c5661',1,'RE::BSVisit']]],
-  ['buildtype_25',['BuildType',['../class_r_e_1_1hkp_mopp_code.html#a26b84e2045c356efcbb676773791b0ee',1,'RE::hkpMoppCode']]],
-  ['bump_5ftype_26',['BUMP_TYPE',['../struct_r_e_1_1_high_process_data.html#a0b090ff60671437dc8dd851cdba836fd',1,'RE::HighProcessData']]],
-  ['bvtreetype_27',['BvTreeType',['../class_r_e_1_1hkp_bv_tree_shape.html#a2918a8a7fd9d848b08b9f6290810f6c2',1,'RE::hkpBvTreeShape']]],
-  ['bychargenflag_28',['ByCharGenFlag',['../class_r_e_1_1_player_character.html#a28ee0394d07829423e4300f4f6873049',1,'RE::PlayerCharacter']]]
+  ['bsshadertimermode_24',['BSShaderTimerMode',['../class_r_e_1_1_b_s_shader_manager.html#a975cfee69734fa072dbc664975dbf460',1,'RE::BSShaderManager']]],
+  ['bsvisitcontrol_25',['BSVisitControl',['../namespace_r_e_1_1_b_s_visit.html#ad264c11ace6f164605748cd5063c5661',1,'RE::BSVisit']]],
+  ['buildtype_26',['BuildType',['../class_r_e_1_1hkp_mopp_code.html#a26b84e2045c356efcbb676773791b0ee',1,'RE::hkpMoppCode']]],
+  ['bump_5ftype_27',['BUMP_TYPE',['../struct_r_e_1_1_high_process_data.html#a0b090ff60671437dc8dd851cdba836fd',1,'RE::HighProcessData']]],
+  ['bvtreetype_28',['BvTreeType',['../class_r_e_1_1hkp_bv_tree_shape.html#a2918a8a7fd9d848b08b9f6290810f6c2',1,'RE::hkpBvTreeShape']]],
+  ['bychargenflag_29',['ByCharGenFlag',['../class_r_e_1_1_player_character.html#a28ee0394d07829423e4300f4f6873049',1,'RE::PlayerCharacter']]]
 ];

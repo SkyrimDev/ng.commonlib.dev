@@ -12,6 +12,7 @@ var class_r_e_1_1_ni_controller_sequence =
       [ "kMorphSource", "class_r_e_1_1_ni_controller_sequence.html#a6db037a992120d92f338b84b813540c9a692023ff73034c48bb576fd22e4bead4", null ]
     ] ],
     [ "~NiControllerSequence", "class_r_e_1_1_ni_controller_sequence.html#ac57019dd9164941b3dcf4e8f520a1b18", null ],
+    [ "Activate", "class_r_e_1_1_ni_controller_sequence.html#ab976930375ccc947fc69b2caba11abdd", null ],
     [ "Animating", "class_r_e_1_1_ni_controller_sequence.html#ae67af3db3e29843119e98cf4e914d682", null ],
     [ "CreateClone", "class_r_e_1_1_ni_controller_sequence.html#aef057fe58b74587ad1a8cfe382761a56", null ],
     [ "Deactivate", "class_r_e_1_1_ni_controller_sequence.html#a7eeb27e33c33784d1c66b70ce57ca3cc", null ],
@@ -24,6 +25,7 @@ var class_r_e_1_1_ni_controller_sequence =
     [ "ProcessClone", "class_r_e_1_1_ni_controller_sequence.html#a1fea9f7a68f971ed73f648abc410a2f2", null ],
     [ "RegisterStreamables", "class_r_e_1_1_ni_controller_sequence.html#a14c03aa385643a6de595dd4916fad989", null ],
     [ "SaveBinary", "class_r_e_1_1_ni_controller_sequence.html#a2fdd0e370c6d1b7f792b7c6b954cc559", null ],
+    [ "SetPhase", "class_r_e_1_1_ni_controller_sequence.html#ad5460dd1e8df79dcaaf237b2b59f6fe0", null ],
     [ "accumRoot", "class_r_e_1_1_ni_controller_sequence.html#ade473acabf7f679c503d7db4b2e516a4", null ],
     [ "accumRootName", "class_r_e_1_1_ni_controller_sequence.html#a791effd49dca7e5f025b7dd790adbde0", null ],
     [ "animNotes", "class_r_e_1_1_ni_controller_sequence.html#ad5c76e56c329b9056f41e8275afe6224", null ],

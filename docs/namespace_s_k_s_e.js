@@ -2,6 +2,14 @@ var namespace_s_k_s_e =
 [
     [ "detail", "namespace_s_k_s_e_1_1detail.html", "namespace_s_k_s_e_1_1detail" ],
     [ "Impl", "namespace_s_k_s_e_1_1_impl.html", "namespace_s_k_s_e_1_1_impl" ],
+    [ "InputMap", "namespace_s_k_s_e_1_1_input_map.html", [
+      [ "GamepadKeycodeToMask", "namespace_s_k_s_e_1_1_input_map.html#a9da59c699dd2e2bb96bc513d6ccdabcb", null ],
+      [ "GamepadMaskToKeycode", "namespace_s_k_s_e_1_1_input_map.html#a0711d34828345793534e0084eba75871", null ],
+      [ "GetGamepadButtonName", "namespace_s_k_s_e_1_1_input_map.html#a05bb143eb8a0a569f24a9a470aa674d5", null ],
+      [ "GetKeyboardKeyName", "namespace_s_k_s_e_1_1_input_map.html#a6b4eb71594fa8d0cba2a52f8cab5ca9a", null ],
+      [ "GetKeyName", "namespace_s_k_s_e_1_1_input_map.html#a8fb52b94de01518fe97f05786ad021c5", null ],
+      [ "GetMouseButtonName", "namespace_s_k_s_e_1_1_input_map.html#a7d58a16f28c4a36e78b0fabfeb6f4c4f", null ]
+    ] ],
     [ "log", "namespace_s_k_s_e_1_1log.html", [
       [ "add_papyrus_sink", "namespace_s_k_s_e_1_1log.html#ab971e448a9aecdfe3ae12e6a6b1fe175", null ],
       [ "log_directory", "namespace_s_k_s_e_1_1log.html#ac52aacfd9ce3369d9d2cb2e2baa446b3", null ],
@@ -14,6 +22,10 @@ var namespace_s_k_s_e =
       [ "SKSE_MAKE_SOURCE_LOGGER", "namespace_s_k_s_e_1_1log.html#a4d497c222012357a38d6ed6d8b4c0c8d", null ]
     ] ],
     [ "stl", "namespace_s_k_s_e_1_1stl.html", "namespace_s_k_s_e_1_1stl" ],
+    [ "Translation", "namespace_s_k_s_e_1_1_translation.html", [
+      [ "ParseTranslation", "namespace_s_k_s_e_1_1_translation.html#a7955cfaa8b038eae8fbefe49ad68e787", null ],
+      [ "Translate", "namespace_s_k_s_e_1_1_translation.html#a58ac797aa1942c242374a558082653cf", null ]
+    ] ],
     [ "WinAPI", "namespace_s_k_s_e_1_1_win_a_p_i.html", "namespace_s_k_s_e_1_1_win_a_p_i" ],
     [ "ActionEvent", "struct_s_k_s_e_1_1_action_event.html", "struct_s_k_s_e_1_1_action_event" ],
     [ "CameraEvent", "struct_s_k_s_e_1_1_camera_event.html", "struct_s_k_s_e_1_1_camera_event" ],

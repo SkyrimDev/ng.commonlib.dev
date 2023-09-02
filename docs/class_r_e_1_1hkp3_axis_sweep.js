@@ -54,5 +54,6 @@ var class_r_e_1_1hkp3_axis_sweep =
     [ "pad108", "class_r_e_1_1hkp3_axis_sweep.html#aced8ba178e7f977c296f4764ae523fce", null ],
     [ "RTTI", "class_r_e_1_1hkp3_axis_sweep.html#a6b95b5caa749f6f02c751ba66bc43f33", null ],
     [ "scale", "class_r_e_1_1hkp3_axis_sweep.html#a2c8b7681f38d7cbd308a7dcbde826a4a", null ],
-    [ "scale32bit", "class_r_e_1_1hkp3_axis_sweep.html#a2a55353f2419717b155e1d7c1630112f", null ]
+    [ "scale32bit", "class_r_e_1_1hkp3_axis_sweep.html#a2a55353f2419717b155e1d7c1630112f", null ],
+    [ "VTABLE", "class_r_e_1_1hkp3_axis_sweep.html#a6b8775bad2959d0d7da4341409a57bde", null ]
 ];

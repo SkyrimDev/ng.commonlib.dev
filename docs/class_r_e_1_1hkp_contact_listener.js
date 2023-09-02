@@ -7,5 +7,6 @@ var class_r_e_1_1hkp_contact_listener =
     [ "ContactPointCallback", "class_r_e_1_1hkp_contact_listener.html#abe5c052c848eb6461036bcb0375e49e8", null ],
     [ "ContactPointRemovedCallback", "class_r_e_1_1hkp_contact_listener.html#a47faf51ab443cad361c353fc3b1d37aa", null ],
     [ "ContactProcessCallback", "class_r_e_1_1hkp_contact_listener.html#a16b656ddb78ca6bb911e6a2b95d8dc45", null ],
-    [ "RTTI", "class_r_e_1_1hkp_contact_listener.html#a27d281ba6522266f813e43adcb10cc61", null ]
+    [ "RTTI", "class_r_e_1_1hkp_contact_listener.html#a27d281ba6522266f813e43adcb10cc61", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_contact_listener.html#a22b796c7d884fff15c7538d2f5be89dc", null ]
 ];

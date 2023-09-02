@@ -16,6 +16,8 @@ var struct_r_e_1_1_b_s_win32_gamepad_device_1_1_keys =
       [ "kX", "struct_r_e_1_1_b_s_win32_gamepad_device_1_1_keys.html#a31b2682e38ddb3762cf93c401cc578daae327d9e3a906355e43f0f343e7bbe60a", null ],
       [ "kY", "struct_r_e_1_1_b_s_win32_gamepad_device_1_1_keys.html#a31b2682e38ddb3762cf93c401cc578daaab053773d355b168df43e4fe972f493b", null ],
       [ "kLeftTrigger", "struct_r_e_1_1_b_s_win32_gamepad_device_1_1_keys.html#a31b2682e38ddb3762cf93c401cc578daac66d346702b273935e53ecb26c4ad79f", null ],
-      [ "kRightTrigger", "struct_r_e_1_1_b_s_win32_gamepad_device_1_1_keys.html#a31b2682e38ddb3762cf93c401cc578daabafb4dee45a5c6a255f7cfa06759c339", null ]
+      [ "kRightTrigger", "struct_r_e_1_1_b_s_win32_gamepad_device_1_1_keys.html#a31b2682e38ddb3762cf93c401cc578daabafb4dee45a5c6a255f7cfa06759c339", null ],
+      [ "kLeftStick", "struct_r_e_1_1_b_s_win32_gamepad_device_1_1_keys.html#a31b2682e38ddb3762cf93c401cc578daad6b5dabe21779774d6a72be34fe3f6ef", null ],
+      [ "kRightStick", "struct_r_e_1_1_b_s_win32_gamepad_device_1_1_keys.html#a31b2682e38ddb3762cf93c401cc578daafdd7bb3cf72b637bef73e50aec51852d", null ]
     ] ]
 ];

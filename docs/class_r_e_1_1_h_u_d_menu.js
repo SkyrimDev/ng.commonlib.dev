@@ -16,7 +16,9 @@ var class_r_e_1_1_h_u_d_menu =
     [ "ProcessEvent", "class_r_e_1_1_h_u_d_menu.html#a0e9d0c94c4cfe9f0b551b57d664c6608", null ],
     [ "ProcessMessage", "class_r_e_1_1_h_u_d_menu.html#a1028841c367ea908714831d9b0800588", null ],
     [ "RefreshPlatform", "class_r_e_1_1_h_u_d_menu.html#a8b79c0ab0fef653383723fa9f7c2c88e", null ],
+    [ "UpdateCrosshairMagicTarget", "class_r_e_1_1_h_u_d_menu.html#a20a18bcf36214f275a163a615d3a39f1", null ],
     [ "MENU_NAME", "class_r_e_1_1_h_u_d_menu.html#ad344200c98c0d9d7cf8f83d51bf6fa23", null ],
     [ "pad68", "class_r_e_1_1_h_u_d_menu.html#a554ef572a7fc96e29ee02b63eeed3b48", null ],
-    [ "RTTI", "class_r_e_1_1_h_u_d_menu.html#ae9910e7f97bff2d46702cde2e57682c3", null ]
+    [ "RTTI", "class_r_e_1_1_h_u_d_menu.html#ae9910e7f97bff2d46702cde2e57682c3", null ],
+    [ "VTABLE", "class_r_e_1_1_h_u_d_menu.html#a6a4e3e55030e515855fecbf0dfd92e06", null ]
 ];

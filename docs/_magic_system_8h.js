@@ -28,7 +28,8 @@ var _magic_system_8h =
       [ "kTouch", "_magic_system_8h.html#af55def7e14aedf79256cc8b2f56f4f1faede751f43ed71e1990290d6daa9a0bc9", null ],
       [ "kAimed", "_magic_system_8h.html#af55def7e14aedf79256cc8b2f56f4f1fa947e5876292979d219c1a68e401d32ee", null ],
       [ "kTargetActor", "_magic_system_8h.html#af55def7e14aedf79256cc8b2f56f4f1fa5d15b9d04e4417fb1deea009f9dbb16c", null ],
-      [ "kTargetLocation", "_magic_system_8h.html#af55def7e14aedf79256cc8b2f56f4f1fadc2ff518e152bf467d1a2ae9686ab650", null ]
+      [ "kTargetLocation", "_magic_system_8h.html#af55def7e14aedf79256cc8b2f56f4f1fadc2ff518e152bf467d1a2ae9686ab650", null ],
+      [ "kTotal", "_magic_system_8h.html#af55def7e14aedf79256cc8b2f56f4f1fac5773fa6682ca4cde48ab9f265398de3", null ]
     ] ],
     [ "SoundID", "_magic_system_8h.html#a179c073c3926c4c9dcae5319bcdbc4ce", [
       [ "kDrawSheatheLPM", "_magic_system_8h.html#a179c073c3926c4c9dcae5319bcdbc4ceae89fc6ec0e9320a4c0404006cd7d433d", null ],
@@ -53,5 +54,8 @@ var _magic_system_8h =
       [ "kAbsorb", "_magic_system_8h.html#af6692654f281487ce855de84b71e3f68a89c68522561becb4063fdd4ac8f87fc5", null ],
       [ "kBreak", "_magic_system_8h.html#af6692654f281487ce855de84b71e3f68ab1cec4b5157c0bc35a95b44a2c1a36f0", null ],
       [ "kTotal", "_magic_system_8h.html#af6692654f281487ce855de84b71e3f68ac5773fa6682ca4cde48ab9f265398de3", null ]
-    ] ]
+    ] ],
+    [ "GetCannotCastString", "_magic_system_8h.html#a88d6e703ef3ea885f9ca5e3e48ecfb2c", null ],
+    [ "GetMagicCasterTargetUpdateInterval", "_magic_system_8h.html#a6c19fe9be822f012139f88dcb1e9caa0", null ],
+    [ "GetMagicFailureSound", "_magic_system_8h.html#a1df13b8d44219883c1e328d64f1a656c", null ]
 ];

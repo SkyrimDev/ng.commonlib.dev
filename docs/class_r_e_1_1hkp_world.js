@@ -109,6 +109,7 @@ var class_r_e_1_1hkp_world =
     [ "toiCollisionResponseRotateNormal", "class_r_e_1_1hkp_world.html#ab07d01f9bd9459a37b89e8ffadc5936c", null ],
     [ "useHybridBroadphase", "class_r_e_1_1hkp_world.html#a7cedaf3cf69fa136adcc4400811a47fa", null ],
     [ "violatedConstraintArray", "class_r_e_1_1hkp_world.html#a9bd060931d53dfe9243d323f64629c20", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_world.html#a8de3fd44334e06ab9a0f461f7af65a36", null ],
     [ "wantDeactivation", "class_r_e_1_1hkp_world.html#a1074c3220a569ff5c6dd7bd0bcb9f1bb", null ],
     [ "wantSimulationIslands", "class_r_e_1_1hkp_world.html#aa2fcdad857bfcc23ca8a4076501f1c0c", null ],
     [ "worldDeletionListeners", "class_r_e_1_1hkp_world.html#a5d378c26e14e166592be334c320e2951", null ],

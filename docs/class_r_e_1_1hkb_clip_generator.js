@@ -21,6 +21,7 @@ var class_r_e_1_1hkb_clip_generator =
     [ "binding", "class_r_e_1_1hkb_clip_generator.html#a9ec1938617ab99001635b3b7ea70b4b1", null ],
     [ "bufferSize", "class_r_e_1_1hkb_clip_generator.html#a0bb57e9d12ec04f31c916785beb85f25", null ],
     [ "cropEndAmountLocalTime", "class_r_e_1_1hkb_clip_generator.html#a9105967c81a27fb7b27f28ae09a1ef2f", null ],
+    [ "cropStartAmountLocalTime", "class_r_e_1_1hkb_clip_generator.html#ad5381af9765af39529a1d16a7eb8d0e2", null ],
     [ "echoBufferSize", "class_r_e_1_1hkb_clip_generator.html#ab1383e642e39b9e22e6209ac29c66a6f", null ],
     [ "echos", "class_r_e_1_1hkb_clip_generator.html#a4add2559d25b93c407bfac4237bd0109", null ],
     [ "enforcedDuration", "class_r_e_1_1hkb_clip_generator.html#a35b5c9e5f4523fa96697ceb98bad3eda", null ],
@@ -40,6 +41,7 @@ var class_r_e_1_1hkb_clip_generator =
     [ "startTime", "class_r_e_1_1hkb_clip_generator.html#a8edef2c0262f800594cc42eefba5fa8c", null ],
     [ "time", "class_r_e_1_1hkb_clip_generator.html#ab3d986257e351543f7582dc9847db810", null ],
     [ "triggers", "class_r_e_1_1hkb_clip_generator.html#acc8c807fc1882e7ae5064ffce1338a55", null ],
-    [ "unk70", "class_r_e_1_1hkb_clip_generator.html#a701401dbb09e723c34de36af77c48c6f", null ],
-    [ "userControlledTimeFraction", "class_r_e_1_1hkb_clip_generator.html#ab7560dca29124df742a5857d2298d7b5", null ]
+    [ "unk74", "class_r_e_1_1hkb_clip_generator.html#ad1c7e65321ea70186b898340ddc85df2", null ],
+    [ "userControlledTimeFraction", "class_r_e_1_1hkb_clip_generator.html#ab7560dca29124df742a5857d2298d7b5", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_clip_generator.html#a9ee123db78f8983e8012fec348988ad9", null ]
 ];

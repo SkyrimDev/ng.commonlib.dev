@@ -7,5 +7,6 @@ var class_r_e_1_1hkb_generator =
     [ "Unk_1A", "class_r_e_1_1hkb_generator.html#a3235a2e5482fce1daeeba9eeff07975b", null ],
     [ "Unk_1B", "class_r_e_1_1hkb_generator.html#ae454e5db9c48adcd274f6bc8b2b5b9a7", null ],
     [ "UpdateSync", "class_r_e_1_1hkb_generator.html#a62c63726c14ee7dc7d82dc8872415ca9", null ],
-    [ "RTTI", "class_r_e_1_1hkb_generator.html#a9add8f96566fbfd589abb176849967b7", null ]
+    [ "RTTI", "class_r_e_1_1hkb_generator.html#a9add8f96566fbfd589abb176849967b7", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_generator.html#a013d944cf0adb17f7299879abab061cf", null ]
 ];

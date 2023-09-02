@@ -8,5 +8,6 @@ var class_r_e_1_1_script_event_source_holder =
     [ "RemoveEventSink", "class_r_e_1_1_script_event_source_holder.html#ae8dbbd8a7d2ec44d625ac184dcd59202", null ],
     [ "SendActivateEvent", "class_r_e_1_1_script_event_source_holder.html#adfb10610f1f7695f63aef98cd1aa34ea", null ],
     [ "SendEvent", "class_r_e_1_1_script_event_source_holder.html#a527622e7dadf6899c7ba88913b1d3d64", null ],
-    [ "SendOpenCloseEvent", "class_r_e_1_1_script_event_source_holder.html#a69933bdeb0279348a5bd548fcfbc8070", null ]
+    [ "SendOpenCloseEvent", "class_r_e_1_1_script_event_source_holder.html#a69933bdeb0279348a5bd548fcfbc8070", null ],
+    [ "SendSpellCastEvent", "class_r_e_1_1_script_event_source_holder.html#a87964105edb2759c0a73d9d2a6a0e4ca", null ]
 ];

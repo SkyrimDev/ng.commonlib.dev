@@ -29,5 +29,6 @@ var class_r_e_1_1_i_animation_graph_manager_holder =
     [ "Unk_09", "class_r_e_1_1_i_animation_graph_manager_holder.html#ae551a20350de87da47930d62a5335aa6", null ],
     [ "Unk_0C", "class_r_e_1_1_i_animation_graph_manager_holder.html#a7c7e781659b93991987eae09e18c94ac", null ],
     [ "Unk_0E", "class_r_e_1_1_i_animation_graph_manager_holder.html#a6cec01e3d8a7fbbd6ec12dda236de609", null ],
+    [ "UpdateAnimationGraphManager", "class_r_e_1_1_i_animation_graph_manager_holder.html#a79042f529492e3a6da77dd224d2adc99", null ],
     [ "RTTI", "class_r_e_1_1_i_animation_graph_manager_holder.html#adc7ed71ad2a4322ef6abbd0a29f7457f", null ]
 ];

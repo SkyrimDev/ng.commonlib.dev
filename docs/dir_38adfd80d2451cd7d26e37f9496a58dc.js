@@ -1,5 +1,6 @@
 var dir_38adfd80d2451cd7d26e37f9496a58dc =
 [
+    [ "LegendarySkillResetConfirmCallback.h", "_legendary_skill_reset_confirm_callback_8h.html", "_legendary_skill_reset_confirm_callback_8h" ],
     [ "LevelIncrease.h", "_level_increase_8h.html", "_level_increase_8h" ],
     [ "LevelUpMenu.h", "_level_up_menu_8h.html", "_level_up_menu_8h" ],
     [ "LightEffect.h", "_light_effect_8h.html", "_light_effect_8h" ],
@@ -10,9 +11,11 @@ var dir_38adfd80d2451cd7d26e37f9496a58dc =
     [ "LocalMapCamera.h", "_local_map_camera_8h.html", "_local_map_camera_8h" ],
     [ "LocalMapMenu.h", "_local_map_menu_8h.html", "_local_map_menu_8h" ],
     [ "Location.h", "_location_8h.html", "_location_8h" ],
+    [ "LocationCleared.h", "_location_cleared_8h.html", "_location_cleared_8h" ],
     [ "LocationDiscovery.h", "_location_discovery_8h.html", "_location_discovery_8h" ],
     [ "LocationTraverser.h", "_location_traverser_8h.html", "_location_traverser_8h" ],
     [ "LocationTree.h", "_location_tree_8h.html", "_location_tree_8h" ],
+    [ "LockEffect.h", "_lock_effect_8h.html", "_lock_effect_8h" ],
     [ "LockpickingMenu.h", "_lockpicking_menu_8h.html", "_lockpicking_menu_8h" ],
     [ "LogEvent.h", "_log_event_8h.html", "_log_event_8h" ],
     [ "Logger.h", "_r_e_2_l_2_logger_8h.html", "_r_e_2_l_2_logger_8h" ],

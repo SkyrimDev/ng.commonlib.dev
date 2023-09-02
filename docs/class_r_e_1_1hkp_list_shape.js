@@ -23,5 +23,6 @@ var class_r_e_1_1hkp_list_shape =
     [ "flags", "class_r_e_1_1hkp_list_shape.html#aff5496d6a7ce65b30c35e28c5967fdd3", null ],
     [ "numDisabledChildren", "class_r_e_1_1hkp_list_shape.html#a74f19239dbfbace95ecef3c744b9e220", null ],
     [ "pad44", "class_r_e_1_1hkp_list_shape.html#aa096bcbe92884563f3fe3afb64aee0b5", null ],
-    [ "RTTI", "class_r_e_1_1hkp_list_shape.html#a220bd19a704617fe841be3191242a11f", null ]
+    [ "RTTI", "class_r_e_1_1hkp_list_shape.html#a220bd19a704617fe841be3191242a11f", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_list_shape.html#a8765f55d6f53925fd46123f2e56e3b91", null ]
 ];

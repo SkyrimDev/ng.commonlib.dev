@@ -9,7 +9,7 @@ var class_r_e_1_1_b_s_effect_shader_material =
     [ "GetType", "class_r_e_1_1_b_s_effect_shader_material.html#aa6adf61b32673d75fc1c100b0427b191", null ],
     [ "baseColor", "class_r_e_1_1_b_s_effect_shader_material.html#afa717ed07a7656f760dfa4a01130d3a7", null ],
     [ "baseColorScale", "class_r_e_1_1_b_s_effect_shader_material.html#af73d29c5d1192d9f80ec83d2dbbf2a08", null ],
-    [ "effectClampMode", "class_r_e_1_1_b_s_effect_shader_material.html#a8e4b4c897b2eace67bd8855bd3e86e77", null ],
+    [ "effectClampMode", "class_r_e_1_1_b_s_effect_shader_material.html#acf04c264e3fbd7318fd3354d7be2c009", null ],
     [ "falloffStartAngle", "class_r_e_1_1_b_s_effect_shader_material.html#ac829e9629b5681655dcfc2a7012007d1", null ],
     [ "falloffStartOpacity", "class_r_e_1_1_b_s_effect_shader_material.html#ac735fb982ec0ed80126fed6aa5fc0809", null ],
     [ "falloffStopAngle", "class_r_e_1_1_b_s_effect_shader_material.html#a1e7d3f8443f2b08a95a239d6191891a7", null ],

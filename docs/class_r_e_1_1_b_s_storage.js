@@ -8,7 +8,7 @@ var class_r_e_1_1_b_s_storage =
     [ "Seek", "class_r_e_1_1_b_s_storage.html#aef3e49bd658fa769f936a4ce0343f6e9", null ],
     [ "Write", "class_r_e_1_1_b_s_storage.html#a47c5eea5bc89d376023f0fceb8dc75fe", null ],
     [ "RTTI", "class_r_e_1_1_b_s_storage.html#acdb83d915e866ee0fec55aa8afd9a500", null ],
-    [ "unk0C", "class_r_e_1_1_b_s_storage.html#a1f927fb5425746c491e9e7c8b7e23a8c", null ],
+    [ "swapBytes", "class_r_e_1_1_b_s_storage.html#a5c2543212e64ce92701760439b165482", null ],
     [ "unk0D", "class_r_e_1_1_b_s_storage.html#a657cad1935c1484f188155062d7a8405", null ],
     [ "unk0E", "class_r_e_1_1_b_s_storage.html#a5fbf19c23a4e2ca64de19705aadfd3b3", null ],
     [ "unk10", "class_r_e_1_1_b_s_storage.html#a7e5e7fea748eefabe4d6f13ca544bc58", null ],

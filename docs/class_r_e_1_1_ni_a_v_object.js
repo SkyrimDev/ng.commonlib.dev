@@ -31,6 +31,8 @@ var class_r_e_1_1_ni_a_v_object =
     ] ],
     [ "~NiAVObject", "class_r_e_1_1_ni_a_v_object.html#a63c0f29043f03ea2996470964663b043", null ],
     [ "AttachProperty", "class_r_e_1_1_ni_a_v_object.html#a45a5ce3f352c733d35703ca68078acf2", null ],
+    [ "Clone", "class_r_e_1_1_ni_a_v_object.html#acd718321df8edb4adbaa949b82be46f6", null ],
+    [ "CullGeometry", "class_r_e_1_1_ni_a_v_object.html#ae9c4f09aef422a40ff4fd465a698a87f", null ],
     [ "CullNode", "class_r_e_1_1_ni_a_v_object.html#a8efb12bad0aff9e03e80a86007552911", null ],
     [ "GetAppCulled", "class_r_e_1_1_ni_a_v_object.html#ae87160658f576ac2c96e69c37401e366", null ],
     [ "GetCollisionLayer", "class_r_e_1_1_ni_a_v_object.html#a1665a59175a2a17fce940429d61163ac", null ],

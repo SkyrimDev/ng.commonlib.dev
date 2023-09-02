@@ -5,5 +5,6 @@ var class_r_e_1_1hkp_cd_point_collector =
     [ "Reset", "class_r_e_1_1hkp_cd_point_collector.html#ace00c621db07828dc4168dbc3dc59e31", null ],
     [ "earlyOutDistance", "class_r_e_1_1hkp_cd_point_collector.html#ac30ac1761916ba41cf13ad17bda82aef", null ],
     [ "pad0C", "class_r_e_1_1hkp_cd_point_collector.html#a205fb2fe823533dcc8df8a28f2e98060", null ],
-    [ "RTTI", "class_r_e_1_1hkp_cd_point_collector.html#a0d73173db5215f2cf226bfce4ce6d98d", null ]
+    [ "RTTI", "class_r_e_1_1hkp_cd_point_collector.html#a0d73173db5215f2cf226bfce4ce6d98d", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_cd_point_collector.html#affad51965a7834032ad765096a2c8f0e", null ]
 ];

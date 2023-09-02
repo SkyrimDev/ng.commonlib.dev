@@ -5,5 +5,6 @@ var class_r_e_1_1hka_ragdoll_instance =
     [ "constraints", "class_r_e_1_1hka_ragdoll_instance.html#ac0e7ba3dc549794288cae55d1fcea414", null ],
     [ "rigidBodies", "class_r_e_1_1hka_ragdoll_instance.html#a798439badb754aea718e2c0a106ca5af", null ],
     [ "RTTI", "class_r_e_1_1hka_ragdoll_instance.html#a49d86c127d2e552eaa2dd4b32330a1e7", null ],
-    [ "skeleton", "class_r_e_1_1hka_ragdoll_instance.html#a4b32079cabccf8588c150261a2315498", null ]
+    [ "skeleton", "class_r_e_1_1hka_ragdoll_instance.html#a4b32079cabccf8588c150261a2315498", null ],
+    [ "VTABLE", "class_r_e_1_1hka_ragdoll_instance.html#ad0a6c01c8a0c4a22fede7d570c556278", null ]
 ];

@@ -10,5 +10,6 @@ var class_r_e_1_1hkp_action =
     [ "name", "class_r_e_1_1hkp_action.html#a0bbd1191b81cedc8c2b4dfe29f5605d8", null ],
     [ "RTTI", "class_r_e_1_1hkp_action.html#af45e5189d7e0fad892e0f2dcb966e7e9", null ],
     [ "userData", "class_r_e_1_1hkp_action.html#ab4515e7c5fef4e59d9e396b27f62100f", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_action.html#a7b7543be56e854a283c7446d99cca4ab", null ],
     [ "world", "class_r_e_1_1hkp_action.html#a4d0cc0f366d4171aa3bb5f0eadfa650b", null ]
 ];

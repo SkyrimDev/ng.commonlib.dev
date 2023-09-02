@@ -1,6 +1,6 @@
 var class_r_e_1_1_b_s_timer =
 [
-    [ "GetCurrentGlobalTimeMult", "class_r_e_1_1_b_s_timer.html#ac68b815ca7ca1aac65309c21deebabb9", null ],
+    [ "GetCurrentGlobalTimeMult", "class_r_e_1_1_b_s_timer.html#a854a6f6cd4ac4242af83e6a238e8a100", null ],
     [ "clamp", "class_r_e_1_1_b_s_timer.html#a4125c03ac116f7a1cc450242d978bc88", null ],
     [ "clampRemainder", "class_r_e_1_1_b_s_timer.html#a2d8a4b42dd5c26478ad60e1dbdd75762", null ],
     [ "delta", "class_r_e_1_1_b_s_timer.html#a40290c572a50320e8216f71699648ab7", null ],

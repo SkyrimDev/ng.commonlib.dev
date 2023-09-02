@@ -10,5 +10,6 @@ var class_r_e_1_1hka_animation_binding =
     [ "originalSkeletonName", "class_r_e_1_1hka_animation_binding.html#a5cfe7d267e801e9ae6dd5f96fe18db47", null ],
     [ "pad41", "class_r_e_1_1hka_animation_binding.html#a1a5bfcc21ae3db3f04493ef78be6a7c1", null ],
     [ "RTTI", "class_r_e_1_1hka_animation_binding.html#a331b5436a42e03526f3efcd3b3e1219e", null ],
-    [ "transformTrackToBoneIndices", "class_r_e_1_1hka_animation_binding.html#aef4050ea72b7382957e7ffecf49a4500", null ]
+    [ "transformTrackToBoneIndices", "class_r_e_1_1hka_animation_binding.html#aef4050ea72b7382957e7ffecf49a4500", null ],
+    [ "VTABLE", "class_r_e_1_1hka_animation_binding.html#a9defe5044281dcc54d01581ffcf215e6", null ]
 ];

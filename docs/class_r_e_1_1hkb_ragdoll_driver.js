@@ -26,5 +26,6 @@ var class_r_e_1_1hkb_ragdoll_driver =
     [ "unkBC", "class_r_e_1_1hkb_ragdoll_driver.html#a2769237b7b2dafb8f670d3f21c0b2476", null ],
     [ "unkC0", "class_r_e_1_1hkb_ragdoll_driver.html#ad45b0ce5eb5811394ec294f7ad716c00", null ],
     [ "unkC4", "class_r_e_1_1hkb_ragdoll_driver.html#ae63554df5d3f405831cce0cc1d675322", null ],
-    [ "unkC8", "class_r_e_1_1hkb_ragdoll_driver.html#ac88381ed919eaed7a0387c9e32add008", null ]
+    [ "unkC8", "class_r_e_1_1hkb_ragdoll_driver.html#ac88381ed919eaed7a0387c9e32add008", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_ragdoll_driver.html#aaa8f1188b47333b5de6f19db97738243", null ]
 ];

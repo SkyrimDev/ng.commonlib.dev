@@ -37,5 +37,6 @@ var class_r_e_1_1hkb_node =
     [ "pad43", "class_r_e_1_1hkb_node.html#abdb090c1113cc275007559c639d70801", null ],
     [ "pad44", "class_r_e_1_1hkb_node.html#a529430e83e0362fae5bcc506ca319375", null ],
     [ "RTTI", "class_r_e_1_1hkb_node.html#a1ce6328fe4aa283d7c1f7cb414a8a63e", null ],
-    [ "userData", "class_r_e_1_1hkb_node.html#a9f0b5214d6713803caf274ef120de84f", null ]
+    [ "userData", "class_r_e_1_1hkb_node.html#a9f0b5214d6713803caf274ef120de84f", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_node.html#a63408a41c6cfb1df1c5ce29e73816099", null ]
 ];

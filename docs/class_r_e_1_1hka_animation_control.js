@@ -20,5 +20,6 @@ var class_r_e_1_1hka_animation_control =
     [ "pad54", "class_r_e_1_1hka_animation_control.html#a24a55bcd62c5f46717650381fb8d6f50", null ],
     [ "RTTI", "class_r_e_1_1hka_animation_control.html#a726964ecc05bd74f4f87899b4ee12dad", null ],
     [ "transformTrackWeights", "class_r_e_1_1hka_animation_control.html#a9b3a467931ec0fcc955369b7c061b9c6", null ],
+    [ "VTABLE", "class_r_e_1_1hka_animation_control.html#aa84d8d2b2d0ce40b5ae4b5d8244f6c44", null ],
     [ "weight", "class_r_e_1_1hka_animation_control.html#a4910d40fd3f6d8a3e116670c6cd6d100", null ]
 ];

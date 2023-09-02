@@ -11,5 +11,6 @@ var class_r_e_1_1_h_u_d_notifications =
     [ "queue", "class_r_e_1_1_h_u_d_notifications.html#ab08a1e9760671f843bb5a64219e77a59", null ],
     [ "root", "class_r_e_1_1_h_u_d_notifications.html#af3f9b35acd4c6ded22317ca0a34ca892", null ],
     [ "RTTI", "class_r_e_1_1_h_u_d_notifications.html#a7f1a5b9ab6d72eefcfdf8dbb90d1daad", null ],
-    [ "time", "class_r_e_1_1_h_u_d_notifications.html#a2cc7a18f20b81552399e27e5fd72d351", null ]
+    [ "time", "class_r_e_1_1_h_u_d_notifications.html#a2cc7a18f20b81552399e27e5fd72d351", null ],
+    [ "VTABLE", "class_r_e_1_1_h_u_d_notifications.html#a7eb25f366e2296c9431310cfd279d349", null ]
 ];

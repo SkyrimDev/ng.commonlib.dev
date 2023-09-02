@@ -19,8 +19,8 @@ var struct_r_e_1_1_image_space_base_data_1_1_depth_of_field =
       [ "kNoSky_Radius7", "struct_r_e_1_1_image_space_base_data_1_1_depth_of_field.html#a956da79124c8b6b187cbba5772f0bfbba16660aed398750ff8b55481642c72748", null ]
     ] ],
     [ "distance", "struct_r_e_1_1_image_space_base_data_1_1_depth_of_field.html#a32ac9a44c611b81e9601a5c30379bbba", null ],
+    [ "flags", "struct_r_e_1_1_image_space_base_data_1_1_depth_of_field.html#a22069987c6ad1cf3d3a06766a99bb46c", null ],
     [ "range", "struct_r_e_1_1_image_space_base_data_1_1_depth_of_field.html#a8786062713641079a07f09c61f32d2e5", null ],
     [ "skyBlurRadius", "struct_r_e_1_1_image_space_base_data_1_1_depth_of_field.html#ad226885b903560077350305a1eb34602", null ],
-    [ "strength", "struct_r_e_1_1_image_space_base_data_1_1_depth_of_field.html#a11c8e72bd474092318dc5a326608384d", null ],
-    [ "unk0C", "struct_r_e_1_1_image_space_base_data_1_1_depth_of_field.html#af7e8355caa0bc4f4a317711d5d15159b", null ]
+    [ "strength", "struct_r_e_1_1_image_space_base_data_1_1_depth_of_field.html#a11c8e72bd474092318dc5a326608384d", null ]
 ];

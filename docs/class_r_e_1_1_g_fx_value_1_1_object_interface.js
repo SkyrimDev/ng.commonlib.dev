@@ -6,7 +6,9 @@ var class_r_e_1_1_g_fx_value_1_1_object_interface =
     [ "AttachMovie", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#aa9c3e19381abaa54f586a9292a69e5d3", null ],
     [ "DeleteMember", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#af9bac126b7f2cbbc003ac32dfdb877f5", null ],
     [ "GetArraySize", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a8c7e1acdfef01c8724095bdb49946f20", null ],
+    [ "GetCxform", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a4d0431485c72dbc35ccbe16fb9099876", null ],
     [ "GetDisplayInfo", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#af348842ea9dad9942be59e3f9840ca53", null ],
+    [ "GetDisplayMatrix", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#aae06dbdd1008e2f8c50db7a01be87371", null ],
     [ "GetElement", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#ae5999bb9c457642e0ebff2aee28eaf6a", null ],
     [ "GetMember", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#ae3dbcc93ece52bba0533a43a821c62e3", null ],
     [ "GotoAndPlay", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a4227923b397c035c1b46a1b80cd85c16", null ],
@@ -18,9 +20,12 @@ var class_r_e_1_1_g_fx_value_1_1_object_interface =
     [ "PushBack", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a5a93a2f8c2d6bb745c9a2338394a392a", null ],
     [ "RemoveElements", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a2fe7646b24234070d48ea7d756876159", null ],
     [ "SetArraySize", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a909a9a8744d09f23ba318a91d8595d7f", null ],
+    [ "SetCxform", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a36e66ac5720c87a9173d2660688a15a3", null ],
     [ "SetDisplayInfo", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#aa0a4f8e298e8d35a8d4aaa074f3a005b", null ],
+    [ "SetDisplayMatrix", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a6055a1fcd8612d7e5cbb83673e0e7c8b", null ],
     [ "SetElement", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a4942c7af0c62b8d8c2008b1bd5050c15", null ],
     [ "SetMember", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a0577942f03fb66e447a76104bc701577", null ],
     [ "SetText", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a9a5cb45c8444978df614b4a97427088b", null ],
+    [ "VisitMembers", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a70f0d099e695d8d16eeec9b3be19153b", null ],
     [ "_movieRoot", "class_r_e_1_1_g_fx_value_1_1_object_interface.html#a73bb0217ffea69435526ca4f7d6bad7f", null ]
 ];

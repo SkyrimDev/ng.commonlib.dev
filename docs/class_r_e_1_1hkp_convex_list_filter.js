@@ -7,5 +7,6 @@ var class_r_e_1_1hkp_convex_list_filter =
     ] ],
     [ "~hkpConvexListFilter", "class_r_e_1_1hkp_convex_list_filter.html#a195bb1585d4e67f77aa20d427fa5616f", null ],
     [ "GetConvexListCollisionType", "class_r_e_1_1hkp_convex_list_filter.html#a77dcd99bf2ee910649514f790e44d7bb", null ],
-    [ "RTTI", "class_r_e_1_1hkp_convex_list_filter.html#ab2811c79159e0767a4accbbdfa4c6821", null ]
+    [ "RTTI", "class_r_e_1_1hkp_convex_list_filter.html#ab2811c79159e0767a4accbbdfa4c6821", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_convex_list_filter.html#adac72ad930a0e0f1f9ec61564cb6d6c1", null ]
 ];

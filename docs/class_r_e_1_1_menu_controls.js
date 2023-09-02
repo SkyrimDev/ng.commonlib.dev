@@ -7,6 +7,7 @@ var class_r_e_1_1_menu_controls =
     [ "InBeastForm", "class_r_e_1_1_menu_controls.html#aeef7f99f22d6f6ed1524f47d709ed073", null ],
     [ "ProcessEvent", "class_r_e_1_1_menu_controls.html#a50965973fc97d8d6891e5d1a76b47571", null ],
     [ "ProcessEvent", "class_r_e_1_1_menu_controls.html#aeddd0220423c8b7272917c07687f2a1b", null ],
+    [ "QueueScreenshot", "class_r_e_1_1_menu_controls.html#ab3640c7125400e8070455a302074bc45", null ],
     [ "RegisterHandler", "class_r_e_1_1_menu_controls.html#a6a6dc9323cc0399cfa58244d57455fd8", null ],
     [ "RemoveHandler", "class_r_e_1_1_menu_controls.html#a55766e5bb1c98053f54c3d0cbb977383", null ],
     [ "UnregisterHandler", "class_r_e_1_1_menu_controls.html#a7a75c20a6dc49648459e9cdf63284fa0", null ],

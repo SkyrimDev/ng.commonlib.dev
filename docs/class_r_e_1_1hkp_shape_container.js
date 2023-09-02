@@ -11,5 +11,6 @@ var class_r_e_1_1hkp_shape_container =
     [ "GetNextKey", "class_r_e_1_1hkp_shape_container.html#add8f5b79f98c025e86795c187afddcb5", null ],
     [ "GetNumChildShapes", "class_r_e_1_1hkp_shape_container.html#a7866eb8c15a25fc65473f41717a2a73e", null ],
     [ "IsWeldingEnabled", "class_r_e_1_1hkp_shape_container.html#a7090c609c5938acc8d587007092a5297", null ],
-    [ "RTTI", "class_r_e_1_1hkp_shape_container.html#ad98b61e6fae8f891fe08b6af30570668", null ]
+    [ "RTTI", "class_r_e_1_1hkp_shape_container.html#ad98b61e6fae8f891fe08b6af30570668", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_shape_container.html#ad05db4470589f21190eaeeab808e56c5", null ]
 ];

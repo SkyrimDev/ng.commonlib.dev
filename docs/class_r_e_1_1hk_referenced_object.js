@@ -16,5 +16,6 @@ var class_r_e_1_1hk_referenced_object =
     [ "memSizeAndFlags", "class_r_e_1_1hk_referenced_object.html#aee2a27b6a23b90c135cd2ae9dba7989f", null ],
     [ "pad0C", "class_r_e_1_1hk_referenced_object.html#a6da27a6b002c8f3be2811553011e88c6", null ],
     [ "referenceCount", "class_r_e_1_1hk_referenced_object.html#aa290575da36fa36556de3b52e0ab34c8", null ],
-    [ "RTTI", "class_r_e_1_1hk_referenced_object.html#aa73de073d97ff228979a13509d43ad8e", null ]
+    [ "RTTI", "class_r_e_1_1hk_referenced_object.html#aa73de073d97ff228979a13509d43ad8e", null ],
+    [ "VTABLE", "class_r_e_1_1hk_referenced_object.html#a0692511906edbf7182922ada0b4723fe", null ]
 ];

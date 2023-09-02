@@ -1,6 +1,7 @@
 var class_r_e_1_1_t_e_s_container =
 [
     [ "~TESContainer", "class_r_e_1_1_t_e_s_container.html#a6c885bb8cc3604387c745c1a5257ad0b", null ],
+    [ "AddObjectsToContainer", "class_r_e_1_1_t_e_s_container.html#a1af38dff3614dbfb0374beebb5a11b2a", null ],
     [ "AddObjectToContainer", "class_r_e_1_1_t_e_s_container.html#a8ca0f79af622e9422748e9cd6a451d61", null ],
     [ "ClearDataComponent", "class_r_e_1_1_t_e_s_container.html#a073dc8352e37800f57a5d338525988be", null ],
     [ "CopyComponent", "class_r_e_1_1_t_e_s_container.html#a14522f65dbac56af7e7ad5be8d3ccf1b", null ],

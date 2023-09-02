@@ -10,5 +10,6 @@ var class_r_e_1_1hkp_shape_phantom =
     [ "SetShape", "class_r_e_1_1hkp_shape_phantom.html#a2dc65923831f9acbcffa93f0cbb4eb74", null ],
     [ "SetTransformAndLinearCast", "class_r_e_1_1hkp_shape_phantom.html#afc60a48561bdfc33c4f3c424d78154a1", null ],
     [ "motionState", "class_r_e_1_1hkp_shape_phantom.html#a221e39ef799a26bb854f48edd7e1423f", null ],
-    [ "RTTI", "class_r_e_1_1hkp_shape_phantom.html#a9cf10912d6dca9f0d75b8184fedace55", null ]
+    [ "RTTI", "class_r_e_1_1hkp_shape_phantom.html#a9cf10912d6dca9f0d75b8184fedace55", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_shape_phantom.html#ae89e67de791ed078e105fb597ded7f3e", null ]
 ];

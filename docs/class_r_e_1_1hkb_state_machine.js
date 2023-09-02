@@ -66,6 +66,7 @@ var class_r_e_1_1hkb_state_machine =
     [ "transitionFlags", "class_r_e_1_1hkb_state_machine.html#a98f8bbf34ac84d12f5c9a3b72be82540", null ],
     [ "transitionToNextHigherStateEventID", "class_r_e_1_1hkb_state_machine.html#ab3dc8f19f54d286d86e78c88094b1074", null ],
     [ "transitionToNextLowerStateEventID", "class_r_e_1_1hkb_state_machine.html#a17cb20c0ae0907b57eb815c9c54efabf", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_state_machine.html#a45d213df6b69974694ba0f2a0a20bea1", null ],
     [ "wildcardTransitionFlags", "class_r_e_1_1hkb_state_machine.html#a4a2b56e61200d56757465b546a13d388", null ],
     [ "wildcardTransitions", "class_r_e_1_1hkb_state_machine.html#a4a2cfae47839a278ae749c5d3084ccb8", null ],
     [ "wrapAroundStateID", "class_r_e_1_1hkb_state_machine.html#ab10e97f2a943f915a1577ab0dafcbf2d", null ]

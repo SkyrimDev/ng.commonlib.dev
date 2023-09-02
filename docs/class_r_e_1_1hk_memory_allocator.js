@@ -18,5 +18,6 @@ var class_r_e_1_1hk_memory_allocator =
     [ "GetAllocatedSize", "class_r_e_1_1hk_memory_allocator.html#a86f5102d58520790550d07768e763e92", null ],
     [ "GetMemoryStatistics", "class_r_e_1_1hk_memory_allocator.html#a8eb13412e412d0a389239ef836fdf8e0", null ],
     [ "ResetPeakMemoryStatistics", "class_r_e_1_1hk_memory_allocator.html#a3ced19cbdff2715a0b2f8cc9956ab3ac", null ],
-    [ "RTTI", "class_r_e_1_1hk_memory_allocator.html#a0a673c7553eb1339da0423c48f0d93f3", null ]
+    [ "RTTI", "class_r_e_1_1hk_memory_allocator.html#a0a673c7553eb1339da0423c48f0d93f3", null ],
+    [ "VTABLE", "class_r_e_1_1hk_memory_allocator.html#a684bc9822d45b9a8896e624614ec0b99", null ]
 ];

@@ -3,7 +3,21 @@ var hierarchy =
     [ "3", null, [
       [ "RE::BSTArray< RE::BSScript::Stack::MemoryPageData, 3 >", "class_r_e_1_1_b_s_t_array.html", null ]
     ] ],
+    [ "RE::XInput::__XINPUT_CAPABILITIES", "struct_r_e_1_1_x_input_1_1_____x_i_n_p_u_t___c_a_p_a_b_i_l_i_t_i_e_s.html", null ],
+    [ "RE::XInput::__XINPUT_GAMEPAD", "struct_r_e_1_1_x_input_1_1_____x_i_n_p_u_t___g_a_m_e_p_a_d.html", null ],
+    [ "RE::XInput::__XINPUT_KEYSTROKE", "struct_r_e_1_1_x_input_1_1_____x_i_n_p_u_t___k_e_y_s_t_r_o_k_e.html", null ],
+    [ "RE::XInput::__XINPUT_STATE", "struct_r_e_1_1_x_input_1_1_____x_i_n_p_u_t___s_t_a_t_e.html", null ],
+    [ "RE::XInput::__XINPUT_VIBRATION", "struct_r_e_1_1_x_input_1_1_____x_i_n_p_u_t___v_i_b_r_a_t_i_o_n.html", null ],
+    [ "RE::DirectInput8::_DIACTIONA", "struct_r_e_1_1_direct_input8_1_1___d_i_a_c_t_i_o_n_a.html", null ],
+    [ "RE::DirectInput8::_DIACTIONFORMATA", "struct_r_e_1_1_direct_input8_1_1___d_i_a_c_t_i_o_n_f_o_r_m_a_t_a.html", null ],
+    [ "RE::DirectInput8::_DICOLORSET", "struct_r_e_1_1_direct_input8_1_1___d_i_c_o_l_o_r_s_e_t.html", null ],
+    [ "RE::DirectInput8::_DICONFIGUREDEVICESPARAMSA", "struct_r_e_1_1_direct_input8_1_1___d_i_c_o_n_f_i_g_u_r_e_d_e_v_i_c_e_s_p_a_r_a_m_s_a.html", null ],
+    [ "RE::DirectInput8::_DIDATAFORMAT", "struct_r_e_1_1_direct_input8_1_1___d_i_d_a_t_a_f_o_r_m_a_t.html", null ],
+    [ "RE::DirectInput8::_DIDEVICEIMAGEINFOA", "struct_r_e_1_1_direct_input8_1_1___d_i_d_e_v_i_c_e_i_m_a_g_e_i_n_f_o_a.html", null ],
+    [ "RE::DirectInput8::_DIDEVICEIMAGEINFOHEADERA", "struct_r_e_1_1_direct_input8_1_1___d_i_d_e_v_i_c_e_i_m_a_g_e_i_n_f_o_h_e_a_d_e_r_a.html", null ],
+    [ "RE::DirectInput8::_DIOBJECTDATAFORMAT", "struct_r_e_1_1_direct_input8_1_1___d_i_o_b_j_e_c_t_d_a_t_a_f_o_r_m_a_t.html", null ],
     [ "SKSE::WinAPI::_FILETIME", "struct_s_k_s_e_1_1_win_a_p_i_1_1___f_i_l_e_t_i_m_e.html", null ],
+    [ "SKSE::WinAPI::_GUID", "struct_s_k_s_e_1_1_win_a_p_i_1_1___g_u_i_d.html", null ],
     [ "RE::BSScript::_unwrapped_type< T, class >", "struct_r_e_1_1_b_s_script_1_1__unwrapped__type.html", null ],
     [ "RE::BSScript::_unwrapped_type< std::remove_cv_t< T > >", "struct_r_e_1_1_b_s_script_1_1__unwrapped__type.html", [
       [ "RE::BSScript::unwrapped_type< T >", "struct_r_e_1_1_b_s_script_1_1unwrapped__type.html", null ]
@@ -14,6 +28,7 @@ var hierarchy =
       [ "RE::BSScript::vm_type< T >", "struct_r_e_1_1_b_s_script_1_1vm__type.html", null ]
     ] ],
     [ "SKSE::WinAPI::_WIN32_FIND_DATAA", "struct_s_k_s_e_1_1_win_a_p_i_1_1___w_i_n32___f_i_n_d___d_a_t_a_a.html", null ],
+    [ "SKSE::WinAPI::_WIN32_FIND_DATAW", "struct_s_k_s_e_1_1_win_a_p_i_1_1___w_i_n32___f_i_n_d___d_a_t_a_w.html", null ],
     [ "RE::hkpCollisionInput::Aabb32Info", "struct_r_e_1_1hkp_collision_input_1_1_aabb32_info.html", null ],
     [ "RE::ACTION_OBJECT", "struct_r_e_1_1_a_c_t_i_o_n___o_b_j_e_c_t.html", null ],
     [ "RE::BSCurrent::ActionArray", "struct_r_e_1_1_b_s_current_1_1_action_array.html", null ],
@@ -23,22 +38,64 @@ var hierarchy =
         [ "RE::TESActionData", "class_r_e_1_1_t_e_s_action_data.html", null ]
       ] ]
     ] ],
+    [ "RE::ActionOutput", "class_r_e_1_1_action_output.html", [
+      [ "RE::BGSActionData", "class_r_e_1_1_b_g_s_action_data.html", null ]
+    ] ],
     [ "RE::ActivateParentID", "struct_r_e_1_1_activate_parent_i_d.html", null ],
     [ "RE::ActiveEffect", "class_r_e_1_1_active_effect.html", [
+      [ "RE::BoundItemEffect", "class_r_e_1_1_bound_item_effect.html", null ],
+      [ "RE::CloakEffect", "class_r_e_1_1_cloak_effect.html", null ],
       [ "RE::CommandEffect", "class_r_e_1_1_command_effect.html", [
         [ "RE::ReanimateEffect", "class_r_e_1_1_reanimate_effect.html", null ]
       ] ],
+      [ "RE::CommandSummonedEffect", "class_r_e_1_1_command_summoned_effect.html", null ],
+      [ "RE::ConcussionEffect", "class_r_e_1_1_concussion_effect.html", null ],
+      [ "RE::CureEffect", "class_r_e_1_1_cure_effect.html", null ],
+      [ "RE::DetectLifeEffect", "class_r_e_1_1_detect_life_effect.html", null ],
+      [ "RE::DisguiseEffect", "class_r_e_1_1_disguise_effect.html", null ],
+      [ "RE::DispelEffect", "class_r_e_1_1_dispel_effect.html", null ],
+      [ "RE::EtherealizationEffect", "class_r_e_1_1_etherealization_effect.html", null ],
+      [ "RE::GuideEffect", "class_r_e_1_1_guide_effect.html", null ],
       [ "RE::LightEffect", "class_r_e_1_1_light_effect.html", null ],
+      [ "RE::LockEffect", "class_r_e_1_1_lock_effect.html", null ],
+      [ "RE::OpenEffect", "class_r_e_1_1_open_effect.html", null ],
+      [ "RE::ScriptEffect", "class_r_e_1_1_script_effect.html", [
+        [ "RE::ScriptedRefEffect", "class_r_e_1_1_scripted_ref_effect.html", null ],
+        [ "RE::SlowTimeEffect", "class_r_e_1_1_slow_time_effect.html", null ]
+      ] ],
+      [ "RE::SoulTrapEffect", "class_r_e_1_1_soul_trap_effect.html", null ],
+      [ "RE::SpawnHazardEffect", "class_r_e_1_1_spawn_hazard_effect.html", null ],
+      [ "RE::StaggerEffect", "class_r_e_1_1_stagger_effect.html", [
+        [ "RE::DisarmEffect", "class_r_e_1_1_disarm_effect.html", null ]
+      ] ],
       [ "RE::SummonCreatureEffect", "class_r_e_1_1_summon_creature_effect.html", null ],
+      [ "RE::TelekinesisEffect", "class_r_e_1_1_telekinesis_effect.html", null ],
       [ "RE::ValueModifierEffect", "class_r_e_1_1_value_modifier_effect.html", [
         [ "RE::AbsorbEffect", "class_r_e_1_1_absorb_effect.html", null ],
+        [ "RE::AccumulatingValueModifierEffect", "class_r_e_1_1_accumulating_value_modifier_effect.html", null ],
+        [ "RE::DarknessEffect", "class_r_e_1_1_darkness_effect.html", null ],
+        [ "RE::DualValueModifierEffect", "class_r_e_1_1_dual_value_modifier_effect.html", [
+          [ "RE::EnhanceWeaponEffect", "class_r_e_1_1_enhance_weapon_effect.html", null ]
+        ] ],
+        [ "RE::GrabActorEffect", "class_r_e_1_1_grab_actor_effect.html", null ],
+        [ "RE::InvisibilityEffect", "class_r_e_1_1_invisibility_effect.html", null ],
+        [ "RE::NightEyeEffect", "class_r_e_1_1_night_eye_effect.html", null ],
         [ "RE::ParalysisEffect", "class_r_e_1_1_paralysis_effect.html", null ],
+        [ "RE::PeakValueModifierEffect", "class_r_e_1_1_peak_value_modifier_effect.html", null ],
         [ "RE::TargetValueModifierEffect", "class_r_e_1_1_target_value_modifier_effect.html", [
           [ "RE::CalmEffect", "class_r_e_1_1_calm_effect.html", null ],
-          [ "RE::DemoralizeEffect", "class_r_e_1_1_demoralize_effect.html", null ],
-          [ "RE::FrenzyEffect", "class_r_e_1_1_frenzy_effect.html", null ]
-        ] ]
-      ] ]
+          [ "RE::DemoralizeEffect", "class_r_e_1_1_demoralize_effect.html", [
+            [ "RE::BanishEffect", "class_r_e_1_1_banish_effect.html", null ],
+            [ "RE::TurnUndeadEffect", "class_r_e_1_1_turn_undead_effect.html", null ]
+          ] ],
+          [ "RE::FrenzyEffect", "class_r_e_1_1_frenzy_effect.html", null ],
+          [ "RE::RallyEffect", "class_r_e_1_1_rally_effect.html", null ]
+        ] ],
+        [ "RE::ValueAndConditionsEffect", "class_r_e_1_1_value_and_conditions_effect.html", null ]
+      ] ],
+      [ "RE::VampireLordEffect", "class_r_e_1_1_vampire_lord_effect.html", null ],
+      [ "RE::WerewolfEffect", "class_r_e_1_1_werewolf_effect.html", null ],
+      [ "RE::WerewolfFeedEffect", "class_r_e_1_1_werewolf_feed_effect.html", null ]
     ] ],
     [ "RE::ACTOR_AGGRO_RADIUS", "struct_r_e_1_1_a_c_t_o_r___a_g_g_r_o___r_a_d_i_u_s.html", null ],
     [ "RE::ACTOR_BASE_DATA", "struct_r_e_1_1_a_c_t_o_r___b_a_s_e___d_a_t_a.html", null ],
@@ -46,6 +103,7 @@ var hierarchy =
     [ "RE::Actor::ACTOR_RUNTIME_DATA", "struct_r_e_1_1_actor_1_1_a_c_t_o_r___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::ACTOR_VALUE_MODIFIERS", "struct_r_e_1_1_a_c_t_o_r___v_a_l_u_e___m_o_d_i_f_i_e_r_s.html", null ],
     [ "RE::ActorCause", "class_r_e_1_1_actor_cause.html", null ],
+    [ "RE::ActorInventoryEvent", "struct_r_e_1_1_actor_inventory_event.html", null ],
     [ "RE::ActorKill", "struct_r_e_1_1_actor_kill.html", null ],
     [ "RE::ActorMover", "class_r_e_1_1_actor_mover.html", null ],
     [ "RE::ActorPackage", "class_r_e_1_1_actor_package.html", null ],
@@ -78,15 +136,20 @@ var hierarchy =
       [ "RE::NiTMapBase< Allocator, Key, T >::AntiBloatAllocator", "struct_r_e_1_1_ni_t_map_base_1_1_anti_bloat_allocator.html", null ]
     ] ],
     [ "RE::BSTStaticHashMapBase< N >::Allocator< S, A >", "struct_r_e_1_1_b_s_t_static_hash_map_base_1_1_allocator.html", null ],
+    [ "RE::GFxMovieDataDef::Allocator", "class_r_e_1_1_g_fx_movie_data_def_1_1_allocator.html", null ],
     [ "Traits::Allocator", null, [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ActorEquipManager, BSTSingletonSDMOpStaticBuffer< ActorEquipManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< AnimationFileManagerSingleton, BSTSingletonSDMOpStaticBuffer< AnimationFileManagerSingleton > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< AnimationObjects, BSTSingletonSDMOpStaticBuffer< AnimationObjects > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSCreatedObjectManager, BSTSingletonSDMOpStaticBuffer< BGSCreatedObjectManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSFootstepManager, BSTSingletonSDMOpStaticBuffer< BGSFootstepManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSGrassManager, BSTSingletonSDMOpStaticBuffer< BGSGrassManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSImpactManager, BSTSingletonSDMOpStaticBuffer< BGSImpactManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSStoryTeller, BSTSingletonSDMOpStaticBuffer< BGSStoryTeller > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSDirectInputManager, BSTSingletonSDMOpStaticBuffer< BSDirectInputManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSFaceGenManager, BSTSingletonSDMOpStaticBuffer< BSFaceGenManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSInputDeviceManager, BSTSingletonSDMOpStaticBuffer< BSInputDeviceManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSInputEventQueue, BSTSingletonSDMOpStaticBuffer< BSInputEventQueue > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSMusicManager, BSTSingletonSDMOpStaticBuffer< BSMusicManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< DevNull, BSTSingletonSDMOpStaticBuffer< DevNull > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< GlobalLocations, BSTSingletonSDMOpStaticBuffer< GlobalLocations > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
@@ -94,14 +157,17 @@ var hierarchy =
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSScaleformManager, BSTSingletonSDMOpStaticBuffer< BSScaleformManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy > > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< T, BSTSingletonSDMOpStaticBuffer< T > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTreeManager, BSTSingletonSDMOpStaticBuffer< BSTreeManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< Calendar, BSTSingletonSDMOpStaticBuffer< Calendar > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ConsoleLog, BSTSingletonSDMOpStaticBuffer< ConsoleLog > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ControlMap, BSTSingletonSDMOpStaticBuffer< ControlMap > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< FOCollisionListener, BSTSingletonSDMOpStaticBuffer< FOCollisionListener > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy > > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< InterfaceStrings, BSTSingletonSDMOpStaticBuffer< InterfaceStrings > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< Inventory3DManager, BSTSingletonSDMOpStaticBuffer< Inventory3DManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MagicFavorites, BSTSingletonSDMOpStaticBuffer< MagicFavorites > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuControls, BSTSingletonSDMOpStaticBuffer< MenuControls > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuCursor, BSTSingletonSDMOpStaticBuffer< MenuCursor > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuTopicManager, BSTSingletonSDMOpStaticBuffer< MenuTopicManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< PlayerCamera, BSTSingletonSDMOpStaticBuffer< PlayerCamera > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< PlayerControls, BSTSingletonSDMOpStaticBuffer< PlayerControls > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ],
@@ -125,8 +191,14 @@ var hierarchy =
         [ "RE::BSTSingletonSDM< ActorEquipManager >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::ActorEquipManager", "class_r_e_1_1_actor_equip_manager.html", null ]
         ] ],
+        [ "RE::BSTSingletonSDM< AnimationFileManagerSingleton >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
+          [ "RE::AnimationFileManagerSingleton", "class_r_e_1_1_animation_file_manager_singleton.html", null ]
+        ] ],
         [ "RE::BSTSingletonSDM< AnimationObjects >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::AnimationObjects", "class_r_e_1_1_animation_objects.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BGSCreatedObjectManager >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
+          [ "RE::BGSCreatedObjectManager", "class_r_e_1_1_b_g_s_created_object_manager.html", null ]
         ] ],
         [ "RE::BSTSingletonSDM< BGSFootstepManager >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::BGSFootstepManager", "class_r_e_1_1_b_g_s_footstep_manager.html", null ]
@@ -140,11 +212,17 @@ var hierarchy =
         [ "RE::BSTSingletonSDM< BGSStoryTeller >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::BGSStoryTeller", "class_r_e_1_1_b_g_s_story_teller.html", null ]
         ] ],
+        [ "RE::BSTSingletonSDM< BSDirectInputManager >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
+          [ "RE::BSDirectInputManager", "class_r_e_1_1_b_s_direct_input_manager.html", null ]
+        ] ],
         [ "RE::BSTSingletonSDM< BSFaceGenManager >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::BSFaceGenManager", "class_r_e_1_1_b_s_face_gen_manager.html", null ]
         ] ],
         [ "RE::BSTSingletonSDM< BSInputDeviceManager >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::BSInputDeviceManager", "class_r_e_1_1_b_s_input_device_manager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSInputEventQueue >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
+          [ "RE::BSInputEventQueue", "class_r_e_1_1_b_s_input_event_queue.html", null ]
         ] ],
         [ "RE::BSTSingletonSDM< BSMusicManager >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::BSMusicManager", "class_r_e_1_1_b_s_music_manager.html", null ]
@@ -164,6 +242,9 @@ var hierarchy =
         [ "RE::BSTSingletonSDM< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy >", "class_r_e_1_1_b_s_t_object_dictionary.html", null ]
         ] ],
+        [ "RE::BSTSingletonSDM< BSTreeManager >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
+          [ "RE::BSTreeManager", "class_r_e_1_1_b_s_tree_manager.html", null ]
+        ] ],
         [ "RE::BSTSingletonSDM< Calendar >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::Calendar", "class_r_e_1_1_calendar.html", null ]
         ] ],
@@ -172,6 +253,9 @@ var hierarchy =
         ] ],
         [ "RE::BSTSingletonSDM< ControlMap >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::ControlMap", "class_r_e_1_1_control_map.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< FOCollisionListener >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
+          [ "RE::FOCollisionListener", "class_r_e_1_1_f_o_collision_listener.html", null ]
         ] ],
         [ "RE::BSTSingletonSDM< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", null ],
         [ "RE::BSTSingletonSDM< InterfaceStrings >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
@@ -185,6 +269,9 @@ var hierarchy =
         ] ],
         [ "RE::BSTSingletonSDM< MenuControls >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::MenuControls", "class_r_e_1_1_menu_controls.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< MenuCursor >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
+          [ "RE::MenuCursor", "class_r_e_1_1_menu_cursor.html", null ]
         ] ],
         [ "RE::BSTSingletonSDM< MenuTopicManager >", "struct_r_e_1_1_b_s_t_singleton_s_d_m.html", [
           [ "RE::MenuTopicManager", "class_r_e_1_1_menu_topic_manager.html", null ]
@@ -259,6 +346,8 @@ var hierarchy =
     [ "RE::AnimVariableCacheInfo", "struct_r_e_1_1_anim_variable_cache_info.html", null ],
     [ "RE::hkaAnnotationTrack::Annotation", "struct_r_e_1_1hka_annotation_track_1_1_annotation.html", null ],
     [ "RE::BSArchiveHeader::ArchiveFlag", "struct_r_e_1_1_b_s_archive_header_1_1_archive_flag.html", null ],
+    [ "RE::BSModelDB::DBTraits::ArgsType", "struct_r_e_1_1_b_s_model_d_b_1_1_d_b_traits_1_1_args_type.html", null ],
+    [ "RE::BSScript::ByteCode::Argument", "struct_r_e_1_1_b_s_script_1_1_byte_code_1_1_argument.html", null ],
     [ "RE::ExtraMissingLinkedRefIDs::Array", "struct_r_e_1_1_extra_missing_linked_ref_i_ds_1_1_array.html", null ],
     [ "RE::ArrowProjectile::ARROW_RUNTIME_DATA", "struct_r_e_1_1_arrow_projectile_1_1_a_r_r_o_w___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::GFxValue::ObjectInterface::ArrVisitor", "class_r_e_1_1_g_fx_value_1_1_object_interface_1_1_arr_visitor.html", null ],
@@ -748,6 +837,12 @@ var hierarchy =
     [ "RE::BGSHazardData", "struct_r_e_1_1_b_g_s_hazard_data.html", null ],
     [ "RE::BGSInstancedQuestObjective", "class_r_e_1_1_b_g_s_instanced_quest_objective.html", null ],
     [ "RE::BGSLargeRefData", "class_r_e_1_1_b_g_s_large_ref_data.html", null ],
+    [ "RE::BGSLoadFormData", "class_r_e_1_1_b_g_s_load_form_data.html", [
+      [ "RE::BGSLoadFormBuffer", "class_r_e_1_1_b_g_s_load_form_buffer.html", null ]
+    ] ],
+    [ "RE::BGSLoadGameBuffer", "class_r_e_1_1_b_g_s_load_game_buffer.html", [
+      [ "RE::BGSLoadFormBuffer", "class_r_e_1_1_b_g_s_load_form_buffer.html", null ]
+    ] ],
     [ "RE::BGSLoadGameSubBuffer", "struct_r_e_1_1_b_g_s_load_game_sub_buffer.html", null ],
     [ "RE::BGSLocalizedStringDL", "class_r_e_1_1_b_g_s_localized_string_d_l.html", null ],
     [ "RE::BGSOpenCloseForm", "class_r_e_1_1_b_g_s_open_close_form.html", [
@@ -803,8 +898,10 @@ var hierarchy =
     [ "RE::BottomBar", "struct_r_e_1_1_bottom_bar.html", null ],
     [ "RE::TESBoundObject::BOUND_DATA", "struct_r_e_1_1_t_e_s_bound_object_1_1_b_o_u_n_d___d_a_t_a.html", null ],
     [ "RE::hkpCollidable::BoundingVolumeData", "struct_r_e_1_1hkp_collidable_1_1_bounding_volume_data.html", null ],
+    [ "RE::BSSceneGraph::BS_SCENE_GRAPH_RUNTIME_DATA", "struct_r_e_1_1_b_s_scene_graph_1_1_b_s___s_c_e_n_e___g_r_a_p_h___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::BSAnimationGraphEvent", "struct_r_e_1_1_b_s_animation_graph_event.html", null ],
     [ "RE::BSAnimationGraphVariableCache", "struct_r_e_1_1_b_s_animation_graph_variable_cache.html", null ],
+    [ "RE::BSAnimationUpdateData", "struct_r_e_1_1_b_s_animation_update_data.html", null ],
     [ "RE::BSAnimNoteListener", "class_r_e_1_1_b_s_anim_note_listener.html", null ],
     [ "RE::BSAnimNoteListener::BSAnimReceiverType", "struct_r_e_1_1_b_s_anim_note_listener_1_1_b_s_anim_receiver_type.html", null ],
     [ "RE::BSArchiveHeader", "class_r_e_1_1_b_s_archive_header.html", [
@@ -817,7 +914,6 @@ var hierarchy =
     [ "RE::BSBitFieldHeapAllocator", "class_r_e_1_1_b_s_bit_field_heap_allocator.html", [
       [ "RE::BSBitField< Allocator >", "class_r_e_1_1_b_s_bit_field.html", null ]
     ] ],
-    [ "RE::BSContainer", "struct_r_e_1_1_b_s_container.html", null ],
     [ "RE::detail::BSCRC32< class, bool >", "struct_r_e_1_1detail_1_1_b_s_c_r_c32.html", [
       [ "RE::BSCRC32_< std::remove_cv_t< T > >", "struct_r_e_1_1_b_s_c_r_c32__.html", [
         [ "RE::BSCRC32< T >", "struct_r_e_1_1_b_s_c_r_c32.html", null ]
@@ -1011,6 +1107,7 @@ var hierarchy =
       [ "RE::BSFaceGenKeyframeMultiple", "class_r_e_1_1_b_s_face_gen_keyframe_multiple.html", null ]
     ] ],
     [ "RE::BSFaceGenModelMap", "struct_r_e_1_1_b_s_face_gen_model_map.html", null ],
+    [ "RE::BSFaceGenModelMeshData", "class_r_e_1_1_b_s_face_gen_model_mesh_data.html", null ],
     [ "RE::detail::BSFixedString< CharT >", "class_r_e_1_1detail_1_1_b_s_fixed_string.html", null ],
     [ "RE::detail::BSFixedString< char >", "class_r_e_1_1detail_1_1_b_s_fixed_string.html", null ],
     [ "RE::detail::BSFixedString< char >< char >", "class_r_e_1_1detail_1_1_b_s_fixed_string.html", null ],
@@ -1025,6 +1122,7 @@ var hierarchy =
       [ "RE::BSInputDevice", "class_r_e_1_1_b_s_input_device.html", [
         [ "RE::BSGamepadDevice", "class_r_e_1_1_b_s_gamepad_device.html", [
           [ "RE::BSPCGamepadDeviceDelegate", "class_r_e_1_1_b_s_p_c_gamepad_device_delegate.html", [
+            [ "RE::BSPCOrbisGamepadDevice", "class_r_e_1_1_b_s_p_c_orbis_gamepad_device.html", null ],
             [ "RE::BSWin32GamepadDevice", "class_r_e_1_1_b_s_win32_gamepad_device.html", null ]
           ] ]
         ] ],
@@ -1054,6 +1152,7 @@ var hierarchy =
     [ "RE::BSIMusicType", "class_r_e_1_1_b_s_i_music_type.html", [
       [ "RE::BGSMusicType", "class_r_e_1_1_b_g_s_music_type.html", null ]
     ] ],
+    [ "RE::BSInputDeviceFactory", "class_r_e_1_1_b_s_input_device_factory.html", null ],
     [ "RE::BSIntrusiveRefCounted", "struct_r_e_1_1_b_s_intrusive_ref_counted.html", [
       [ "RE::BGSPackageDataNameMap", "struct_r_e_1_1_b_g_s_package_data_name_map.html", null ],
       [ "RE::BSAnimationGraphChannel", "class_r_e_1_1_b_s_animation_graph_channel.html", [
@@ -1072,6 +1171,9 @@ var hierarchy =
       [ "RE::BSScript::IFunction", "class_r_e_1_1_b_s_script_1_1_i_function.html", [
         [ "RE::BSScript::Internal::ScriptFunction", "class_r_e_1_1_b_s_script_1_1_internal_1_1_script_function.html", null ],
         [ "RE::BSScript::NF_util::NativeFunctionBase", "class_r_e_1_1_b_s_script_1_1_n_f__util_1_1_native_function_base.html", [
+          [ "RE::BSScript::NativeFunction< IS_LONG, F, std::underlying_type_t< callbackR >, Base, Args... >", "class_r_e_1_1_b_s_script_1_1_native_function.html", [
+            [ "RE::BSScript::NativeLatentFunction< IS_LONG, F, callbackR, latentR, Base, Args >", "class_r_e_1_1_b_s_script_1_1_native_latent_function.html", null ]
+          ] ],
           [ "RE::BSScript::NativeFunction< true, R(BSScript::IVirtualMachine *, Int, Cls, Args...), R, Cls, Args... >", "class_r_e_1_1_b_s_script_1_1_native_function.html", [
             [ "RE::NativeFunction< R(BSScript::IVirtualMachine *, Int, Cls, Args...), std::enable_if_t< BSScript::is_valid_long_sig_v< Int, R, Cls, Args... > > >", "class_r_e_1_1_native_function_3_01_r_07_b_s_script_1_1_i_virtual_machine_01_5_00_01_int_00_01_cl1379fbc46a200622e6b1eb5b7e8a4314.html", null ]
           ] ],
@@ -1081,7 +1183,12 @@ var hierarchy =
           [ "RE::BSScript::NativeFunction< false, R(Cls, Args...), R, Cls, Args... >", "class_r_e_1_1_b_s_script_1_1_native_function.html", [
             [ "RE::NativeFunction< R(Cls, Args...), std::enable_if_t< BSScript::is_valid_short_sig_v< R, Cls, Args... > > >", "class_r_e_1_1_native_function_3_01_r_07_cls_00_01_args_8_8_8_08_00_01std_1_1enable__if__t_3_01_bac1ef1fc021f1814d156286b5ba87531.html", null ]
           ] ],
-          [ "RE::BSScript::NativeFunction< IS_LONG, F, R, Base, Args >", "class_r_e_1_1_b_s_script_1_1_native_function.html", null ]
+          [ "RE::BSScript::NativeFunction< IS_LONG, F(BSScript::Internal::VirtualMachine *, Int, Cls, Args...), std::underlying_type_t< F >, Cls, Args... >", "class_r_e_1_1_b_s_script_1_1_native_function.html", null ],
+          [ "RE::BSScript::NativeFunction< IS_LONG, F, R, Base, Args >", "class_r_e_1_1_b_s_script_1_1_native_function.html", [
+            [ "RE::BSScript::NativeLatentFunction< true, F(BSScript::Internal::VirtualMachine *, Int, Cls, Args...), F, R, Cls, Args... >", "class_r_e_1_1_b_s_script_1_1_native_latent_function.html", [
+              [ "RE::NativeLatentFunction< R, F(BSScript::Internal::VirtualMachine *, Int, Cls, Args...), std::enable_if_t< BSScript::is_valid_latent_long_sig_v< R, Int, F, Cls, Args... > > >", "class_r_e_1_1_native_latent_function_3_01_r_00_01_f_07_b_s_script_1_1_internal_1_1_virtual_machi33575bd46e2d3b5ab6f5c6ec6ff0a4b5.html", null ]
+            ] ]
+          ] ]
         ] ]
       ] ],
       [ "RE::BSScript::IStackCallbackFunctor", "class_r_e_1_1_b_s_script_1_1_i_stack_callback_functor.html", null ],
@@ -1126,9 +1233,15 @@ var hierarchy =
       [ "RE::BShkbAnimationGraph", "class_r_e_1_1_b_shkb_animation_graph.html", null ],
       [ "RE::BaseTreeData", "struct_r_e_1_1_base_tree_data.html", null ],
       [ "RE::BipedAnim", "class_r_e_1_1_biped_anim.html", null ],
+      [ "RE::CraftingSubMenus::EnchantConstructMenu::CategoryListEntry", "class_r_e_1_1_crafting_sub_menus_1_1_enchant_construct_menu_1_1_category_list_entry.html", [
+        [ "RE::CraftingSubMenus::EnchantConstructMenu::EnchantmentEntry", "class_r_e_1_1_crafting_sub_menus_1_1_enchant_construct_menu_1_1_enchantment_entry.html", null ],
+        [ "RE::CraftingSubMenus::EnchantConstructMenu::ItemChangeEntry", "class_r_e_1_1_crafting_sub_menus_1_1_enchant_construct_menu_1_1_item_change_entry.html", null ]
+      ] ],
       [ "RE::DialogueItem", "class_r_e_1_1_dialogue_item.html", null ],
       [ "RE::HighProcessData::Data190", "struct_r_e_1_1_high_process_data_1_1_data190.html", null ],
-      [ "RE::IHandlerFunctor< Handler, Parameter >", "class_r_e_1_1_i_handler_functor.html", null ],
+      [ "RE::IHandlerFunctor< Handler, Parameter >", "class_r_e_1_1_i_handler_functor.html", [
+        [ "RE::VoiceSpellFireHandler", "class_r_e_1_1_voice_spell_fire_handler.html", null ]
+      ] ],
       [ "RE::IMessageBoxCallback", "class_r_e_1_1_i_message_box_callback.html", [
         [ "RE::CraftingSubMenus::AlchemyMenu::QuitMenuCallback", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu_1_1_quit_menu_callback.html", null ],
         [ "RE::CraftingSubMenus::ConstructibleObjectMenu::CreationConfirmCallback", "class_r_e_1_1_crafting_sub_menus_1_1_constructible_object_menu_1_1_creation_confirm_callback.html", null ],
@@ -1138,6 +1251,8 @@ var hierarchy =
           [ "RE::CraftingSubMenus::EnchantConstructMenu::EnchantMenuExitCallback", "class_r_e_1_1_crafting_sub_menus_1_1_enchant_construct_menu_1_1_enchant_menu_exit_callback.html", null ]
         ] ],
         [ "RE::CraftingSubMenus::SmithingMenu::SmithingConfirmCallback", "class_r_e_1_1_crafting_sub_menus_1_1_smithing_menu_1_1_smithing_confirm_callback.html", null ],
+        [ "RE::FastTravelConfirmCallback", "class_r_e_1_1_fast_travel_confirm_callback.html", null ],
+        [ "RE::LegendarySkillResetConfirmCallback", "class_r_e_1_1_legendary_skill_reset_confirm_callback.html", null ],
         [ "RE::OldMessageBoxCallback", "class_r_e_1_1_old_message_box_callback.html", null ]
       ] ],
       [ "RE::MenuEventHandler", "class_r_e_1_1_menu_event_handler.html", [
@@ -1158,6 +1273,7 @@ var hierarchy =
         [ "RE::MistMenu", "class_r_e_1_1_mist_menu.html", null ],
         [ "RE::ModManagerMenu", "class_r_e_1_1_mod_manager_menu.html", null ],
         [ "RE::RaceSexMenu", "class_r_e_1_1_race_sex_menu.html", null ],
+        [ "RE::ScreenshotHandler", "struct_r_e_1_1_screenshot_handler.html", null ],
         [ "RE::StatsMenu", "class_r_e_1_1_stats_menu.html", null ]
       ] ],
       [ "RE::MovementControllerAI", "class_r_e_1_1_movement_controller_a_i.html", [
@@ -1181,6 +1297,7 @@ var hierarchy =
       ] ],
       [ "RE::TESCameraState", "class_r_e_1_1_t_e_s_camera_state.html", [
         [ "RE::FirstPersonState", "class_r_e_1_1_first_person_state.html", null ],
+        [ "RE::FreeCameraState", "class_r_e_1_1_free_camera_state.html", null ],
         [ "RE::LocalMapCamera::DefaultState", "class_r_e_1_1_local_map_camera_1_1_default_state.html", null ],
         [ "RE::MapCameraStates::Exit", "class_r_e_1_1_map_camera_states_1_1_exit.html", null ],
         [ "RE::MapCameraStates::Transition", "class_r_e_1_1_map_camera_states_1_1_transition.html", null ],
@@ -1251,7 +1368,6 @@ var hierarchy =
         ] ]
       ] ]
     ] ],
-    [ "RE::BSRenderManager", "class_r_e_1_1_b_s_render_manager.html", null ],
     [ "RE::BSRenderPass", "class_r_e_1_1_b_s_render_pass.html", null ],
     [ "RE::BSSaveDataSystemUtilityImage", "struct_r_e_1_1_b_s_save_data_system_utility_image.html", null ],
     [ "RE::BSScaleformRenderer", "struct_r_e_1_1_b_s_scaleform_renderer.html", null ],
@@ -1259,6 +1375,7 @@ var hierarchy =
     [ "RE::BSSemaphoreBase", "class_r_e_1_1_b_s_semaphore_base.html", [
       [ "RE::BSSemaphore", "class_r_e_1_1_b_s_semaphore.html", null ]
     ] ],
+    [ "RE::BSShaderManager", "class_r_e_1_1_b_s_shader_manager.html", null ],
     [ "RE::BSShaderPropertyLightData", "class_r_e_1_1_b_s_shader_property_light_data.html", null ],
     [ "RE::BSSimpleList< T >", "class_r_e_1_1_b_s_simple_list.html", null ],
     [ "RE::BSSimpleList< BSPointerHandle< Actor > >", "class_r_e_1_1_b_s_simple_list.html", null ],
@@ -1332,6 +1449,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSTSmartPointer< RE::AnimationObject > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::TESObjectARMO * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BGSCollisionLayer * >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BGSCreatedObjectManager::CreatedMagicItemData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSResource::ID >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< std::uint32_t >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::DECAL_CREATION_DATA * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1394,16 +1512,23 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSScript::Internal::FunctionMessage >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSScript::Internal::CodeTasklet * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSScript::Internal::SuspendedStack >", "class_r_e_1_1_b_s_t_array.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Array > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Object > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Array > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSScript::Internal::VirtualMachine::QueuedUnbindRefs >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSScript::ReadableStringTable::StringEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSScript::Stack::MemoryPageData, 3 >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< std::uint16_t >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSLight * >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< BSTreeNode * >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSLeafAnimNode > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BShkbAnimationGraph::BoneNodeEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< BShkFloatController * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< std::uint8_t >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BoneData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiMatrix3 >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::SpellItem * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::CachedValueData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< CombatAimController * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< CombatAreaStandard * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1421,6 +1546,11 @@ var hierarchy =
       [ "RE::BSTArray< RE::ControlMap::UserEventMapping >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::MenuIngredientEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::UsableEffectMap >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::ConstructibleObjectMenu::ItemEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::CategoryListEntry > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::Effect >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::EnchantmentEntry > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::SmithingMenu::SmithingItemEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< BSPointerHandle< Actor > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::EffectSetting::SoundPair >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BGSRefAliasInstanceData * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1435,6 +1565,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::ExtraLinkedRefChildren::LinkedRefChild >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::MarkerUsedData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSTTuple< BSPointerHandle< TESObjectREFR >, std::uint32_t > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::FOCollisionListener::ObjectDamageImpactData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::HUDNotifications::Notification >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSTTuple< FormID, RE::NiPointer< RE::ActorKnowledge > > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< QueuedDialogueType * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1453,11 +1584,13 @@ var hierarchy =
       [ "RE::BSTArray< RE::NiObjectGroup >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::UnloadedRefData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::TESCameraState *, CameraStates::kTotal >", "class_r_e_1_1_b_s_t_array.html", null ],
-      [ "RE::BSTArray< UnkValue >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk00Data >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk18Data >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::PlayerInputHandler * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSTSmartPointer< RE::SyncQueueObj > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSPointerHandle >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::Projectile::WobbleControl >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< MagicSystem::CastingSource >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::ShaderReferenceEffect::TextureRequest >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::ShaderReferenceEffect::ParticleShader >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::NiTexture > >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1481,7 +1614,6 @@ var hierarchy =
       [ "RE::BSTArray< RE::BGSTextureSet * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::TESNPC * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BGSColorForm * >", "class_r_e_1_1_b_s_t_array.html", null ],
-      [ "RE::BSTArray< std::uint16_t >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::TESRegionDataSound::Sound * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::BSMultiBoundAABB > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::TESWaterObject > >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1491,7 +1623,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::TESObjectSTAT * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::TESObjectREFR > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::GPtr< RE::IMenu > >", "class_r_e_1_1_b_s_t_array.html", null ],
-      [ "RE::BSTArray< RE::UI3DSceneManager::MenuLight * >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::MenuLight * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< INTERFACE_LIGHT_SCHEME >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::TESImageSpaceModifier > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::UIRenderManager::UILightData * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1506,6 +1638,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSTSmartPointer< RE::AnimationObject > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::TESObjectARMO * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BGSCollisionLayer * >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BGSCreatedObjectManager::CreatedMagicItemData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSResource::ID >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< std::uint32_t >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::DECAL_CREATION_DATA * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1568,15 +1701,22 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSScript::Internal::FunctionMessage >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSScript::Internal::CodeTasklet * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSScript::Internal::SuspendedStack >", "class_r_e_1_1_b_s_t_array.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Array > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Object > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Array > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSScript::Internal::VirtualMachine::QueuedUnbindRefs >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSScript::ReadableStringTable::StringEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< std::uint16_t >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSLight * >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< BSTreeNode * >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSLeafAnimNode > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BShkbAnimationGraph::BoneNodeEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< BShkFloatController * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< std::uint8_t >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BoneData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiMatrix3 >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::SpellItem * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::CachedValueData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< CombatAimController * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< CombatAreaStandard * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1594,6 +1734,11 @@ var hierarchy =
       [ "RE::BSTArray< RE::ControlMap::UserEventMapping >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::MenuIngredientEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::UsableEffectMap >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::ConstructibleObjectMenu::ItemEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::CategoryListEntry > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::Effect >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::EnchantmentEntry > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::SmithingMenu::SmithingItemEntry >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< BSPointerHandle< Actor > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::EffectSetting::SoundPair >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BGSRefAliasInstanceData * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1608,6 +1753,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::ExtraLinkedRefChildren::LinkedRefChild >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::MarkerUsedData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSTTuple< BSPointerHandle< TESObjectREFR >, std::uint32_t > >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::FOCollisionListener::ObjectDamageImpactData >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::HUDNotifications::Notification >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSTTuple< FormID, RE::NiPointer< RE::ActorKnowledge > > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< QueuedDialogueType * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1625,11 +1771,13 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSTSmartPointer< RE::NavMesh > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiObjectGroup >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::UnloadedRefData >", "class_r_e_1_1_b_s_t_array.html", null ],
-      [ "RE::BSTArray< UnkValue >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk00Data >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk18Data >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::PlayerInputHandler * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSTSmartPointer< RE::SyncQueueObj > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BSPointerHandle >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::Projectile::WobbleControl >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< MagicSystem::CastingSource >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::ShaderReferenceEffect::TextureRequest >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::ShaderReferenceEffect::ParticleShader >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::NiTexture > >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1653,7 +1801,6 @@ var hierarchy =
       [ "RE::BSTArray< RE::BGSTextureSet * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::TESNPC * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::BGSColorForm * >", "class_r_e_1_1_b_s_t_array.html", null ],
-      [ "RE::BSTArray< std::uint16_t >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::TESRegionDataSound::Sound * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::BSMultiBoundAABB > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::TESWaterObject > >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1663,7 +1810,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::TESObjectSTAT * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::TESObjectREFR > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::GPtr< RE::IMenu > >", "class_r_e_1_1_b_s_t_array.html", null ],
-      [ "RE::BSTArray< RE::UI3DSceneManager::MenuLight * >", "class_r_e_1_1_b_s_t_array.html", null ],
+      [ "RE::BSTArray< RE::MenuLight * >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< INTERFACE_LIGHT_SCHEME >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::NiPointer< RE::TESImageSpaceModifier > >", "class_r_e_1_1_b_s_t_array.html", null ],
       [ "RE::BSTArray< RE::UIRenderManager::UILightData * >", "class_r_e_1_1_b_s_t_array.html", null ],
@@ -1671,6 +1818,10 @@ var hierarchy =
       [ "RE::BSTArray< T, Allocator >", "class_r_e_1_1_b_s_t_array.html", null ]
     ] ],
     [ "RE::BSTEventSink< Event >", "class_r_e_1_1_b_s_t_event_sink.html", null ],
+    [ "RE::BSTEventSink< ActorInventoryEvent >", "class_r_e_1_1_b_s_t_event_sink.html", [
+      [ "RE::BoundItemEffect", "class_r_e_1_1_bound_item_effect.html", null ],
+      [ "RE::EnhanceWeaponEffect", "class_r_e_1_1_enhance_weapon_effect.html", null ]
+    ] ],
     [ "RE::BSTEventSink< BGSCollisionSoundEvent >", "class_r_e_1_1_b_s_t_event_sink.html", [
       [ "RE::BGSImpactManager", "class_r_e_1_1_b_g_s_impact_manager.html", null ]
     ] ],
@@ -2250,12 +2401,18 @@ var hierarchy =
     [ "RE::BSTScatterTable< BSFixedString, BSTSmartPointer< AnimResponse > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSFixedString, const IBSTCreator< IUIMessageData > *, SIZE >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSFixedString< char >, RE::BGSActionData * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< BSFixedString< char >, RE::BSScript::ByteCode::Argument >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< BSFixedString< char >, RE::BSScript::UnlinkedTypes::Function * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< BSFixedString< char >, RE::BSScript::UnlinkedTypes::Property * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< BSFixedString< char >, RE::BSTScatterTable< BSFixedString< char >, RE::BSScript::UnlinkedTypes::Function * > * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSFixedString< char >, RE::BSTSmartPointer< RE::BSScript::ObjectTypeInfo > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSFixedString< char >, RE::NiControllerSequence * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSFixedString< char >, RE::NiPointer< RE::BGSAttackData > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSFixedString< char >, RE::NiPointer< RE::BSFaceGenModelMap::Entry > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSFixedString< char >, RE::UI::UIMenuEntry >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< BSFixedString< char >, std::byte >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSFixedString< char >, std::uint32_t >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< BSFixedString< char >, VariableData >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSFixedString< char >, VMTypeID >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< BSPointerHandle< TESObjectREFR >, BSCurrent::Action * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< const BSNavmeshInfo *, std::uint32_t >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
@@ -2274,12 +2431,15 @@ var hierarchy =
     [ "RE::BSTScatterTable< RE::CellID, FormID * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< RE::CellID, RE::TESObjectCELL * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< RE::detail::BSFixedString, RE::detail::BSFixedString >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< RE::MagicItem * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< RE::NiObject *, bool >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< RE::NiObject *, RE::NiObject * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< RE::TESQuest *, float >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< RE::TESQuest *, std::uint32_t >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< std::uint16_t, RE::NiPointer< BSNavmeshObstacleData > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< std::uint32_t, BSPointerHandle< TESObjectREFR > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< std::uint32_t, NavMeshInfo * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< std::uint32_t, RE::BGSCreatedObjectManager::CreatedMagicItemData >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< std::uint32_t, RE::BGSDistantTreeBlock::InstanceData * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< std::uint32_t, RE::BGSDistantTreeBlock::TreeGroup * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< std::uint32_t, RE::BSInputDevice::InputButton * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
@@ -2295,6 +2455,8 @@ var hierarchy =
     [ "RE::BSTScatterTable< UnkKey, UnkValue >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< VMHandle >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< VMHandle, RE::BSTSmallSharedArray< RE::BSScript::Internal::AttachedScript > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< VMHandle, RE::BSTSmartPointer< RE::BSScript::Array > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
+    [ "RE::BSTScatterTable< VMHandle, RE::BSTSmartPointer< RE::BSScript::Object > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< VMHandle, RE::SkyrimVM::InventoryEventFilterLists * >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< VMHandle, UnkValue >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
     [ "RE::BSTScatterTable< VMStackID, RE::BSTSmartPointer< RE::BSScript::Stack > >", "class_r_e_1_1_b_s_t_scatter_table.html", null ],
@@ -2306,8 +2468,14 @@ var hierarchy =
     [ "RE::BSTSDMTraits< ActorEquipManager, BSTSingletonSDMOpStaticBuffer< ActorEquipManager > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ActorEquipManager, BSTSingletonSDMOpStaticBuffer< ActorEquipManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
     ] ],
+    [ "RE::BSTSDMTraits< AnimationFileManagerSingleton, BSTSingletonSDMOpStaticBuffer< AnimationFileManagerSingleton > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< AnimationFileManagerSingleton, BSTSingletonSDMOpStaticBuffer< AnimationFileManagerSingleton > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
+    ] ],
     [ "RE::BSTSDMTraits< AnimationObjects, BSTSingletonSDMOpStaticBuffer< AnimationObjects > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< AnimationObjects, BSTSingletonSDMOpStaticBuffer< AnimationObjects > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BGSCreatedObjectManager, BSTSingletonSDMOpStaticBuffer< BGSCreatedObjectManager > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSCreatedObjectManager, BSTSingletonSDMOpStaticBuffer< BGSCreatedObjectManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
     ] ],
     [ "RE::BSTSDMTraits< BGSFootstepManager, BSTSingletonSDMOpStaticBuffer< BGSFootstepManager > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSFootstepManager, BSTSingletonSDMOpStaticBuffer< BGSFootstepManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
@@ -2321,11 +2489,17 @@ var hierarchy =
     [ "RE::BSTSDMTraits< BGSStoryTeller, BSTSingletonSDMOpStaticBuffer< BGSStoryTeller > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSStoryTeller, BSTSingletonSDMOpStaticBuffer< BGSStoryTeller > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
     ] ],
+    [ "RE::BSTSDMTraits< BSDirectInputManager, BSTSingletonSDMOpStaticBuffer< BSDirectInputManager > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSDirectInputManager, BSTSingletonSDMOpStaticBuffer< BSDirectInputManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
+    ] ],
     [ "RE::BSTSDMTraits< BSFaceGenManager, BSTSingletonSDMOpStaticBuffer< BSFaceGenManager > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSFaceGenManager, BSTSingletonSDMOpStaticBuffer< BSFaceGenManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
     ] ],
     [ "RE::BSTSDMTraits< BSInputDeviceManager, BSTSingletonSDMOpStaticBuffer< BSInputDeviceManager > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSInputDeviceManager, BSTSingletonSDMOpStaticBuffer< BSInputDeviceManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSInputEventQueue, BSTSingletonSDMOpStaticBuffer< BSInputEventQueue > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSInputEventQueue, BSTSingletonSDMOpStaticBuffer< BSInputEventQueue > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
     ] ],
     [ "RE::BSTSDMTraits< BSMusicManager, BSTSingletonSDMOpStaticBuffer< BSMusicManager > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSMusicManager, BSTSingletonSDMOpStaticBuffer< BSMusicManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
@@ -2342,6 +2516,9 @@ var hierarchy =
     [ "RE::BSTSDMTraits< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy > > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy > > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
     ] ],
+    [ "RE::BSTSDMTraits< BSTreeManager, BSTSingletonSDMOpStaticBuffer< BSTreeManager > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTreeManager, BSTSingletonSDMOpStaticBuffer< BSTreeManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
+    ] ],
     [ "RE::BSTSDMTraits< Calendar, BSTSingletonSDMOpStaticBuffer< Calendar > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< Calendar, BSTSingletonSDMOpStaticBuffer< Calendar > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
     ] ],
@@ -2353,6 +2530,9 @@ var hierarchy =
     ] ],
     [ "RE::BSTSDMTraits< DevNull, BSTSingletonSDMOpStaticBuffer< DevNull > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< DevNull, BSTSingletonSDMOpStaticBuffer< DevNull > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< FOCollisionListener, BSTSingletonSDMOpStaticBuffer< FOCollisionListener > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< FOCollisionListener, BSTSingletonSDMOpStaticBuffer< FOCollisionListener > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
     ] ],
     [ "RE::BSTSDMTraits< GlobalLocations, BSTSingletonSDMOpStaticBuffer< GlobalLocations > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< GlobalLocations, BSTSingletonSDMOpStaticBuffer< GlobalLocations > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
@@ -2374,6 +2554,9 @@ var hierarchy =
     ] ],
     [ "RE::BSTSDMTraits< MenuControls, BSTSingletonSDMOpStaticBuffer< MenuControls > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuControls, BSTSingletonSDMOpStaticBuffer< MenuControls > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< MenuCursor, BSTSingletonSDMOpStaticBuffer< MenuCursor > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuCursor, BSTSingletonSDMOpStaticBuffer< MenuCursor > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
     ] ],
     [ "RE::BSTSDMTraits< MenuTopicManager, BSTSingletonSDMOpStaticBuffer< MenuTopicManager > >", "struct_r_e_1_1_b_s_t_s_d_m_traits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuTopicManager, BSTSingletonSDMOpStaticBuffer< MenuTopicManager > > >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
@@ -2431,6 +2614,11 @@ var hierarchy =
     ] ],
     [ "RE::BSTSetTraits< Key >", "class_r_e_1_1_b_s_t_set_traits.html", null ],
     [ "RE::BSTSingletonExplicit< T >", "struct_r_e_1_1_b_s_t_singleton_explicit.html", null ],
+    [ "RE::BSTSingletonExplicit< BSModelProcessor >", "struct_r_e_1_1_b_s_t_singleton_explicit.html", [
+      [ "RE::BSModelDB::BSModelProcessor", "class_r_e_1_1_b_s_model_d_b_1_1_b_s_model_processor.html", [
+        [ "RE::TESModelDB::TESProcessor", "class_r_e_1_1_t_e_s_model_d_b_1_1_t_e_s_processor.html", null ]
+      ] ]
+    ] ],
     [ "RE::BSTSingletonExplicit< BSNavmeshInfoMap >", "struct_r_e_1_1_b_s_t_singleton_explicit.html", [
       [ "RE::BSNavmeshInfoMap", "class_r_e_1_1_b_s_navmesh_info_map.html", [
         [ "RE::NavMeshInfoMap", "class_r_e_1_1_nav_mesh_info_map.html", null ]
@@ -2478,6 +2666,7 @@ var hierarchy =
     [ "RE::BSTSmartPointer< RE::BipedAnim >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::BSAnimationGraphManager >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::BSEffectShaderData >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
+    [ "RE::BSTSmartPointer< RE::BSFaceGenModelMeshData >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::BShkbAnimationGraph >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::BSIntrusiveRefCounted >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::BSPathingCell >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
@@ -2495,6 +2684,7 @@ var hierarchy =
     [ "RE::BSTSmartPointer< RE::BSScript::Object >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::BSScript::ObjectTypeInfo >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::BSScript::Stack >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
+    [ "RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::ItemChangeEntry >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::DialogueItem >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::FavoritesHandler >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::HighProcessData::Data190 >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
@@ -2507,10 +2697,10 @@ var hierarchy =
     [ "RE::BSTSmartPointer< RE::MapCameraStates::World >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::MenuOpenHandler >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::RefrInteraction >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
+    [ "RE::BSTSmartPointer< RE::ScreenshotHandler >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::SkyrimScript::Store >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::TESCameraState >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointer< RE::WeaponAnimationGraphManagerHolder >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
-    [ "RE::BSTSmartPointer< ScreenshotHandler >", "class_r_e_1_1_b_s_t_smart_pointer.html", null ],
     [ "RE::BSTSmartPointerAutoPtr< T >", "struct_r_e_1_1_b_s_t_smart_pointer_auto_ptr.html", null ],
     [ "RE::BSTSmartPointerIntrusiveRefCount< T >", "struct_r_e_1_1_b_s_t_smart_pointer_intrusive_ref_count.html", null ],
     [ "RE::BSTStaticHashMapBase< N >", "struct_r_e_1_1_b_s_t_static_hash_map_base.html", null ],
@@ -2525,6 +2715,8 @@ var hierarchy =
     [ "RE::BSBitField< Allocator >::Buffer", "union_r_e_1_1_b_s_bit_field_1_1_buffer.html", null ],
     [ "RE::NiBinaryStream::BufferInfo", "struct_r_e_1_1_ni_binary_stream_1_1_buffer_info.html", null ],
     [ "RE::BSResourceNiBinaryStream::BufferType", "struct_r_e_1_1_b_s_resource_ni_binary_stream_1_1_buffer_type.html", null ],
+    [ "RE::BSPCOrbisGamepadDevice::ButtonState", "struct_r_e_1_1_b_s_p_c_orbis_gamepad_device_1_1_button_state.html", null ],
+    [ "RE::BSWin32GamepadDevice::ButtonState", "struct_r_e_1_1_b_s_win32_gamepad_device_1_1_button_state.html", null ],
     [ "RE::GRenderer::CachedData", "class_r_e_1_1_g_renderer_1_1_cached_data.html", null ],
     [ "RE::CachedValueData", "struct_r_e_1_1_cached_value_data.html", null ],
     [ "RE::CachedValues", "struct_r_e_1_1_cached_values.html", null ],
@@ -2599,6 +2791,7 @@ var hierarchy =
     [ "RE::TESWeather::Data::Color3", "struct_r_e_1_1_t_e_s_weather_1_1_data_1_1_color3.html", null ],
     [ "RE::GColor::ColorData", "union_r_e_1_1_g_color_1_1_color_data.html", null ],
     [ "RE::ImageSpaceBaseData::Tint::ColorF", "struct_r_e_1_1_image_space_base_data_1_1_tint_1_1_color_f.html", null ],
+    [ "RE::BSGamepadDevice::ColorParam", "struct_r_e_1_1_b_s_gamepad_device_1_1_color_param.html", null ],
     [ "RE::MistMenu::Colors", "struct_r_e_1_1_mist_menu_1_1_colors.html", null ],
     [ "RE::TESWeather::ColorTimes", "struct_r_e_1_1_t_e_s_weather_1_1_color_times.html", null ],
     [ "RE::TESWeather::ColorTypes", "struct_r_e_1_1_t_e_s_weather_1_1_color_types.html", null ],
@@ -2647,6 +2840,7 @@ var hierarchy =
       [ "RE::BSScript::is_static_base_pointer< T >", "struct_r_e_1_1_b_s_script_1_1is__static__base__pointer.html", null ],
       [ "RE::BSScript::is_unsigned_integral< T >", "struct_r_e_1_1_b_s_script_1_1is__unsigned__integral.html", null ],
       [ "RE::BSScript::is_unsigned_integral_convertible< T, class >", "struct_r_e_1_1_b_s_script_1_1is__unsigned__integral__convertible.html", null ],
+      [ "RE::BSScript::is_valid_latent_long_sig< R, Int, F, Cls, Args >", "struct_r_e_1_1_b_s_script_1_1is__valid__latent__long__sig.html", null ],
       [ "RE::BSScript::is_valid_long_sig< Int, R, Cls, Args >", "struct_r_e_1_1_b_s_script_1_1is__valid__long__sig.html", null ],
       [ "RE::BSScript::is_valid_parameter< T >", "struct_r_e_1_1_b_s_script_1_1is__valid__parameter.html", null ],
       [ "RE::BSScript::is_valid_return< T >", "struct_r_e_1_1_b_s_script_1_1is__valid__return.html", null ],
@@ -2659,6 +2853,7 @@ var hierarchy =
       [ "REL::detail::is_x64_pod< T, std::enable_if_t< std::is_class_v< T > > >", "struct_r_e_l_1_1detail_1_1is__x64__pod_3_01_t_00_01std_1_1enable__if__t_3_01std_1_1is__class__v_3_01_t_01_4_01_4_01_4.html", null ],
       [ "REL::detail::meets_function_req< T >", "struct_r_e_l_1_1detail_1_1meets__function__req.html", null ]
     ] ],
+    [ "RE::GArrayBase< T >::const_iterator", "struct_r_e_1_1_g_array_base_1_1const__iterator.html", null ],
     [ "RE::GHashSetBase< C, HashF, AltHashF, Allocator, Entry >::const_iterator", "struct_r_e_1_1_g_hash_set_base_1_1const__iterator.html", [
       [ "RE::GHashSetBase< C, HashF, AltHashF, Allocator, Entry >::iterator", "struct_r_e_1_1_g_hash_set_base_1_1iterator.html", null ]
     ] ],
@@ -2667,8 +2862,13 @@ var hierarchy =
     [ "RE::CONT_DATA", "struct_r_e_1_1_c_o_n_t___d_a_t_a.html", null ],
     [ "RE::ContainerItemExtra", "struct_r_e_1_1_container_item_extra.html", null ],
     [ "RE::ContainerObject", "struct_r_e_1_1_container_object.html", null ],
+    [ "RE::BSScript::UnlinkedTypes::ConvertTypeFunctor", "class_r_e_1_1_b_s_script_1_1_unlinked_types_1_1_convert_type_functor.html", [
+      [ "RE::BSScript::UnlinkedTypes::LinkerConvertTypeFunctor", "class_r_e_1_1_b_s_script_1_1_unlinked_types_1_1_linker_convert_type_functor.html", null ],
+      [ "RE::BSScript::UnlinkedTypes::VMTypeResolveFunctor", "class_r_e_1_1_b_s_script_1_1_unlinked_types_1_1_v_m_type_resolve_functor.html", null ]
+    ] ],
     [ "RE::hkpCompressedMeshShape::ConvexPiece", "class_r_e_1_1hkp_compressed_mesh_shape_1_1_convex_piece.html", null ],
     [ "RE::BGSRefAlias::CreatedFillData", "struct_r_e_1_1_b_g_s_ref_alias_1_1_created_fill_data.html", null ],
+    [ "RE::BGSCreatedObjectManager::CreatedMagicItemData", "struct_r_e_1_1_b_g_s_created_object_manager_1_1_created_magic_item_data.html", null ],
     [ "RE::CreatureSounds", "class_r_e_1_1_creature_sounds.html", null ],
     [ "RE::Crime", "struct_r_e_1_1_crime.html", null ],
     [ "RE::PackageNS::CRIME_TYPES", "struct_r_e_1_1_package_n_s_1_1_c_r_i_m_e___t_y_p_e_s.html", null ],
@@ -2679,6 +2879,8 @@ var hierarchy =
     [ "RE::CriticalHit", "struct_r_e_1_1_critical_hit.html", null ],
     [ "RE::CrosshairPickData", "class_r_e_1_1_crosshair_pick_data.html", null ],
     [ "SKSE::CrosshairRefEvent", "struct_s_k_s_e_1_1_crosshair_ref_event.html", null ],
+    [ "RE::BSGraphics::CubemapRenderTargetData", "struct_r_e_1_1_b_s_graphics_1_1_cubemap_render_target_data.html", null ],
+    [ "RE::BSGraphics::CubeMapRenderTargetProperties", "struct_r_e_1_1_b_s_graphics_1_1_cube_map_render_target_properties.html", null ],
     [ "RE::TESWaterReflections::CubeMapSide", "struct_r_e_1_1_t_e_s_water_reflections_1_1_cube_map_side.html", null ],
     [ "RE::BSVolumetricLightingRenderData::CustomColor", "struct_r_e_1_1_b_s_volumetric_lighting_render_data_1_1_custom_color.html", null ],
     [ "RE::GRenderer::Cxform", "class_r_e_1_1_g_renderer_1_1_cxform.html", null ],
@@ -2709,7 +2911,6 @@ var hierarchy =
     [ "RE::TESWeather::Data", "struct_r_e_1_1_t_e_s_weather_1_1_data.html", null ],
     [ "RE::AIProcess::Data0B8", "struct_r_e_1_1_a_i_process_1_1_data0_b8.html", null ],
     [ "RE::HighProcessData::Data208", "struct_r_e_1_1_high_process_data_1_1_data208.html", null ],
-    [ "RE::PlayerCharacter::Data928", "struct_r_e_1_1_player_character_1_1_data928.html", null ],
     [ "RE::hkaAnimation::DataChunk", "struct_r_e_1_1hka_animation_1_1_data_chunk.html", null ],
     [ "RE::GString::DataDesc", "struct_r_e_1_1_g_string_1_1_data_desc.html", null ],
     [ "RE::GString::DataDescUnion", "union_r_e_1_1_g_string_1_1_data_desc_union.html", null ],
@@ -2717,6 +2918,7 @@ var hierarchy =
     [ "RE::ExtraAttachedArrows3D::DataItem", "struct_r_e_1_1_extra_attached_arrows3_d_1_1_data_item.html", null ],
     [ "RE::BGSSoundOutput::DynamicAttenuationCharacteristics::DataType", "struct_r_e_1_1_b_g_s_sound_output_1_1_dynamic_attenuation_characteristics_1_1_data_type.html", null ],
     [ "RE::Calendar::Days", "struct_r_e_1_1_calendar_1_1_days.html", null ],
+    [ "RE::BSModelDB::DBTraits", "struct_r_e_1_1_b_s_model_d_b_1_1_d_b_traits.html", null ],
     [ "RE::hkpSolverInfo::DeactivationClasses", "struct_r_e_1_1hkp_solver_info_1_1_deactivation_classes.html", null ],
     [ "RE::hkpSolverInfo::DeactivationInfo", "struct_r_e_1_1hkp_solver_info_1_1_deactivation_info.html", null ],
     [ "RE::DECAL_CREATION_DATA", "struct_r_e_1_1_d_e_c_a_l___c_r_e_a_t_i_o_n___d_a_t_a.html", null ],
@@ -2732,6 +2934,8 @@ var hierarchy =
     [ "RE::BSVolumetricLightingRenderData::Density", "struct_r_e_1_1_b_s_volumetric_lighting_render_data_1_1_density.html", null ],
     [ "RE::ImageSpaceBaseData::DepthOfField", "struct_r_e_1_1_image_space_base_data_1_1_depth_of_field.html", null ],
     [ "RE::WaterShaderData::DepthProperties", "struct_r_e_1_1_water_shader_data_1_1_depth_properties.html", null ],
+    [ "RE::BSGraphics::DepthStencilData", "struct_r_e_1_1_b_s_graphics_1_1_depth_stencil_data.html", null ],
+    [ "RE::BSGraphics::DepthStencilTargetProperties", "struct_r_e_1_1_b_s_graphics_1_1_depth_stencil_target_properties.html", null ],
     [ "RE::DestructibleObjectData", "struct_r_e_1_1_destructible_object_data.html", null ],
     [ "RE::DestructibleObjectStage", "struct_r_e_1_1_destructible_object_stage.html", null ],
     [ "RE::DetectionEvent", "struct_r_e_1_1_detection_event.html", null ],
@@ -2739,6 +2943,17 @@ var hierarchy =
     [ "RE::DIALOGUE_DATA", "struct_r_e_1_1_d_i_a_l_o_g_u_e___d_a_t_a.html", null ],
     [ "RE::DIALOGUE_TYPES", "struct_r_e_1_1_d_i_a_l_o_g_u_e___t_y_p_e_s.html", null ],
     [ "RE::DialogueResponse", "class_r_e_1_1_dialogue_response.html", null ],
+    [ "RE::DirectInput8::DIDEVCAPS__", "struct_r_e_1_1_direct_input8_1_1_d_i_d_e_v_c_a_p_s____.html", null ],
+    [ "RE::DirectInput8::DIDEVICEINSTANCEA__", "struct_r_e_1_1_direct_input8_1_1_d_i_d_e_v_i_c_e_i_n_s_t_a_n_c_e_a____.html", null ],
+    [ "RE::DirectInput8::DIDEVICEOBJECTDATA__", "struct_r_e_1_1_direct_input8_1_1_d_i_d_e_v_i_c_e_o_b_j_e_c_t_d_a_t_a____.html", null ],
+    [ "RE::DirectInput8::DIDEVICEOBJECTINSTANCEA__", "struct_r_e_1_1_direct_input8_1_1_d_i_d_e_v_i_c_e_o_b_j_e_c_t_i_n_s_t_a_n_c_e_a____.html", null ],
+    [ "RE::DirectInput8::DIEFFECT__", "struct_r_e_1_1_direct_input8_1_1_d_i_e_f_f_e_c_t____.html", null ],
+    [ "RE::DirectInput8::DIEFFECTINFOA__", "struct_r_e_1_1_direct_input8_1_1_d_i_e_f_f_e_c_t_i_n_f_o_a____.html", null ],
+    [ "RE::DirectInput8::DIEFFESCAPE__", "struct_r_e_1_1_direct_input8_1_1_d_i_e_f_f_e_s_c_a_p_e____.html", null ],
+    [ "RE::DirectInput8::DIENVELOPE__", "struct_r_e_1_1_direct_input8_1_1_d_i_e_n_v_e_l_o_p_e____.html", null ],
+    [ "RE::DirectInput8::DIFILEEFFECT__", "struct_r_e_1_1_direct_input8_1_1_d_i_f_i_l_e_e_f_f_e_c_t____.html", null ],
+    [ "RE::DirectInput8::DIMOUSESTATE2__", "struct_r_e_1_1_direct_input8_1_1_d_i_m_o_u_s_e_s_t_a_t_e2____.html", null ],
+    [ "RE::DirectInput8::DIPROPHEADER__", "struct_r_e_1_1_direct_input8_1_1_d_i_p_r_o_p_h_e_a_d_e_r____.html", null ],
     [ "RE::BGSDirectionalAmbientLightingColors::Directional", "struct_r_e_1_1_b_g_s_directional_ambient_lighting_colors_1_1_directional.html", null ],
     [ "RE::BSMaterialObject::DIRECTIONAL_DATA", "struct_r_e_1_1_b_s_material_object_1_1_d_i_r_e_c_t_i_o_n_a_l___d_a_t_a.html", null ],
     [ "RE::TESFurniture::EntryPointData::DisabledEntryPoint", "struct_r_e_1_1_t_e_s_furniture_1_1_entry_point_data_1_1_disabled_entry_point.html", null ],
@@ -2815,20 +3030,24 @@ var hierarchy =
     [ "SKSE::stl::enumeration< BitmapSampleMode, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BitmapWrapMode, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BlendHint, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< BlendType, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BooleanValue, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BREADCRUMB_STATE, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BreakInfoFlags, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BroadPhaseBorderBehaviour, std::int8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BroadPhaseType, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BSAnimNote::AnimNoteType, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< BSGraphics::TextureAddressMode, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BuildType, std::int8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< BvTreeType, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< CAM_ACTION, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< CAM_OBJECT, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Capabilities, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< CapacityAndFlags, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< Category, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< CellFlag, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< CellState, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< ChangeType, std::int32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< CHARACTER_FLAGS, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< CharacterType, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< CloneState, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
@@ -2867,16 +3086,20 @@ var hierarchy =
     [ "SKSE::stl::enumeration< FavorLevel, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< FIGHT_REACTION, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< FILL_TYPE, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< FilterFlag, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< FilterType, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Flag, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Flag, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< FLAG, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< Flag, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Flag, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Flag1, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Flag2, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Flag2, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Flags, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FLAGS, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Flags, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< FLAGS, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< ForceType, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< Format, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< FormType, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< FreezeState, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Function, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
@@ -2884,6 +3107,7 @@ var hierarchy =
     [ "SKSE::stl::enumeration< FunctionType, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< FurnitureEventType, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< GeneralFlag, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< GFxPlaceFlags, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< GRASS_WATER_STATE, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< HeadPartType, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< HeapFlags, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
@@ -2911,7 +3135,7 @@ var hierarchy =
     [ "SKSE::stl::enumeration< Looping, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< LowProcessFlags, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< MagicSystem::CastingType, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MARKER_TYPE, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< MARKER_TYPE, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< MaterialType, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< MessageFlag, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< MipFlag, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
@@ -2927,6 +3151,7 @@ var hierarchy =
     [ "SKSE::stl::enumeration< NodeFlag, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< OBJECT_ACTION, std::int8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< OpenMode, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< ORDER, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< ORIENTATION, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< PACK_EVENT_ACTION_TYPE, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< PACK_INTERRUPT_TARGET, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
@@ -2977,6 +3202,7 @@ var hierarchy =
     [ "SKSE::stl::enumeration< State, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< StateMachineSelfTransitionMode, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< StereoDisplay, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< StringIndexSize, std::int32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Subtype, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< SupportedState, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< TEMPLATE_USE_FLAG, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
@@ -2986,6 +3212,7 @@ var hierarchy =
     [ "SKSE::stl::enumeration< TraversalFlag, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< TreeUpdateType, std::int8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< TriangleFlag, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
+    [ "SKSE::stl::enumeration< Type, std::int8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Type, std::uint16_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Type, std::uint32_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
     [ "SKSE::stl::enumeration< Type, std::uint8_t >", "class_s_k_s_e_1_1stl_1_1enumeration.html", null ],
@@ -3015,14 +3242,18 @@ var hierarchy =
     [ "RE::ItemCrafted::Event", "struct_r_e_1_1_item_crafted_1_1_event.html", null ],
     [ "RE::ItemsPickpocketed::Event", "struct_r_e_1_1_items_pickpocketed_1_1_event.html", null ],
     [ "RE::LevelIncrease::Event", "struct_r_e_1_1_level_increase_1_1_event.html", null ],
+    [ "RE::LocationCleared::Event", "struct_r_e_1_1_location_cleared_1_1_event.html", null ],
     [ "RE::LocationDiscovery::Event", "struct_r_e_1_1_location_discovery_1_1_event.html", null ],
+    [ "RE::ObjectiveState::Event", "struct_r_e_1_1_objective_state_1_1_event.html", null ],
     [ "RE::PoisonedWeapon::Event", "struct_r_e_1_1_poisoned_weapon_1_1_event.html", null ],
+    [ "RE::QuestStatus::Event", "struct_r_e_1_1_quest_status_1_1_event.html", null ],
     [ "RE::ShoutAttack::Event", "struct_r_e_1_1_shout_attack_1_1_event.html", null ],
     [ "RE::SkillIncrease::Event", "struct_r_e_1_1_skill_increase_1_1_event.html", null ],
     [ "RE::SoulsTrapped::Event", "struct_r_e_1_1_souls_trapped_1_1_event.html", null ],
     [ "RE::SpellsLearned::Event", "struct_r_e_1_1_spells_learned_1_1_event.html", null ],
     [ "SKSE::Impl::EventFilter< Filter >", "class_s_k_s_e_1_1_impl_1_1_event_filter.html", null ],
     [ "SKSE::Impl::EventFilterUnique< Filter >", "class_s_k_s_e_1_1_impl_1_1_event_filter_unique.html", null ],
+    [ "RE::GFxTimelineDef::ExecuteTagList", "struct_r_e_1_1_g_fx_timeline_def_1_1_execute_tag_list.html", null ],
     [ "RE::Explosion::EXPLOSION_RUNTIME_DATA", "struct_r_e_1_1_explosion_1_1_e_x_p_l_o_s_i_o_n___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::hkMemoryAllocator::ExtendedInterface", "struct_r_e_1_1hk_memory_allocator_1_1_extended_interface.html", null ],
     [ "RE::hkpEntity::ExtendedListeners", "struct_r_e_1_1hkp_entity_1_1_extended_listeners.html", null ],
@@ -3065,13 +3296,14 @@ var hierarchy =
       [ "RE::detail::types_are_compat< class, class >", "struct_r_e_1_1detail_1_1types__are__compat.html", null ],
       [ "REL::detail::is_x64_pod< T, std::enable_if_t< std::is_union_v< T > > >", "struct_r_e_l_1_1detail_1_1is__x64__pod_3_01_t_00_01std_1_1enable__if__t_3_01std_1_1is__union__v_3_01_t_01_4_01_4_01_4.html", null ]
     ] ],
-    [ "RE::FastTravelConfirmCallback", "class_r_e_1_1_fast_travel_confirm_callback.html", null ],
     [ "RE::BGSMaterialObject::FILE_DATA", "struct_r_e_1_1_b_g_s_material_object_1_1_f_i_l_e___d_a_t_a.html", null ],
     [ "RE::FILE_POS_ROT", "struct_r_e_1_1_f_i_l_e___p_o_s___r_o_t.html", null ],
     [ "RE::BSResource::FileID", "struct_r_e_1_1_b_s_resource_1_1_file_i_d.html", [
       [ "RE::BSResource::ID", "struct_r_e_1_1_b_s_resource_1_1_i_d.html", null ]
     ] ],
+    [ "RE::hkbCharacterStringData::FileNameMeshNamePair", "struct_r_e_1_1hkb_character_string_data_1_1_file_name_mesh_name_pair.html", null ],
     [ "RE::GRenderer::FillTexture", "struct_r_e_1_1_g_renderer_1_1_fill_texture.html", null ],
+    [ "RE::GFxPlaceObjectUnpackedData::Filter", "struct_r_e_1_1_g_fx_place_object_unpacked_data_1_1_filter.html", null ],
     [ "FixedLengthMemoryManagementPol", null, [
       [ "RE::BSStringT< char, N, FixedLengthMemoryManagementPol >", "class_r_e_1_1_b_s_string_t.html", [
         [ "RE::BSStaticStringT< N >", "class_r_e_1_1_b_s_static_string_t.html", null ]
@@ -3087,7 +3319,10 @@ var hierarchy =
     [ "RE::ExtraFollower::FollowerInfo", "struct_r_e_1_1_extra_follower_1_1_follower_info.html", null ],
     [ "RE::BGSRefAlias::ForcedFillData", "struct_r_e_1_1_b_g_s_ref_alias_1_1_forced_fill_data.html", null ],
     [ "RE::MagicTarget::ForEachActiveEffectVisitor", "class_r_e_1_1_magic_target_1_1_for_each_active_effect_visitor.html", null ],
-    [ "RE::ActiveEffect::ForEachHitEffectVisitor", "class_r_e_1_1_active_effect_1_1_for_each_hit_effect_visitor.html", null ],
+    [ "RE::ActiveEffect::ForEachHitEffectVisitor", "class_r_e_1_1_active_effect_1_1_for_each_hit_effect_visitor.html", [
+      [ "RE::AttachLightHitEffectVisitor", "class_r_e_1_1_attach_light_hit_effect_visitor.html", null ]
+    ] ],
+    [ "RE::Actor::ForEachSpellVisitor", "class_r_e_1_1_actor_1_1_for_each_spell_visitor.html", null ],
     [ "RE::BSShaderProperty::ForEachVisitor", "class_r_e_1_1_b_s_shader_property_1_1_for_each_visitor.html", null ],
     [ "RE::FORM", "struct_r_e_1_1_f_o_r_m.html", null ],
     [ "RE::FORM_ENUM_STRING", "struct_r_e_1_1_f_o_r_m___e_n_u_m___s_t_r_i_n_g.html", null ],
@@ -3097,7 +3332,9 @@ var hierarchy =
       [ "fmt::formatter< REL::Version, CharT >", "structfmt_1_1formatter_3_01_r_e_l_1_1_version_00_01_char_t_01_4.html", null ]
     ] ],
     [ "fmt::formatter< RE::ActorValue >", "structfmt_1_1formatter_3_01_r_e_1_1_actor_value_01_4.html", null ],
+    [ "fmt::formatter< RE::EffectArchetype >", "structfmt_1_1formatter_3_01_r_e_1_1_effect_archetype_01_4.html", null ],
     [ "fmt::formatter< RE::FormType >", "structfmt_1_1formatter_3_01_r_e_1_1_form_type_01_4.html", null ],
+    [ "fmt::formatter< RE::MATERIAL_ID >", "structfmt_1_1formatter_3_01_r_e_1_1_m_a_t_e_r_i_a_l___i_d_01_4.html", null ],
     [ "RE::SkyrimScript::FragmentSystem", "class_r_e_1_1_skyrim_script_1_1_fragment_system.html", null ],
     [ "RE::HeapBlock::Free", "struct_r_e_1_1_heap_block_1_1_free.html", null ],
     [ "RE::bhkThreadMemorySource::FreeBlock", "struct_r_e_1_1bhk_thread_memory_source_1_1_free_block.html", null ],
@@ -3108,34 +3345,110 @@ var hierarchy =
     [ "RE::BGSRefAlias::FromEventFillData", "struct_r_e_1_1_b_g_s_ref_alias_1_1_from_event_fill_data.html", null ],
     [ "RE::BGSRefAlias::FromExternalFillData", "struct_r_e_1_1_b_g_s_ref_alias_1_1_from_external_fill_data.html", null ],
     [ "RE::BSScript::ObjectTypeInfo::NamedStateInfo::Func", "struct_r_e_1_1_b_s_script_1_1_object_type_info_1_1_named_state_info_1_1_func.html", null ],
+    [ "RE::BSScript::UnlinkedTypes::Function", "class_r_e_1_1_b_s_script_1_1_unlinked_types_1_1_function.html", null ],
     [ "RE::FUNCTION_DATA", "struct_r_e_1_1_f_u_n_c_t_i_o_n___d_a_t_a.html", null ],
     [ "RE::BSScript::FunctionArguments< Enable, Args >", "class_r_e_1_1_b_s_script_1_1_function_arguments.html", null ],
+    [ "RE::BSScript::UnlinkedTypes::FunctionDebugInfo", "struct_r_e_1_1_b_s_script_1_1_unlinked_types_1_1_function_debug_info.html", null ],
     [ "RE::BSScript::Internal::FunctionMessage", "struct_r_e_1_1_b_s_script_1_1_internal_1_1_function_message.html", null ],
     [ "RE::FxDelegateArgs", "class_r_e_1_1_fx_delegate_args.html", null ],
     [ "RE::FxResponseArgsBase", "class_r_e_1_1_fx_response_args_base.html", [
       [ "RE::FxResponseArgs< SIZE >", "class_r_e_1_1_fx_response_args.html", null ],
       [ "RE::FxResponseArgsEx< N >", "class_r_e_1_1_fx_response_args_ex.html", null ]
     ] ],
+    [ "RE::GAcquireInterface", "class_r_e_1_1_g_acquire_interface.html", [
+      [ "RE::GEvent", "class_r_e_1_1_g_event.html", null ],
+      [ "RE::GMutex", "class_r_e_1_1_g_mutex.html", null ]
+    ] ],
     [ "RE::GAllocatorBaseGH< SID >", "class_r_e_1_1_g_allocator_base_g_h.html", [
       [ "RE::GAllocatorGH< T, SID >", "struct_r_e_1_1_g_allocator_g_h.html", null ]
     ] ],
     [ "RE::GAllocatorBaseGH< GStatGroup::kGStat_Default_Mem >", "class_r_e_1_1_g_allocator_base_g_h.html", null ],
+    [ "RE::GAllocatorBaseLH< SID >", "class_r_e_1_1_g_allocator_base_l_h.html", [
+      [ "RE::GAllocatorLH< T, SID >", "struct_r_e_1_1_g_allocator_l_h.html", null ]
+    ] ],
+    [ "RE::GAllocatorBaseLH< GStatGroup::kGStat_Default_Mem >", "class_r_e_1_1_g_allocator_base_l_h.html", null ],
     [ "RE::IngredientItem::GameData", "struct_r_e_1_1_ingredient_item_1_1_game_data.html", null ],
+    [ "RE::BSPCOrbisGamepadDevice::GamepadData", "struct_r_e_1_1_b_s_p_c_orbis_gamepad_device_1_1_gamepad_data.html", null ],
     [ "RE::PlayerCharacter::GameStateData", "struct_r_e_1_1_player_character_1_1_game_state_data.html", null ],
     [ "RE::GArrayBase< T >", "class_r_e_1_1_g_array_base.html", [
+      [ "RE::GArray< RE::GFxImportNode::ImportAssetInfo >", "class_r_e_1_1_g_array.html", null ],
+      [ "RE::GArray< RE::GASExecuteTag * >", "class_r_e_1_1_g_array.html", null ],
+      [ "RE::GArray< RE::GFxMovieDef * >", "class_r_e_1_1_g_array.html", null ],
+      [ "RE::GArray< RE::GFxPlaceObjectUnpackedData::Filter >", "class_r_e_1_1_g_array.html", null ],
+      [ "RE::GArray< void * >", "class_r_e_1_1_g_array.html", null ],
       [ "RE::GArray< RE::GColor >", "class_r_e_1_1_g_array.html", null ],
-      [ "RE::GArray< T, SID, SizePolicy >", "class_r_e_1_1_g_array.html", null ]
+      [ "RE::GArray< HandlerStruct, GStatGroups::kGStat_Default_Mem, SizePolicyType >", "class_r_e_1_1_g_array.html", null ],
+      [ "RE::GArrayLH< ExecuteTagList >", "class_r_e_1_1_g_array_l_h.html", null ],
+      [ "RE::GArray< T, SID, SizePolicy >", "class_r_e_1_1_g_array.html", null ],
+      [ "RE::GArrayLH< T, SID, SizePolicy >", "class_r_e_1_1_g_array_l_h.html", null ]
     ] ],
+    [ "RE::GArrayBase< GArrayData< ExecuteTagList, GAllocatorLH< ExecuteTagList, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "class_r_e_1_1_g_array_base.html", null ],
+    [ "RE::GArrayBase< GArrayData< HandlerStruct, GAllocatorGH< HandlerStruct, SID >, SizePolicyType > >", "class_r_e_1_1_g_array_base.html", null ],
+    [ "RE::GArrayBase< GArrayData< RE::GASExecuteTag *, GAllocatorGH< RE::GASExecuteTag *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "class_r_e_1_1_g_array_base.html", null ],
     [ "RE::GArrayBase< GArrayData< RE::GColor, GAllocatorGH< RE::GColor, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "class_r_e_1_1_g_array_base.html", null ],
+    [ "RE::GArrayBase< GArrayData< RE::GFxImportNode::ImportAssetInfo, GAllocatorGH< RE::GFxImportNode::ImportAssetInfo, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "class_r_e_1_1_g_array_base.html", null ],
+    [ "RE::GArrayBase< GArrayData< RE::GFxMovieDef *, GAllocatorGH< RE::GFxMovieDef *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "class_r_e_1_1_g_array_base.html", null ],
+    [ "RE::GArrayBase< GArrayData< RE::GFxPlaceObjectUnpackedData::Filter, GAllocatorGH< RE::GFxPlaceObjectUnpackedData::Filter, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "class_r_e_1_1_g_array_base.html", null ],
     [ "RE::GArrayBase< GArrayData< T, GAllocatorGH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "class_r_e_1_1_g_array_base.html", null ],
+    [ "RE::GArrayBase< GArrayData< T, GAllocatorLH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "class_r_e_1_1_g_array_base.html", null ],
+    [ "RE::GArrayBase< GArrayData< void *, GAllocatorGH< void *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "class_r_e_1_1_g_array_base.html", null ],
+    [ "RE::GArrayConstPolicy< MinCapacity, Granularity, NeverShrink >", "struct_r_e_1_1_g_array_const_policy.html", null ],
     [ "RE::GArrayDataBase< T, Allocator, SizePolicy >", "struct_r_e_1_1_g_array_data_base.html", [
       [ "RE::GArrayData< T, GAllocatorGH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data.html", null ],
+      [ "RE::GArrayData< T, GAllocatorLH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data.html", null ],
+      [ "RE::GArrayData< RE::GFxImportNode::ImportAssetInfo, GAllocatorGH< RE::GFxImportNode::ImportAssetInfo, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data.html", null ],
+      [ "RE::GArrayData< RE::GASExecuteTag *, GAllocatorGH< RE::GASExecuteTag *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data.html", null ],
+      [ "RE::GArrayData< ExecuteTagList, GAllocatorLH< ExecuteTagList, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data.html", null ],
+      [ "RE::GArrayData< RE::GFxMovieDef *, GAllocatorGH< RE::GFxMovieDef *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data.html", null ],
+      [ "RE::GArrayData< RE::GFxPlaceObjectUnpackedData::Filter, GAllocatorGH< RE::GFxPlaceObjectUnpackedData::Filter, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data.html", null ],
+      [ "RE::GArrayData< void *, GAllocatorGH< void *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data.html", null ],
       [ "RE::GArrayData< RE::GColor, GAllocatorGH< RE::GColor, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data.html", null ],
+      [ "RE::GArrayData< HandlerStruct, GAllocatorGH< HandlerStruct, SID >, SizePolicyType >", "struct_r_e_1_1_g_array_data.html", null ],
       [ "RE::GArrayData< T, Allocator, SizePolicy >", "struct_r_e_1_1_g_array_data.html", null ]
     ] ],
+    [ "RE::GArrayDataBase< ExecuteTagList, GAllocatorLH< ExecuteTagList, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data_base.html", null ],
+    [ "RE::GArrayDataBase< HandlerStruct, GAllocatorGH< HandlerStruct, SID >, SizePolicyType >", "struct_r_e_1_1_g_array_data_base.html", null ],
+    [ "RE::GArrayDataBase< RE::GASExecuteTag *, GAllocatorGH< RE::GASExecuteTag *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data_base.html", null ],
     [ "RE::GArrayDataBase< RE::GColor, GAllocatorGH< RE::GColor, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data_base.html", null ],
+    [ "RE::GArrayDataBase< RE::GFxImportNode::ImportAssetInfo, GAllocatorGH< RE::GFxImportNode::ImportAssetInfo, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data_base.html", null ],
+    [ "RE::GArrayDataBase< RE::GFxMovieDef *, GAllocatorGH< RE::GFxMovieDef *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data_base.html", null ],
+    [ "RE::GArrayDataBase< RE::GFxPlaceObjectUnpackedData::Filter, GAllocatorGH< RE::GFxPlaceObjectUnpackedData::Filter, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data_base.html", null ],
     [ "RE::GArrayDataBase< T, GAllocatorGH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data_base.html", null ],
+    [ "RE::GArrayDataBase< T, GAllocatorLH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data_base.html", null ],
+    [ "RE::GArrayDataBase< void *, GAllocatorGH< void *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "struct_r_e_1_1_g_array_data_base.html", null ],
     [ "RE::GArrayDefaultPolicy", "struct_r_e_1_1_g_array_default_policy.html", null ],
+    [ "RE::GASExecuteTag", "class_r_e_1_1_g_a_s_execute_tag.html", [
+      [ "RE::GASDoAction", "class_r_e_1_1_g_a_s_do_action.html", [
+        [ "RE::GASDoInitAction", "class_r_e_1_1_g_a_s_do_init_action.html", null ]
+      ] ],
+      [ "RE::GFxInitImportActions", "class_r_e_1_1_g_fx_init_import_actions.html", null ],
+      [ "RE::GFxPlaceObjectBase", "class_r_e_1_1_g_fx_place_object_base.html", [
+        [ "RE::GFxPlaceObject", "class_r_e_1_1_g_fx_place_object.html", null ],
+        [ "RE::GFxPlaceObject2", "class_r_e_1_1_g_fx_place_object2.html", [
+          [ "RE::GFxPlaceObject2a", "class_r_e_1_1_g_fx_place_object2a.html", null ]
+        ] ],
+        [ "RE::GFxPlaceObject3", "class_r_e_1_1_g_fx_place_object3.html", null ],
+        [ "RE::GFxPlaceObjectUnpacked", "class_r_e_1_1_g_fx_place_object_unpacked.html", null ]
+      ] ],
+      [ "RE::GFxRemoveObject", "class_r_e_1_1_g_fx_remove_object.html", null ],
+      [ "RE::GFxRemoveObject2", "class_r_e_1_1_g_fx_remove_object2.html", null ],
+      [ "RE::GFxSetBackgroundColor", "class_r_e_1_1_g_fx_set_background_color.html", null ]
+    ] ],
+    [ "RE::GASObjectInterface", "class_r_e_1_1_g_a_s_object_interface.html", [
+      [ "RE::GASObject", "class_r_e_1_1_g_a_s_object.html", [
+        [ "RE::GASFunctionObject", "class_r_e_1_1_g_a_s_function_object.html", [
+          [ "RE::GASUserDefinedFunctionObject", "class_r_e_1_1_g_a_s_user_defined_function_object.html", null ]
+        ] ]
+      ] ],
+      [ "RE::GFxASCharacter", "class_r_e_1_1_g_fx_a_s_character.html", [
+        [ "RE::GFxSprite", "class_r_e_1_1_g_fx_sprite.html", null ]
+      ] ]
+    ] ],
+    [ "RE::GASString", "struct_r_e_1_1_g_a_s_string.html", null ],
+    [ "RE::GASStringBuiltinManager", "class_r_e_1_1_g_a_s_string_builtin_manager.html", [
+      [ "RE::GASGlobalContext", "class_r_e_1_1_g_a_s_global_context.html", null ]
+    ] ],
+    [ "RE::GASStringContext", "class_r_e_1_1_g_a_s_string_context.html", null ],
     [ "RE::GAtomicValueBase< T >", "class_r_e_1_1_g_atomic_value_base.html", [
       [ "RE::GAtomicInt< std::int32_t >", "class_r_e_1_1_g_atomic_int.html", null ],
       [ "RE::GAtomicInt< T >", "class_r_e_1_1_g_atomic_int.html", null ]
@@ -3143,7 +3456,8 @@ var hierarchy =
     [ "RE::GAtomicValueBase< std::int32_t >", "class_r_e_1_1_g_atomic_value_base.html", null ],
     [ "RE::GColor", "class_r_e_1_1_g_color.html", null ],
     [ "RE::GConstructorMov< T >", "class_r_e_1_1_g_constructor_mov.html", [
-      [ "RE::GAllocatorGH< T, SID >", "struct_r_e_1_1_g_allocator_g_h.html", null ]
+      [ "RE::GAllocatorGH< T, SID >", "struct_r_e_1_1_g_allocator_g_h.html", null ],
+      [ "RE::GAllocatorLH< T, SID >", "struct_r_e_1_1_g_allocator_l_h.html", null ]
     ] ],
     [ "RE::BGSRefAlias::GenericFillData", "union_r_e_1_1_b_g_s_ref_alias_1_1_generic_fill_data.html", null ],
     [ "RE::BSGeometry::GEOMETRY_RUNTIME_DATA", "struct_r_e_1_1_b_s_geometry_1_1_g_e_o_m_e_t_r_y___r_u_n_t_i_m_e___d_a_t_a.html", null ],
@@ -3153,27 +3467,66 @@ var hierarchy =
     [ "RE::BSScript::GetRawType< T >", "struct_r_e_1_1_b_s_script_1_1_get_raw_type.html", null ],
     [ "RE::BSScript::GetRawType< T >", "struct_r_e_1_1_b_s_script_1_1_get_raw_type_3_01_t_01_4.html", null ],
     [ "RE::GFixedSizeHash< T >", "class_r_e_1_1_g_fixed_size_hash.html", null ],
+    [ "RE::GFxActionPriority", "class_r_e_1_1_g_fx_action_priority.html", [
+      [ "RE::GFxMovieRoot", "class_r_e_1_1_g_fx_movie_root.html", null ]
+    ] ],
     [ "RE::GFxFileConstants", "class_r_e_1_1_g_fx_file_constants.html", [
-      [ "RE::GFxMovieDef::ResourceVisitor", "struct_r_e_1_1_g_fx_movie_def_1_1_resource_visitor.html", null ],
+      [ "RE::GFxMovieDef::ResourceVisitor", "struct_r_e_1_1_g_fx_movie_def_1_1_resource_visitor.html", [
+        [ "RE::GFxMovieBindProcess::ImagePackVisitor", "class_r_e_1_1_g_fx_movie_bind_process_1_1_image_pack_visitor.html", null ]
+      ] ],
       [ "RE::GFxStateBag", "class_r_e_1_1_g_fx_state_bag.html", [
         [ "RE::GFxLoader", "class_r_e_1_1_g_fx_loader.html", null ],
-        [ "RE::GFxMovieDef", "class_r_e_1_1_g_fx_movie_def.html", null ],
+        [ "RE::GFxLoaderImpl", "class_r_e_1_1_g_fx_loader_impl.html", null ],
+        [ "RE::GFxMovieDef", "class_r_e_1_1_g_fx_movie_def.html", [
+          [ "RE::GFxMovieDefImpl", "class_r_e_1_1_g_fx_movie_def_impl.html", null ]
+        ] ],
         [ "RE::GFxMovieView", "class_r_e_1_1_g_fx_movie_view.html", [
           [ "RE::GFxMovieRoot", "class_r_e_1_1_g_fx_movie_root.html", null ]
-        ] ]
+        ] ],
+        [ "RE::GFxStateBagImpl", "class_r_e_1_1_g_fx_state_bag_impl.html", null ]
       ] ]
     ] ],
+    [ "RE::GFxImportNode", "struct_r_e_1_1_g_fx_import_node.html", null ],
     [ "RE::GFxKey", "class_r_e_1_1_g_fx_key.html", null ],
     [ "RE::GFxLogConstants", "class_r_e_1_1_g_fx_log_constants.html", [
+      [ "RE::GFxLogBase< GASEnvironment >", "class_r_e_1_1_g_fx_log_base.html", [
+        [ "RE::GASEnvironment", "class_r_e_1_1_g_a_s_environment.html", null ]
+      ] ],
+      [ "RE::GFxLogBase< GFxCharacter >", "class_r_e_1_1_g_fx_log_base.html", [
+        [ "RE::GFxCharacter", "class_r_e_1_1_g_fx_character.html", [
+          [ "RE::GFxASCharacter", "class_r_e_1_1_g_fx_a_s_character.html", null ]
+        ] ]
+      ] ],
+      [ "RE::GFxLogBase< GFxLoadProcess >", "class_r_e_1_1_g_fx_log_base.html", [
+        [ "RE::GFxLoadProcess", "class_r_e_1_1_g_fx_load_process.html", null ]
+      ] ],
+      [ "RE::GFxLogBase< GFxLoaderImpl >", "class_r_e_1_1_g_fx_log_base.html", [
+        [ "RE::GFxLoaderImpl", "class_r_e_1_1_g_fx_loader_impl.html", null ]
+      ] ],
       [ "RE::GFxLogBase< GFxLog >", "class_r_e_1_1_g_fx_log_base.html", [
         [ "RE::GFxLog", "class_r_e_1_1_g_fx_log.html", [
           [ "RE::LoggingDisabler", "class_r_e_1_1_logging_disabler.html", null ]
         ] ]
       ] ],
+      [ "RE::GFxLogBase< GFxStateBagImpl >", "class_r_e_1_1_g_fx_log_base.html", [
+        [ "RE::GFxStateBagImpl", "class_r_e_1_1_g_fx_state_bag_impl.html", null ]
+      ] ],
+      [ "RE::GFxLogBase< GFxStream >", "class_r_e_1_1_g_fx_log_base.html", [
+        [ "RE::GFxStream", "class_r_e_1_1_g_fx_stream.html", null ]
+      ] ],
       [ "RE::GFxLogBase< Derived >", "class_r_e_1_1_g_fx_log_base.html", null ]
+    ] ],
+    [ "RE::GFxMovieLoadInfo", "struct_r_e_1_1_g_fx_movie_load_info.html", null ],
+    [ "RE::GFxPlaceObjectUnpackedData", "struct_r_e_1_1_g_fx_place_object_unpacked_data.html", [
+      [ "RE::GFxPlaceObjectData", "struct_r_e_1_1_g_fx_place_object_data.html", null ]
     ] ],
     [ "RE::GFxResourceID", "class_r_e_1_1_g_fx_resource_i_d.html", null ],
     [ "RE::GFxResourceKey", "class_r_e_1_1_g_fx_resource_key.html", null ],
+    [ "RE::GFxResourceLib::GFxResourcePtrHashFunc", "struct_r_e_1_1_g_fx_resource_lib_1_1_g_fx_resource_ptr_hash_func.html", null ],
+    [ "RE::GFxResourceReport", "class_r_e_1_1_g_fx_resource_report.html", [
+      [ "RE::GFxMovieDataDef", "class_r_e_1_1_g_fx_movie_data_def.html", null ]
+    ] ],
+    [ "RE::GFxResourceSource", "struct_r_e_1_1_g_fx_resource_source.html", null ],
     [ "RE::GFxSpecialKeysState", "class_r_e_1_1_g_fx_special_keys_state.html", null ],
     [ "RE::GFxStatFontCaches", "struct_r_e_1_1_g_fx_stat_font_caches.html", null ],
     [ "RE::GFxStatIMEs", "struct_r_e_1_1_g_fx_stat_i_m_es.html", null ],
@@ -3182,19 +3535,50 @@ var hierarchy =
     [ "RE::GFxValue", "class_r_e_1_1_g_fx_value.html", null ],
     [ "RE::GFxWStringBuffer", "class_r_e_1_1_g_fx_w_string_buffer.html", null ],
     [ "RE::GFxWWHelper", "class_r_e_1_1_g_fx_w_w_helper.html", null ],
-    [ "RE::GHash< C, U, HashF, Allocator, HashNode, Entry, Container >", "class_r_e_1_1_g_hash.html", null ],
+    [ "RE::GHash< C, U, HashF, Allocator, HashNode, Entry, Container >", "class_r_e_1_1_g_hash.html", [
+      [ "RE::GHashUncached< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >", "class_r_e_1_1_g_hash_uncached.html", null ],
+      [ "RE::GStringHash< RE::GASString >", "class_r_e_1_1_g_string_hash.html", null ],
+      [ "RE::GStringHash< std::int32_t >", "class_r_e_1_1_g_string_hash.html", null ],
+      [ "RE::GHashUncached< C, U, HashF, Allocator >", "class_r_e_1_1_g_hash_uncached.html", null ],
+      [ "RE::GStringHash< U, Allocator >", "class_r_e_1_1_g_string_hash.html", null ]
+    ] ],
+    [ "RE::GHash< C, U, GFixedSizeHash< C >, GAllocatorGH< C >, GHashNode< C, U, GFixedSizeHash< C > >, GHashsetNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, GHashNode< C, U, GFixedSizeHash< C > >::NodeHashF > >", "class_r_e_1_1_g_hash.html", null ],
+    [ "RE::GHash< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp, GAllocatorGH< GFxResourceID >, GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, GHashsetNodeEntry< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >::NodeHashF > >", "class_r_e_1_1_g_hash.html", null ],
     [ "RE::GHash< GString, CallbackDefn, CallbackHashFunctor >", "class_r_e_1_1_g_hash.html", null ],
+    [ "RE::GHash< GString, RE::GASString, GString::NoCaseHashFunctor, GAllocatorGH< RE::GASString > >", "class_r_e_1_1_g_hash.html", null ],
+    [ "RE::GHash< GString, std::int32_t, GString::NoCaseHashFunctor, GAllocatorGH< std::int32_t > >", "class_r_e_1_1_g_hash.html", null ],
+    [ "RE::GHash< GString, U, GString::NoCaseHashFunctor, GAllocatorGH< U > >", "class_r_e_1_1_g_hash.html", null ],
     [ "RE::GHashNode< C, U, Hash >", "struct_r_e_1_1_g_hash_node.html", null ],
     [ "RE::GHashSetBase< C, HashF, AltHashF, Allocator, Entry >", "class_r_e_1_1_g_hash_set_base.html", [
+      [ "RE::GHashSet< C, GFixedSizeHash< C >, GFixedSizeHash< C >, GAllocatorGH< C >, GHashsetEntry< C, GFixedSizeHash< C > > >", "class_r_e_1_1_g_hash_set.html", null ],
+      [ "RE::GHashSet< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< C >, GHashsetNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, GHashNode< C, U, GFixedSizeHash< C > >::NodeHashF > >", "class_r_e_1_1_g_hash_set.html", null ],
+      [ "RE::GHashSet< GHashNode< GString, U, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< U >, GHashsetCachedNodeEntry< GHashNode< GString, U, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set.html", null ],
       [ "RE::GHashSet< GHashNode< GString, CallbackDefn, CallbackHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< GString >, GHashsetCachedNodeEntry< GHashNode< GString, CallbackDefn, CallbackHashFunctor >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set.html", null ],
+      [ "RE::GHashSet< GHashNode< GString, RE::GASString, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< RE::GASString >, GHashsetCachedNodeEntry< GHashNode< GString, RE::GASString, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set.html", null ],
+      [ "RE::GHashSet< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< GFxResourceID >, GHashsetNodeEntry< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >::NodeHashF > >", "class_r_e_1_1_g_hash_set.html", null ],
+      [ "RE::GHashSet< GHashNode< GString, std::int32_t, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< std::int32_t >, GHashsetCachedNodeEntry< GHashNode< GString, std::int32_t, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set.html", null ],
+      [ "RE::GHashSet< GFxResource *, GFxResourcePtrHashFunc >", "class_r_e_1_1_g_hash_set.html", null ],
+      [ "RE::GHashSet< RE::GFxResourceWeakLib::ResourceNode, RE::GFxResourceWeakLib::ResourceNode::HashOp >", "class_r_e_1_1_g_hash_set.html", null ],
       [ "RE::GHashSet< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< C >, GHashsetCachedNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set.html", null ],
-      [ "RE::GHashSet< C, HashF, AltHashF, Allocator, Entry >", "class_r_e_1_1_g_hash_set.html", null ]
+      [ "RE::GHashSet< C, HashF, AltHashF, Allocator, Entry >", "class_r_e_1_1_g_hash_set.html", [
+        [ "RE::GHashSetUncached< C, HashF, AltHashF, Allocator >", "class_r_e_1_1_g_hash_set_uncached.html", null ]
+      ] ]
     ] ],
     [ "RE::GHashSetBase< C, GFixedSizeHash< C >, GFixedSizeHash< C >, GAllocatorGH< C >, GHashsetCachedEntry< C, GFixedSizeHash< C > > >", "class_r_e_1_1_g_hash_set_base.html", null ],
+    [ "RE::GHashSetBase< C, GFixedSizeHash< C >, GFixedSizeHash< C >, GAllocatorGH< C >, GHashsetEntry< C, GFixedSizeHash< C > > >", "class_r_e_1_1_g_hash_set_base.html", null ],
+    [ "RE::GHashSetBase< GFxResource *, GFxResourcePtrHashFunc, GFxResourcePtrHashFunc, GAllocatorGH< GFxResource * >, GHashsetCachedEntry< GFxResource *, GFxResourcePtrHashFunc > >", "class_r_e_1_1_g_hash_set_base.html", null ],
     [ "RE::GHashSetBase< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< C >, GHashsetCachedNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set_base.html", null ],
+    [ "RE::GHashSetBase< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< C >, GHashsetNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, GHashNode< C, U, GFixedSizeHash< C > >::NodeHashF > >", "class_r_e_1_1_g_hash_set_base.html", null ],
+    [ "RE::GHashSetBase< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< GFxResourceID >, GHashsetNodeEntry< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >::NodeHashF > >", "class_r_e_1_1_g_hash_set_base.html", null ],
     [ "RE::GHashSetBase< GHashNode< GString, CallbackDefn, CallbackHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< GString >, GHashsetCachedNodeEntry< GHashNode< GString, CallbackDefn, CallbackHashFunctor >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set_base.html", null ],
+    [ "RE::GHashSetBase< GHashNode< GString, RE::GASString, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< RE::GASString >, GHashsetCachedNodeEntry< GHashNode< GString, RE::GASString, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set_base.html", null ],
+    [ "RE::GHashSetBase< GHashNode< GString, std::int32_t, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< std::int32_t >, GHashsetCachedNodeEntry< GHashNode< GString, std::int32_t, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set_base.html", null ],
+    [ "RE::GHashSetBase< GHashNode< GString, U, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< U >, GHashsetCachedNodeEntry< GHashNode< GString, U, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "class_r_e_1_1_g_hash_set_base.html", null ],
+    [ "RE::GHashSetBase< RE::GFxResourceWeakLib::ResourceNode, RE::GFxResourceWeakLib::ResourceNode::HashOp, RE::GFxResourceWeakLib::ResourceNode::HashOp, GAllocatorGH< RE::GFxResourceWeakLib::ResourceNode >, GHashsetCachedEntry< RE::GFxResourceWeakLib::ResourceNode, RE::GFxResourceWeakLib::ResourceNode::HashOp > >", "class_r_e_1_1_g_hash_set_base.html", null ],
     [ "RE::GHashsetCachedEntry< T, Hash >", "class_r_e_1_1_g_hashset_cached_entry.html", null ],
     [ "RE::GHashsetCachedNodeEntry< T, Hash >", "class_r_e_1_1_g_hashset_cached_node_entry.html", null ],
+    [ "RE::GHashsetEntry< T, HashF >", "class_r_e_1_1_g_hashset_entry.html", null ],
+    [ "RE::GHashsetNodeEntry< T, Hash >", "class_r_e_1_1_g_hashset_node_entry.html", null ],
     [ "RE::GImageBase", "class_r_e_1_1_g_image_base.html", [
       [ "RE::GImage", "class_r_e_1_1_g_image.html", null ]
     ] ],
@@ -3203,7 +3587,9 @@ var hierarchy =
     [ "RE::GList< RE::GRendererEventHandler >", "class_r_e_1_1_g_list.html", null ],
     [ "RE::GListNode< T >", "struct_r_e_1_1_g_list_node.html", null ],
     [ "RE::GListNode< GMemoryHeap >", "struct_r_e_1_1_g_list_node.html", [
-      [ "RE::GMemoryHeap", "class_r_e_1_1_g_memory_heap.html", null ]
+      [ "RE::GMemoryHeap", "class_r_e_1_1_g_memory_heap.html", [
+        [ "RE::GMemoryHeapPT", "class_r_e_1_1_g_memory_heap_p_t.html", null ]
+      ] ]
     ] ],
     [ "RE::GListNode< GRendererEventHandler >", "struct_r_e_1_1_g_list_node.html", [
       [ "RE::GRendererEventHandler", "class_r_e_1_1_g_renderer_event_handler.html", null ]
@@ -3217,6 +3603,19 @@ var hierarchy =
     [ "RE::GMatrix3D", "class_r_e_1_1_g_matrix3_d.html", null ],
     [ "RE::GMemory", "class_r_e_1_1_g_memory.html", null ],
     [ "RE::GNewOverrideBase< Stat >", "class_r_e_1_1_g_new_override_base.html", null ],
+    [ "RE::GNewOverrideBase< GFxStatMovieData::kGFxStatMD_CharDefs_Mem >", "class_r_e_1_1_g_new_override_base.html", [
+      [ "RE::GFxShapeBase", "class_r_e_1_1_g_fx_shape_base.html", [
+        [ "RE::GFxConstShapeNoStyles", "class_r_e_1_1_g_fx_const_shape_no_styles.html", [
+          [ "RE::GFxConstShapeWithStyles", "class_r_e_1_1_g_fx_const_shape_with_styles.html", null ]
+        ] ],
+        [ "RE::GFxShapeNoStyles", "class_r_e_1_1_g_fx_shape_no_styles.html", [
+          [ "RE::GFxShapeWithStyles", "class_r_e_1_1_g_fx_shape_with_styles.html", null ]
+        ] ]
+      ] ]
+    ] ],
+    [ "RE::GNewOverrideBase< GFxStatMovieViews::kGFxStatMV_ActionScript_Mem >", "class_r_e_1_1_g_new_override_base.html", [
+      [ "RE::GASEnvironment", "class_r_e_1_1_g_a_s_environment.html", null ]
+    ] ],
     [ "RE::GNewOverrideBase< GFxStatMovieViews::kGFxStatMV_Other_Mem >", "class_r_e_1_1_g_new_override_base.html", [
       [ "RE::GFxValue::ObjectInterface", "class_r_e_1_1_g_fx_value_1_1_object_interface.html", null ]
     ] ],
@@ -3225,28 +3624,70 @@ var hierarchy =
     ] ],
     [ "RE::GNewOverrideBase< GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_new_override_base.html", [
       [ "RE::GFxEvent", "class_r_e_1_1_g_fx_event.html", [
+        [ "RE::GFxKeyEvent", "class_r_e_1_1_g_fx_key_event.html", null ],
         [ "RE::GFxMouseEvent", "class_r_e_1_1_g_fx_mouse_event.html", null ]
       ] ],
       [ "RE::GFxResource", "class_r_e_1_1_g_fx_resource.html", [
+        [ "RE::GFxCharacterDef", "class_r_e_1_1_g_fx_character_def.html", [
+          [ "RE::GFxButtonCharacterDef", "class_r_e_1_1_g_fx_button_character_def.html", null ],
+          [ "RE::GFxEditTextCharacterDef", "class_r_e_1_1_g_fx_edit_text_character_def.html", null ],
+          [ "RE::GFxShapeBaseCharacterDef", "class_r_e_1_1_g_fx_shape_base_character_def.html", [
+            [ "RE::GFxConstShapeCharacterDef", "class_r_e_1_1_g_fx_const_shape_character_def.html", null ],
+            [ "RE::GFxShapeCharacterDef", "class_r_e_1_1_g_fx_shape_character_def.html", [
+              [ "RE::GFxMorphCharacterDef", "class_r_e_1_1_g_fx_morph_character_def.html", null ]
+            ] ]
+          ] ],
+          [ "RE::GFxStaticTextCharacterDef", "class_r_e_1_1_g_fx_static_text_character_def.html", null ],
+          [ "RE::GFxTimelineDef", "class_r_e_1_1_g_fx_timeline_def.html", [
+            [ "RE::GFxMovieDataDef", "class_r_e_1_1_g_fx_movie_data_def.html", null ],
+            [ "RE::GFxTimelineIODef", "class_r_e_1_1_g_fx_timeline_i_o_def.html", [
+              [ "RE::GFxSpriteDef", "class_r_e_1_1_g_fx_sprite_def.html", null ]
+            ] ]
+          ] ]
+        ] ],
         [ "RE::GFxMovieDef", "class_r_e_1_1_g_fx_movie_def.html", null ]
-      ] ]
+      ] ],
+      [ "RE::GWaitable::HandlerArray", "struct_r_e_1_1_g_waitable_1_1_handler_array.html", null ]
     ] ],
     [ "RE::GNewOverrideBase< GStatRenderer::kMem >", "class_r_e_1_1_g_new_override_base.html", [
       [ "RE::GTexture", "class_r_e_1_1_g_texture.html", null ]
+    ] ],
+    [ "RE::GNewOverrideBase< STAT >", "class_r_e_1_1_g_new_override_base.html", [
+      [ "RE::GRefCountBaseGC< GFxStatMovieViews::kGFxStatMV_ActionScript_Mem >", "class_r_e_1_1_g_ref_count_base_g_c.html", [
+        [ "RE::GASRefCountBase< GASObject >", "class_r_e_1_1_g_a_s_ref_count_base.html", [
+          [ "RE::GASObject", "class_r_e_1_1_g_a_s_object.html", null ]
+        ] ],
+        [ "RE::GASRefCountBase< T >", "class_r_e_1_1_g_a_s_ref_count_base.html", null ]
+      ] ],
+      [ "RE::GRefCountBaseGC< STAT >", "class_r_e_1_1_g_ref_count_base_g_c.html", null ]
     ] ],
     [ "RE::GPoint< T >", "class_r_e_1_1_g_point.html", null ],
     [ "RE::GPoint< float >", "class_r_e_1_1_g_point.html", null ],
     [ "RE::GPoint< std::int32_t >", "class_r_e_1_1_g_point.html", null ],
     [ "RE::GPtr< T >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< BSScaleformImageLoader >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< GASRefCountCollector >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< GFxDrawTextManager >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< GFxFileOpenerBase >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< GFxJpegSupportBase >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< GFxZlibSupportBase >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< RE::FxDelegate >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< RE::FxDelegateHandler >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GASActionBufferData >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GASStringManager >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxFunctionHandler >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxLoaderImpl >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxLoadUpdateSync >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxMovieDataDef::LoadTaskData >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxMovieDefBindStates >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxMovieDefImpl::BindTaskData >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< RE::GFxMovieView >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< RE::GFxRenderConfig >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxResource >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxResourceLib >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxResourceWeakLib >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GFxStateBagImpl >", "class_r_e_1_1_g_ptr.html", null ],
+    [ "RE::GPtr< RE::GMemoryHeap >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< RE::GRenderer >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::GPtr< RE::IMenu >", "class_r_e_1_1_g_ptr.html", null ],
     [ "RE::TESGrass::GRASS_DATA", "struct_r_e_1_1_t_e_s_grass_1_1_g_r_a_s_s___d_a_t_a.html", null ],
@@ -3303,6 +3744,12 @@ var hierarchy =
               ] ]
             ] ]
           ] ],
+          [ "RE::GRefCountBase< GASActionBufferData, GFxStatMovieData::kGFxStatMD_ActionOps_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GASActionBufferData", "class_r_e_1_1_g_a_s_action_buffer_data.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GASStringManager, GFxStatMovieViews::kGFxStatMV_ActionScript_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GASStringManager", "class_r_e_1_1_g_a_s_string_manager.html", null ]
+          ] ],
           [ "RE::GRefCountBase< GFxFunctionHandler, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
             [ "RE::GFxFunctionHandler", "class_r_e_1_1_g_fx_function_handler.html", [
               [ "RE::CreationClubMenu", "class_r_e_1_1_creation_club_menu.html", null ],
@@ -3311,16 +3758,46 @@ var hierarchy =
               [ "RE::ModManagerMenu", "class_r_e_1_1_mod_manager_menu.html", null ]
             ] ]
           ] ],
+          [ "RE::GRefCountBase< GFxLoadStates, GStatGroup::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxLoadStates", "class_r_e_1_1_g_fx_load_states.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxLoadUpdateSync, GFxStatMovieData::kGFxStatMD_Other_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxLoadUpdateSync", "class_r_e_1_1_g_fx_load_update_sync.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxLoaderImpl, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxLoaderImpl", "class_r_e_1_1_g_fx_loader_impl.html", null ]
+          ] ],
           [ "RE::GRefCountBase< GFxMovie, GFxStatMovieViews::kGFxStatMV_Other_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
             [ "RE::GFxMovie", "class_r_e_1_1_g_fx_movie.html", [
               [ "RE::GFxMovieView", "class_r_e_1_1_g_fx_movie_view.html", null ]
             ] ]
           ] ],
+          [ "RE::GRefCountBase< LoadTaskDataBase, GFxStatMovieData::kGFxStatMD_Other_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxMovieDataDef::LoadTaskDataBase", "class_r_e_1_1_g_fx_movie_data_def_1_1_load_task_data_base.html", [
+              [ "RE::GFxMovieDataDef::LoadTaskData", "class_r_e_1_1_g_fx_movie_data_def_1_1_load_task_data.html", null ]
+            ] ]
+          ] ],
           [ "RE::GRefCountBase< MemoryContext, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
-            [ "RE::GFxMovieDef::MemoryContext", "class_r_e_1_1_g_fx_movie_def_1_1_memory_context.html", null ]
+            [ "RE::GFxMovieDef::MemoryContext", "class_r_e_1_1_g_fx_movie_def_1_1_memory_context.html", [
+              [ "RE::GFxMovieDef::MemoryContextImpl", "class_r_e_1_1_g_fx_movie_def_1_1_memory_context_impl.html", null ]
+            ] ]
+          ] ],
+          [ "RE::GRefCountBase< GFxMovieDefBindStates, GStatGroup::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxMovieDefBindStates", "class_r_e_1_1_g_fx_movie_def_bind_states.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< BindTaskData, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxMovieDefImpl::BindTaskData", "class_r_e_1_1_g_fx_movie_def_impl_1_1_bind_task_data.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxResourceLib, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxResourceLib", "class_r_e_1_1_g_fx_resource_lib.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< ResourceSlot, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxResourceLib::ResourceSlot", "class_r_e_1_1_g_fx_resource_lib_1_1_resource_slot.html", null ]
           ] ],
           [ "RE::GRefCountBase< GFxResourceLibBase, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
-            [ "RE::GFxResourceLibBase", "class_r_e_1_1_g_fx_resource_lib_base.html", null ]
+            [ "RE::GFxResourceLibBase", "class_r_e_1_1_g_fx_resource_lib_base.html", [
+              [ "RE::GFxResourceWeakLib", "class_r_e_1_1_g_fx_resource_weak_lib.html", null ]
+            ] ]
           ] ],
           [ "RE::GRefCountBase< GFxState, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
             [ "RE::GFxState", "class_r_e_1_1_g_fx_state.html", [
@@ -3335,14 +3812,35 @@ var hierarchy =
               ] ]
             ] ]
           ] ],
+          [ "RE::GRefCountBase< GFxStateBagImpl, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxStateBagImpl", "class_r_e_1_1_g_fx_state_bag_impl.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxTask, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GFxTask", "class_r_e_1_1_g_fx_task.html", [
+              [ "RE::GFxLoaderTask", "class_r_e_1_1_g_fx_loader_task.html", [
+                [ "RE::GFxLoadProcess", "class_r_e_1_1_g_fx_load_process.html", null ],
+                [ "RE::GFxMovieBindProcess", "class_r_e_1_1_g_fx_movie_bind_process.html", null ],
+                [ "RE::GFxMovieImageLoadTask", "class_r_e_1_1_g_fx_movie_image_load_task.html", null ]
+              ] ]
+            ] ]
+          ] ],
           [ "RE::GRefCountBase< GRenderer, GStatRenderer::kMem >", "class_r_e_1_1_g_ref_count_base.html", [
             [ "RE::GRenderer", "class_r_e_1_1_g_renderer.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GWaitable, GStatGroups::kGStat_Default_Mem >", "class_r_e_1_1_g_ref_count_base.html", [
+            [ "RE::GWaitable", "class_r_e_1_1_g_waitable.html", [
+              [ "RE::GEvent", "class_r_e_1_1_g_event.html", null ],
+              [ "RE::GMutex", "class_r_e_1_1_g_mutex.html", null ]
+            ] ]
           ] ],
           [ "RE::GRefCountBase< T, STAT >", "class_r_e_1_1_g_ref_count_base.html", null ]
         ] ]
       ] ],
       [ "RE::GRefCountNTSImpl", "class_r_e_1_1_g_ref_count_n_t_s_impl.html", [
         [ "RE::GRefCountBaseStatImpl< GRefCountNTSImpl, Stat >", "class_r_e_1_1_g_ref_count_base_stat_impl.html", [
+          [ "RE::GRefCountBaseNTS< GASGlobalContext, GFxStatMovieViews::kGFxStatMV_ActionScript_Mem >", "class_r_e_1_1_g_ref_count_base_n_t_s.html", [
+            [ "RE::GASGlobalContext", "class_r_e_1_1_g_a_s_global_context.html", null ]
+          ] ],
           [ "RE::GRefCountBaseNTS< GFxKeyboardState, GFxStatMovieViews::kGFxStatMV_Other_Mem >", "class_r_e_1_1_g_ref_count_base_n_t_s.html", [
             [ "RE::GFxKeyboardState", "class_r_e_1_1_g_fx_keyboard_state.html", null ]
           ] ],
@@ -3350,6 +3848,14 @@ var hierarchy =
             [ "RE::GImage", "class_r_e_1_1_g_image.html", null ]
           ] ],
           [ "RE::GRefCountBaseNTS< C, Stat >", "class_r_e_1_1_g_ref_count_base_n_t_s.html", null ]
+        ] ],
+        [ "RE::GRefCountWeakSupportImpl", "class_r_e_1_1_g_ref_count_weak_support_impl.html", [
+          [ "RE::GRefCountBaseStatImpl< GRefCountWeakSupportImpl, STAT >", "class_r_e_1_1_g_ref_count_base_stat_impl.html", [
+            [ "RE::GRefCountBaseWeakSupport< GFxCharacter, GFxStatMovieViews::kGFxStatMV_MovieClip_Mem >", "class_r_e_1_1_g_ref_count_base_weak_support.html", [
+              [ "RE::GFxCharacter", "class_r_e_1_1_g_fx_character.html", null ]
+            ] ],
+            [ "RE::GRefCountBaseWeakSupport< T, STAT >", "class_r_e_1_1_g_ref_count_base_weak_support.html", null ]
+          ] ]
         ] ]
       ] ]
     ] ],
@@ -3360,19 +3866,25 @@ var hierarchy =
     [ "RE::GROUP_REACTION", "struct_r_e_1_1_g_r_o_u_p___r_e_a_c_t_i_o_n.html", null ],
     [ "RE::GStatGroups", "struct_r_e_1_1_g_stat_groups.html", null ],
     [ "RE::GStatRenderers", "struct_r_e_1_1_g_stat_renderers.html", null ],
-    [ "RE::GString", "class_r_e_1_1_g_string.html", null ],
+    [ "RE::GString", "class_r_e_1_1_g_string.html", [
+      [ "RE::GStringDH", "class_r_e_1_1_g_string_d_h.html", null ]
+    ] ],
     [ "RE::GSysAllocBase", "class_r_e_1_1_g_sys_alloc_base.html", [
       [ "RE::GSysAllocPaged", "class_r_e_1_1_g_sys_alloc_paged.html", null ]
     ] ],
     [ "RE::ExtraGuardedRefData::GuardInfo", "struct_r_e_1_1_extra_guarded_ref_data_1_1_guard_info.html", null ],
     [ "RE::GViewport", "class_r_e_1_1_g_viewport.html", null ],
+    [ "RE::GWaitCondition", "class_r_e_1_1_g_wait_condition.html", null ],
     [ "HandlerCreationMissPolicy", null, [
       [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy >", "class_r_e_1_1_b_s_t_object_dictionary.html", null ]
     ] ],
     [ "RE::HandlerCreationMissPolicy< T, Key >", "class_r_e_1_1_handler_creation_miss_policy.html", null ],
+    [ "RE::GWaitable::HandlerStruct", "class_r_e_1_1_g_waitable_1_1_handler_struct.html", null ],
     [ "RE::AIProcess::Hands", "struct_r_e_1_1_a_i_process_1_1_hands.html", null ],
+    [ "RE::GString::HashFunctor", "class_r_e_1_1_g_string_1_1_hash_functor.html", null ],
     [ "RE::GFxResourceID::HashOp", "class_r_e_1_1_g_fx_resource_i_d_1_1_hash_op.html", null ],
     [ "RE::GFxResourceKey::HashOp", "class_r_e_1_1_g_fx_resource_key_1_1_hash_op.html", null ],
+    [ "RE::GFxResourceWeakLib::ResourceNode::HashOp", "struct_r_e_1_1_g_fx_resource_weak_lib_1_1_resource_node_1_1_hash_op.html", null ],
     [ "RE::BSShaderTechniqueIDMap::HashPolicy< T >", "struct_r_e_1_1_b_s_shader_technique_i_d_map_1_1_hash_policy.html", null ],
     [ "RE::Hazard::HAZARD_RUNTIME_DATA", "struct_r_e_1_1_hazard_1_1_h_a_z_a_r_d___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::ImageSpaceBaseData::HDR", "struct_r_e_1_1_image_space_base_data_1_1_h_d_r.html", null ],
@@ -3416,12 +3928,18 @@ var hierarchy =
       [ "RE::hkArray< RE::hkpRigidBody * >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< RE::hkpConstraintInstance * >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< int >", "class_r_e_1_1hk_array.html", null ],
+      [ "RE::hkArray< hkbAnimationBindingWithTriggers * >", "class_r_e_1_1hk_array.html", null ],
+      [ "RE::hkArray< RE::hkRefPtr< hkbAssetBundle > >", "class_r_e_1_1hk_array.html", null ],
+      [ "RE::hkArray< RE::hkStringPtr >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< RE::hkRefVariant >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< float >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< hkbVariableInfo >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< hkbVariableBounds >", "class_r_e_1_1hk_array.html", null ],
-      [ "RE::hkArray< RE::hkStringPtr >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< RE::hkbCharacter * >", "class_r_e_1_1hk_array.html", null ],
+      [ "RE::hkArray< std::int32_t >", "class_r_e_1_1hk_array.html", null ],
+      [ "RE::hkArray< RE::hkRefPtr< const hkaSkeletonMapper > >", "class_r_e_1_1hk_array.html", null ],
+      [ "RE::hkArray< RE::hkbCharacterStringData::FileNameMeshNamePair >", "class_r_e_1_1hk_array.html", null ],
+      [ "RE::hkArray< RE::hkbAssetBundleStringData >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< RE::hkClipTrigger >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< int32_t >", "class_r_e_1_1hk_array.html", null ],
       [ "RE::hkArray< RE::hkbStateMachine::StateInfo * >", "class_r_e_1_1hk_array.html", null ],
@@ -3468,6 +3986,7 @@ var hierarchy =
     [ "RE::hkArrayBase< float >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< hkaAnimationControlListener >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< hkaDefaultAnimationControlListener >", "class_r_e_1_1hk_array_base.html", null ],
+    [ "RE::hkArrayBase< hkbAnimationBindingWithTriggers * >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< hkbVariableBounds >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< hkbVariableInfo >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< hkpActionListener * >", "class_r_e_1_1hk_array_base.html", null ],
@@ -3489,7 +4008,9 @@ var hierarchy =
     [ "RE::hkArrayBase< RE::bhkMeshMaterial >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkaAnnotationTrack >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkaAnnotationTrack::Annotation >", "class_r_e_1_1hk_array_base.html", null ],
+    [ "RE::hkArrayBase< RE::hkbAssetBundleStringData >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkbCharacter * >", "class_r_e_1_1hk_array_base.html", null ],
+    [ "RE::hkArrayBase< RE::hkbCharacterStringData::FileNameMeshNamePair >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkbStateMachine::StateInfo * >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkClipTrigger >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkp3AxisSweep::hkpBpEndPoint >", "class_r_e_1_1hk_array_base.html", null ],
@@ -3514,10 +4035,13 @@ var hierarchy =
     [ "RE::hkArrayBase< RE::hkpSimulationIsland * >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkpWorldPostSimulationListener * >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkQsTransform >", "class_r_e_1_1hk_array_base.html", null ],
+    [ "RE::hkArrayBase< RE::hkRefPtr< const hkaSkeletonMapper > >", "class_r_e_1_1hk_array_base.html", null ],
+    [ "RE::hkArrayBase< RE::hkRefPtr< hkbAssetBundle > >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkRefVariant >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkStringPtr >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< RE::hkVector4 >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< std::int16_t >", "class_r_e_1_1hk_array_base.html", null ],
+    [ "RE::hkArrayBase< std::int32_t >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< std::uint16_t >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< std::uint32_t >", "class_r_e_1_1hk_array_base.html", null ],
     [ "RE::hkArrayBase< std::uint8_t >", "class_r_e_1_1hk_array_base.html", null ],
@@ -3530,6 +4054,7 @@ var hierarchy =
           [ "RE::hkaDefaultAnimationControl", "class_r_e_1_1hka_default_animation_control.html", null ]
         ] ],
         [ "RE::hkaRagdollInstance", "class_r_e_1_1hka_ragdoll_instance.html", null ],
+        [ "RE::hkbAnimationBindingSet", "class_r_e_1_1hkb_animation_binding_set.html", null ],
         [ "RE::hkbBehaviorGraphData", "class_r_e_1_1hkb_behavior_graph_data.html", null ],
         [ "RE::hkbBehaviorGraphStringData", "class_r_e_1_1hkb_behavior_graph_string_data.html", null ],
         [ "RE::hkbBindable", "class_r_e_1_1hkb_bindable.html", [
@@ -3543,7 +4068,12 @@ var hierarchy =
           [ "RE::hkbStateMachine::StateInfo", "class_r_e_1_1hkb_state_machine_1_1_state_info.html", null ]
         ] ],
         [ "RE::hkbCharacter", "class_r_e_1_1hkb_character.html", null ],
+        [ "RE::hkbCharacterData", "class_r_e_1_1hkb_character_data.html", null ],
+        [ "RE::hkbCharacterSetup", "class_r_e_1_1hkb_character_setup.html", null ],
+        [ "RE::hkbCharacterStringData", "class_r_e_1_1hkb_character_string_data.html", null ],
         [ "RE::hkbClipTriggerArray", "class_r_e_1_1hkb_clip_trigger_array.html", null ],
+        [ "RE::hkbProjectData", "class_r_e_1_1hkb_project_data.html", null ],
+        [ "RE::hkbProjectStringData", "class_r_e_1_1hkb_project_string_data.html", null ],
         [ "RE::hkbRagdollDriver", "class_r_e_1_1hkb_ragdoll_driver.html", null ],
         [ "RE::hkbStateMachine::TransitionInfoArray", "class_r_e_1_1hkb_state_machine_1_1_transition_info_array.html", null ],
         [ "RE::hkpAction", "class_r_e_1_1hkp_action.html", [
@@ -3622,15 +4152,20 @@ var hierarchy =
         ] ]
       ] ]
     ] ],
+    [ "RE::hkbAssetBundleStringData", "struct_r_e_1_1hkb_asset_bundle_string_data.html", null ],
+    [ "RE::hkbCharacterControllerSetup", "struct_r_e_1_1hkb_character_controller_setup.html", null ],
     [ "RE::hkbContext", "class_r_e_1_1hkb_context.html", null ],
     [ "RE::hkbEventBase", "class_r_e_1_1hkb_event_base.html", [
       [ "RE::hkbEvent", "class_r_e_1_1hkb_event.html", null ],
       [ "RE::hkbEventProperty", "class_r_e_1_1hkb_event_property.html", null ]
     ] ],
+    [ "RE::hkbRigidBodySetup", "struct_r_e_1_1hkb_rigid_body_setup.html", null ],
+    [ "RE::hkbShapeSetup", "struct_r_e_1_1hkb_shape_setup.html", null ],
     [ "RE::hkbVariableValue", "union_r_e_1_1hkb_variable_value.html", null ],
     [ "RE::hkClipTrigger", "class_r_e_1_1hk_clip_trigger.html", null ],
     [ "RE::hkContactPoint", "class_r_e_1_1hk_contact_point.html", null ],
     [ "RE::hkContainerHeapAllocator", "struct_r_e_1_1hk_container_heap_allocator.html", null ],
+    [ "RE::hkFinishLoadedObjectFlag", "struct_r_e_1_1hk_finish_loaded_object_flag.html", null ],
     [ "RE::hkHalf", "class_r_e_1_1hk_half.html", null ],
     [ "RE::hkMatrix3", "class_r_e_1_1hk_matrix3.html", [
       [ "RE::hkRotation", "class_r_e_1_1hk_rotation.html", null ]
@@ -3696,7 +4231,13 @@ var hierarchy =
       [ "RE::hkpTwistLimitConstraintAtom", "struct_r_e_1_1hkp_twist_limit_constraint_atom.html", null ]
     ] ],
     [ "RE::hkpConstraintInfo", "struct_r_e_1_1hkp_constraint_info.html", null ],
-    [ "RE::hkpContactListener", "class_r_e_1_1hkp_contact_listener.html", null ],
+    [ "RE::hkpContactListener", "class_r_e_1_1hkp_contact_listener.html", [
+      [ "RE::bhkContactListener", "class_r_e_1_1bhk_contact_listener.html", [
+        [ "RE::bhkBackfaceContactListener", "class_r_e_1_1bhk_backface_contact_listener.html", [
+          [ "RE::FOCollisionListener", "class_r_e_1_1_f_o_collision_listener.html", null ]
+        ] ]
+      ] ]
+    ] ],
     [ "RE::hkpEntityListener", "class_r_e_1_1hkp_entity_listener.html", [
       [ "RE::hkpCharacterProxy", "class_r_e_1_1hkp_character_proxy.html", null ]
     ] ],
@@ -3746,12 +4287,17 @@ var hierarchy =
     [ "RE::hkQuaternion", "class_r_e_1_1hk_quaternion.html", null ],
     [ "RE::hkRefPtr< T >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< const hkaSkeleton >", "class_r_e_1_1hk_ref_ptr.html", null ],
-    [ "RE::hkRefPtr< hkbCharacterSetup >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< const hkaSkeletonMapper >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< hkaMirroredSkeleton >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< hkbAssetBundle >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< hkbEventPayload >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< hkbFootIkDriverInfo >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< hkbGeneratorOutputListener >", "class_r_e_1_1hk_ref_ptr.html", null ],
-    [ "RE::hkRefPtr< hkbProjectData >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< hkbHandIkDriverInfo >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< hkbStateChooser >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< hkbSymbolIdMap >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< hkbVariableBindingSet >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< hkbVariableValueSet >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< hkLocalFrame >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< hkReferencedObject >", "class_r_e_1_1hk_ref_ptr.html", [
       [ "RE::hkRefVariant", "class_r_e_1_1hk_ref_variant.html", null ]
@@ -3760,11 +4306,17 @@ var hierarchy =
     [ "RE::hkRefPtr< RE::hkaAnimatedReferenceFrame >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkaAnimation >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkaDefaultAnimationControl >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< RE::hkbAnimationBindingSet >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkbBehaviorGraph >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkbBehaviorGraphData >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkbBehaviorGraphStringData >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< RE::hkbCharacterData >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< RE::hkbCharacterSetup >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< RE::hkbCharacterStringData >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkbClipTriggerArray >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkbGenerator >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< RE::hkbProjectData >", "class_r_e_1_1hk_ref_ptr.html", null ],
+    [ "RE::hkRefPtr< RE::hkbProjectStringData >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkbRagdollDriver >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkbStateMachine::TransitionInfoArray >", "class_r_e_1_1hk_ref_ptr.html", null ],
     [ "RE::hkRefPtr< RE::hkpCollisionFilter >", "class_r_e_1_1hk_ref_ptr.html", null ],
@@ -3801,6 +4353,9 @@ var hierarchy =
       [ "RE::PackageLocation", "class_r_e_1_1_package_location.html", null ]
     ] ],
     [ "RE::BSTArrayBase::IAllocatorFunctor", "class_r_e_1_1_b_s_t_array_base_1_1_i_allocator_functor.html", null ],
+    [ "RE::IAnimationClipLoaderSingleton", "class_r_e_1_1_i_animation_clip_loader_singleton.html", [
+      [ "RE::AnimationFileManagerSingleton", "class_r_e_1_1_animation_file_manager_singleton.html", null ]
+    ] ],
     [ "RE::IAnimationGraphManagerHolder", "class_r_e_1_1_i_animation_graph_manager_holder.html", [
       [ "RE::SimpleAnimationGraphManagerHolder", "class_r_e_1_1_simple_animation_graph_manager_holder.html", [
         [ "RE::ActorMagicCaster", "class_r_e_1_1_actor_magic_caster.html", null ],
@@ -3833,6 +4388,7 @@ var hierarchy =
     [ "RE::NiControllerSequence::IDTag", "struct_r_e_1_1_ni_controller_sequence_1_1_i_d_tag.html", null ],
     [ "RE::GFxResourceID::IDTypeConstants", "struct_r_e_1_1_g_fx_resource_i_d_1_1_i_d_type_constants.html", null ],
     [ "RE::GFxResourceID::IDTypes", "struct_r_e_1_1_g_fx_resource_i_d_1_1_i_d_types.html", null ],
+    [ "RE::BSResource::IEntryDB", "class_r_e_1_1_b_s_resource_1_1_i_entry_d_b.html", null ],
     [ "RE::IFormFactory", "class_r_e_1_1_i_form_factory.html", [
       [ "RE::ConcreteFormFactory< T, FORM_TYPE >", "class_r_e_1_1_concrete_form_factory.html", [
         [ "RE::ConcreteObjectFormFactory< T, FORM_TYPE, OBJ_TYPE, OBJ_CATEGORY_TYPE >", "class_r_e_1_1_concrete_object_form_factory.html", null ]
@@ -3861,14 +4417,20 @@ var hierarchy =
     ] ],
     [ "RE::ImageData", "struct_r_e_1_1_image_data.html", null ],
     [ "RE::ImageSpaceBaseData", "struct_r_e_1_1_image_space_base_data.html", null ],
+    [ "RE::ImageSpaceData", "class_r_e_1_1_image_space_data.html", null ],
     [ "RE::ImageSpaceEffect", "class_r_e_1_1_image_space_effect.html", [
-      [ "RE::BSImagespaceShader", "class_r_e_1_1_b_s_imagespace_shader.html", null ]
+      [ "RE::BSImagespaceShader", "class_r_e_1_1_b_s_imagespace_shader.html", null ],
+      [ "RE::ImageSpaceEffectOption", "class_r_e_1_1_image_space_effect_option.html", [
+        [ "RE::ImageSpaceEffectDepthOfField", "class_r_e_1_1_image_space_effect_depth_of_field.html", null ]
+      ] ]
     ] ],
     [ "RE::ImageSpaceEffectParam", "class_r_e_1_1_image_space_effect_param.html", [
       [ "RE::ImageSpaceShaderParam", "class_r_e_1_1_image_space_shader_param.html", null ]
     ] ],
+    [ "RE::ImageSpaceManager", "class_r_e_1_1_image_space_manager.html", null ],
     [ "RE::ImageSpaceModData", "struct_r_e_1_1_image_space_mod_data.html", null ],
     [ "RE::ImageSpaceModifierData", "struct_r_e_1_1_image_space_modifier_data.html", null ],
+    [ "RE::ImageSpaceTexture", "class_r_e_1_1_image_space_texture.html", null ],
     [ "RE::IMapCameraCallbacks", "struct_r_e_1_1_i_map_camera_callbacks.html", [
       [ "RE::MapMenu", "class_r_e_1_1_map_menu.html", null ]
     ] ],
@@ -3917,6 +4479,10 @@ var hierarchy =
     [ "RE::BGSImpactData::IMPACT_DATA_DATA", "struct_r_e_1_1_b_g_s_impact_data_1_1_i_m_p_a_c_t___d_a_t_a___d_a_t_a.html", null ],
     [ "RE::Projectile::ImpactData", "struct_r_e_1_1_projectile_1_1_impact_data.html", null ],
     [ "RE::BGSImpactManager::ImpactSoundData", "struct_r_e_1_1_b_g_s_impact_manager_1_1_impact_sound_data.html", null ],
+    [ "RE::GFxImportNode::ImportAssetInfo", "struct_r_e_1_1_g_fx_import_node_1_1_import_asset_info.html", null ],
+    [ "RE::GFxMovieDefImpl::ImportData", "struct_r_e_1_1_g_fx_movie_def_impl_1_1_import_data.html", null ],
+    [ "RE::GFxMovieDefImpl::ImportedResource", "struct_r_e_1_1_g_fx_movie_def_impl_1_1_imported_resource.html", null ],
+    [ "RE::GFxResourceSource::ImportSource", "struct_r_e_1_1_g_fx_resource_source_1_1_import_source.html", null ],
     [ "RE::GFxMovieDef::ImportVisitor", "struct_r_e_1_1_g_fx_movie_def_1_1_import_visitor.html", null ],
     [ "RE::BSResource::BSSystemFile::Info", "struct_r_e_1_1_b_s_resource_1_1_b_s_system_file_1_1_info.html", null ],
     [ "RE::BSResource::Info", "struct_r_e_1_1_b_s_resource_1_1_info.html", null ],
@@ -3931,6 +4497,7 @@ var hierarchy =
     [ "RE::BSInputDevice::InputButton", "struct_r_e_1_1_b_s_input_device_1_1_input_button.html", null ],
     [ "RE::ControlMap::InputContext", "struct_r_e_1_1_control_map_1_1_input_context.html", null ],
     [ "RE::InputEvent", "class_r_e_1_1_input_event.html", [
+      [ "RE::CharEvent", "class_r_e_1_1_char_event.html", null ],
       [ "RE::DeviceConnectEvent", "class_r_e_1_1_device_connect_event.html", null ],
       [ "RE::IDEvent", "class_r_e_1_1_i_d_event.html", [
         [ "RE::ButtonEvent", "class_r_e_1_1_button_event.html", null ],
@@ -3941,6 +4508,8 @@ var hierarchy =
     ] ],
     [ "RE::ThumbstickEvent::InputTypes", "struct_r_e_1_1_thumbstick_event_1_1_input_types.html", null ],
     [ "RE::BGSDistantTreeBlock::InstanceData", "struct_r_e_1_1_b_g_s_distant_tree_block_1_1_instance_data.html", null ],
+    [ "RE::BSScript::ByteCode::InstructionDefinition", "struct_r_e_1_1_b_s_script_1_1_byte_code_1_1_instruction_definition.html", null ],
+    [ "RE::BSScript::UnlinkedTypes::InstructionStream", "class_r_e_1_1_b_s_script_1_1_unlinked_types_1_1_instruction_stream.html", null ],
     [ "std::integral_constant", null, [
       [ "RE::BSScript::vm_type_constant< TypeInfo::RawType::kBool >", "struct_r_e_1_1_b_s_script_1_1vm__type__constant.html", [
         [ "RE::BSScript::_vm_type< T, std::enable_if_t< is_boolean_v< T > > >", "struct_r_e_1_1_b_s_script_1_1__vm__type_3_01_t_00_01std_1_1enable__if__t_3_01is__boolean__v_3_01_t_01_4_01_4_01_4.html", null ]
@@ -3995,6 +4564,7 @@ var hierarchy =
     [ "RE::BSScript::IProfilePolicy", "class_r_e_1_1_b_s_script_1_1_i_profile_policy.html", [
       [ "RE::SkyrimScript::Profiler", "class_r_e_1_1_skyrim_script_1_1_profiler.html", null ]
     ] ],
+    [ "RE::BSTreeManager::IQueryCullingCamera", "class_r_e_1_1_b_s_tree_manager_1_1_i_query_culling_camera.html", null ],
     [ "std::is_base_of", null, [
       [ "RE::BSScript::is_active_effect< T >", "struct_r_e_1_1_b_s_script_1_1is__active__effect.html", null ],
       [ "RE::BSScript::is_alias< T >", "struct_r_e_1_1_b_s_script_1_1is__alias.html", null ],
@@ -4046,9 +4616,11 @@ var hierarchy =
     [ "RE::ItemList::Item", "struct_r_e_1_1_item_list_1_1_item.html", null ],
     [ "RE::ItemCard", "struct_r_e_1_1_item_card.html", null ],
     [ "RE::ItemCrafted", "struct_r_e_1_1_item_crafted.html", null ],
+    [ "RE::CraftingSubMenus::ConstructibleObjectMenu::ItemEntry", "struct_r_e_1_1_crafting_sub_menus_1_1_constructible_object_menu_1_1_item_entry.html", null ],
     [ "RE::TESHarvestedEvent::ItemHarvested", "struct_r_e_1_1_t_e_s_harvested_event_1_1_item_harvested.html", null ],
     [ "RE::ItemList", "struct_r_e_1_1_item_list.html", null ],
     [ "RE::ItemsPickpocketed", "struct_r_e_1_1_items_pickpocketed.html", null ],
+    [ "RE::GArrayBase< T >::iterator", "struct_r_e_1_1_g_array_base_1_1iterator.html", null ],
     [ "RE::BSSimpleList< T >::iterator_base< U >", "class_r_e_1_1_b_s_simple_list_1_1iterator__base.html", null ],
     [ "RE::ExtraDataList::iterator_base< T >", "class_r_e_1_1_extra_data_list_1_1iterator__base.html", null ],
     [ "RE::NiTMapBase< Allocator, Key, T >::iterator_base< U >", "struct_r_e_1_1_ni_t_map_base_1_1iterator__base.html", null ],
@@ -4080,6 +4652,7 @@ var hierarchy =
     [ "RE::GFxKeyboardState::KeyQueue", "class_r_e_1_1_g_fx_keyboard_state_1_1_key_queue.html", null ],
     [ "RE::GFxKeyboardState::KeyQueue::KeyRecord", "struct_r_e_1_1_g_fx_keyboard_state_1_1_key_queue_1_1_key_record.html", null ],
     [ "RE::BSKeyboardDevice::Keys", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html", null ],
+    [ "RE::BSPCOrbisGamepadDevice::Keys", "struct_r_e_1_1_b_s_p_c_orbis_gamepad_device_1_1_keys.html", null ],
     [ "RE::BSWin32GamepadDevice::Keys", "struct_r_e_1_1_b_s_win32_gamepad_device_1_1_keys.html", null ],
     [ "RE::BSWin32MouseDevice::Keys", "struct_r_e_1_1_b_s_win32_mouse_device_1_1_keys.html", null ],
     [ "RE::BGSLocation::KEYWORD_DATA", "struct_r_e_1_1_b_g_s_location_1_1_k_e_y_w_o_r_d___d_a_t_a.html", null ],
@@ -4094,7 +4667,9 @@ var hierarchy =
     [ "RE::ShadowSceneNode::LIGHT_CREATE_PARAMS", "struct_r_e_1_1_shadow_scene_node_1_1_l_i_g_h_t___c_r_e_a_t_e___p_a_r_a_m_s.html", null ],
     [ "RE::NiLight::LIGHT_RUNTIME_DATA", "struct_r_e_1_1_ni_light_1_1_l_i_g_h_t___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::BGSBodyPartDefs::LIMB_ENUMS", "struct_r_e_1_1_b_g_s_body_part_defs_1_1_l_i_m_b___e_n_u_m_s.html", null ],
-    [ "RE::GMemoryHeap::LimitHandler", "struct_r_e_1_1_g_memory_heap_1_1_limit_handler.html", null ],
+    [ "RE::GMemoryHeap::LimitHandler", "struct_r_e_1_1_g_memory_heap_1_1_limit_handler.html", [
+      [ "RE::GFxMovieDef::MemoryContextImpl::HeapLimit", "class_r_e_1_1_g_fx_movie_def_1_1_memory_context_impl_1_1_heap_limit.html", null ]
+    ] ],
     [ "RE::GFxTranslator::LineFormatDesc", "struct_r_e_1_1_g_fx_translator_1_1_line_format_desc.html", null ],
     [ "RE::ControlMap::LinkedMapping", "struct_r_e_1_1_control_map_1_1_linked_mapping.html", null ],
     [ "RE::ExtraLinkedRef::LinkedRef", "struct_r_e_1_1_extra_linked_ref_1_1_linked_ref.html", null ],
@@ -4117,6 +4692,7 @@ var hierarchy =
       [ "RE::BSResource::LocationTree", "class_r_e_1_1_b_s_resource_1_1_location_tree.html", null ],
       [ "RE::BSResource::LooseFileLocation", "class_r_e_1_1_b_s_resource_1_1_loose_file_location.html", null ]
     ] ],
+    [ "RE::LocationCleared", "struct_r_e_1_1_location_cleared.html", null ],
     [ "RE::LocationDiscovery", "struct_r_e_1_1_location_discovery.html", null ],
     [ "RE::BSResource::LocationTraverser", "class_r_e_1_1_b_s_resource_1_1_location_traverser.html", [
       [ "RE::BSResource::Traverser", "class_r_e_1_1_b_s_resource_1_1_traverser.html", null ]
@@ -4132,6 +4708,10 @@ var hierarchy =
       [ "RE::ActorMagicCaster", "class_r_e_1_1_actor_magic_caster.html", null ],
       [ "RE::ExtraMagicCaster", "class_r_e_1_1_extra_magic_caster.html", null ]
     ] ],
+    [ "RE::MagicItemTraversalFunctor", "class_r_e_1_1_magic_item_traversal_functor.html", [
+      [ "RE::CraftingSubMenus::EnchantConstructMenu::CreateEffectFunctor", "class_r_e_1_1_crafting_sub_menus_1_1_enchant_construct_menu_1_1_create_effect_functor.html", null ],
+      [ "RE::MagicItemDataCollector", "class_r_e_1_1_magic_item_data_collector.html", null ]
+    ] ],
     [ "RE::MagicTarget", "class_r_e_1_1_magic_target.html", [
       [ "RE::Actor", "class_r_e_1_1_actor.html", null ],
       [ "RE::NonActorMagicTarget", "class_r_e_1_1_non_actor_magic_target.html", null ]
@@ -4144,6 +4724,7 @@ var hierarchy =
     [ "RE::MapMarkerData", "class_r_e_1_1_map_marker_data.html", null ],
     [ "RE::GTexture::MapRect", "struct_r_e_1_1_g_texture_1_1_map_rect.html", null ],
     [ "RE::MarkerUsedData", "struct_r_e_1_1_marker_used_data.html", null ],
+    [ "RE::BSMasterParticleSystem::MASTER_PARTICLE_SYSTEM_RUNTIME_DATA", "struct_r_e_1_1_b_s_master_particle_system_1_1_m_a_s_t_e_r___p_a_r_t_i_c_l_e___s_y_s_t_e_m___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::BGSDirectionalAmbientLightingColors::Directional::MaxMin< T >", "struct_r_e_1_1_b_g_s_directional_ambient_lighting_colors_1_1_directional_1_1_max_min.html", null ],
     [ "RE::BGSDirectionalAmbientLightingColors::Directional::MaxMin< RE::Color >", "struct_r_e_1_1_b_g_s_directional_ambient_lighting_colors_1_1_directional_1_1_max_min.html", null ],
     [ "RE::Movement::MaxSpeeds", "struct_r_e_1_1_movement_1_1_max_speeds.html", null ],
@@ -4161,8 +4742,10 @@ var hierarchy =
     [ "RE::hkMemoryAllocator::MemoryStatistics", "struct_r_e_1_1hk_memory_allocator_1_1_memory_statistics.html", null ],
     [ "RE::MemoryStats", "struct_r_e_1_1_memory_stats.html", null ],
     [ "RE::CraftingSubMenus::AlchemyMenu::MenuIngredientEntry", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu_1_1_menu_ingredient_entry.html", null ],
-    [ "RE::UI3DSceneManager::MenuLight", "struct_r_e_1_1_u_i3_d_scene_manager_1_1_menu_light.html", null ],
+    [ "RE::MenuLight", "class_r_e_1_1_menu_light.html", null ],
+    [ "RE::MenuModeChangeEvent", "class_r_e_1_1_menu_mode_change_event.html", null ],
     [ "RE::MenuOpenCloseEvent", "class_r_e_1_1_menu_open_close_event.html", null ],
+    [ "RE::NiMeshParticleSystem::MESH_PARTICLE_SYSTEM_RUNTIME_DATA", "struct_r_e_1_1_ni_mesh_particle_system_1_1_m_e_s_h___p_a_r_t_i_c_l_e___s_y_s_t_e_m___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "SKSE::MessagingInterface::Message", "struct_s_k_s_e_1_1_messaging_interface_1_1_message.html", null ],
     [ "RE::BGSMessage::MESSAGEBOX_BUTTON", "struct_r_e_1_1_b_g_s_message_1_1_m_e_s_s_a_g_e_b_o_x___b_u_t_t_o_n.html", null ],
     [ "SKSE::MessagingInterface", "class_s_k_s_e_1_1_messaging_interface.html", null ],
@@ -4178,7 +4761,6 @@ var hierarchy =
     ] ],
     [ "SKSE::ModCallbackEvent", "struct_s_k_s_e_1_1_mod_callback_event.html", null ],
     [ "RE::BSGeometry::MODEL_DATA", "struct_r_e_1_1_b_s_geometry_1_1_m_o_d_e_l___d_a_t_a.html", null ],
-    [ "RE::ModelData", "class_r_e_1_1_model_data.html", null ],
     [ "RE::Modifiers", "struct_r_e_1_1_modifiers.html", null ],
     [ "REL::Module", "class_r_e_l_1_1_module.html", null ],
     [ "RE::Calendar::Months", "struct_r_e_1_1_calendar_1_1_months.html", null ],
@@ -4201,6 +4783,7 @@ var hierarchy =
     [ "RE::BSScript::ObjectTypeInfo::NamedStateInfo", "struct_r_e_1_1_b_s_script_1_1_object_type_info_1_1_named_state_info.html", null ],
     [ "RE::BGSPackageDataNameMap::NameMapData", "struct_r_e_1_1_b_g_s_package_data_name_map_1_1_name_map_data.html", null ],
     [ "RE::NativeFunction< F, class >", "class_r_e_1_1_native_function.html", null ],
+    [ "RE::NativeLatentFunction< R, F, class >", "class_r_e_1_1_native_latent_function.html", null ],
     [ "RE::NAVMESH_PORTAL::Nav", "union_r_e_1_1_n_a_v_m_e_s_h___p_o_r_t_a_l_1_1_nav.html", null ],
     [ "RE::NAVMESH_PORTAL", "struct_r_e_1_1_n_a_v_m_e_s_h___p_o_r_t_a_l.html", null ],
     [ "RE::NavMeshArray", "class_r_e_1_1_nav_mesh_array.html", null ],
@@ -4250,10 +4833,11 @@ var hierarchy =
     [ "RE::NiPoint3", "class_r_e_1_1_ni_point3.html", null ],
     [ "RE::NiPointer< T >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< AddCellGrassTask >", "class_r_e_1_1_ni_pointer.html", null ],
+    [ "RE::NiPointer< BGSArtObjectCloneTask >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< bhkSimpleShapePhantom * >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< bhkSimpleShapePhantom >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< BSCubeMapCamera >", "class_r_e_1_1_ni_pointer.html", null ],
-    [ "RE::NiPointer< BSFaceGenModel >", "class_r_e_1_1_ni_pointer.html", null ],
+    [ "RE::NiPointer< BSFaceGenMorphData >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< BSFogProperty >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< BSLines >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< BSMultiBoundRoom >", "class_r_e_1_1_ni_pointer.html", null ],
@@ -4263,6 +4847,7 @@ var hierarchy =
     [ "RE::NiPointer< BSPortal >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< BSShaderAccumulator >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< CellMopp >", "class_r_e_1_1_ni_pointer.html", null ],
+    [ "RE::NiPointer< CombatProjectileAimController >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< NiAdditionalGeometryData >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< NiAVObjectPalette >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< NiBillboardNode >", "class_r_e_1_1_ni_pointer.html", null ],
@@ -4285,6 +4870,8 @@ var hierarchy =
     [ "RE::NiPointer< RE::bhkShape >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::bhkWorld >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::bhkWorldObject >", "class_r_e_1_1_ni_pointer.html", null ],
+    [ "RE::NiPointer< RE::BSFaceGenModel >", "class_r_e_1_1_ni_pointer.html", null ],
+    [ "RE::NiPointer< RE::BSFaceGenNiNode >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::BSGeometry >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::BSHandleRefObject >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::BSInstanceTriShape >", "class_r_e_1_1_ni_pointer.html", null ],
@@ -4301,6 +4888,7 @@ var hierarchy =
     [ "RE::NiPointer< RE::BSTextureSet >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::BSTriShape >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::CombatInventoryItem >", "class_r_e_1_1_ni_pointer.html", null ],
+    [ "RE::NiPointer< RE::CombatInventoryItemMagic >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::DetectionState >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::NiAVObject >", "class_r_e_1_1_ni_pointer.html", null ],
     [ "RE::NiPointer< RE::NiCamera >", "class_r_e_1_1_ni_pointer.html", null ],
@@ -4343,6 +4931,7 @@ var hierarchy =
       [ "RE::AttackAnimationArrayMap", "class_r_e_1_1_attack_animation_array_map.html", null ],
       [ "RE::BGSAttackData", "class_r_e_1_1_b_g_s_attack_data.html", null ],
       [ "RE::BGSAttackDataMap", "class_r_e_1_1_b_g_s_attack_data_map.html", null ],
+      [ "RE::BSFaceGenModel", "class_r_e_1_1_b_s_face_gen_model.html", null ],
       [ "RE::BSFaceGenModelMap::Entry", "class_r_e_1_1_b_s_face_gen_model_map_1_1_entry.html", null ],
       [ "RE::BSHandleRefObject", "class_r_e_1_1_b_s_handle_ref_object.html", [
         [ "RE::TESObjectREFR", "class_r_e_1_1_t_e_s_object_r_e_f_r.html", null ]
@@ -4367,9 +4956,20 @@ var hierarchy =
           ] ]
         ] ],
         [ "RE::CombatMagicCaster", "class_r_e_1_1_combat_magic_caster.html", [
+          [ "RE::CombatMagicCasterBoundItem", "class_r_e_1_1_combat_magic_caster_bound_item.html", null ],
+          [ "RE::CombatMagicCasterCloak", "class_r_e_1_1_combat_magic_caster_cloak.html", null ],
+          [ "RE::CombatMagicCasterDisarm", "class_r_e_1_1_combat_magic_caster_disarm.html", null ],
+          [ "RE::CombatMagicCasterInvisibility", "class_r_e_1_1_combat_magic_caster_invisibility.html", null ],
+          [ "RE::CombatMagicCasterLight", "class_r_e_1_1_combat_magic_caster_light.html", null ],
           [ "RE::CombatMagicCasterOffensive", "class_r_e_1_1_combat_magic_caster_offensive.html", null ],
+          [ "RE::CombatMagicCasterParalyze", "class_r_e_1_1_combat_magic_caster_paralyze.html", null ],
+          [ "RE::CombatMagicCasterReanimate", "class_r_e_1_1_combat_magic_caster_reanimate.html", null ],
           [ "RE::CombatMagicCasterRestore", "class_r_e_1_1_combat_magic_caster_restore.html", null ],
-          [ "RE::CombatMagicCasterTargetEffect", "class_r_e_1_1_combat_magic_caster_target_effect.html", null ]
+          [ "RE::CombatMagicCasterScript", "class_r_e_1_1_combat_magic_caster_script.html", null ],
+          [ "RE::CombatMagicCasterStagger", "class_r_e_1_1_combat_magic_caster_stagger.html", null ],
+          [ "RE::CombatMagicCasterSummon", "class_r_e_1_1_combat_magic_caster_summon.html", null ],
+          [ "RE::CombatMagicCasterTargetEffect", "class_r_e_1_1_combat_magic_caster_target_effect.html", null ],
+          [ "RE::CombatMagicCasterWard", "class_r_e_1_1_combat_magic_caster_ward.html", null ]
         ] ]
       ] ],
       [ "RE::DetectionListener", "class_r_e_1_1_detection_listener.html", [
@@ -4410,7 +5010,10 @@ var hierarchy =
         ] ],
         [ "RE::NiCollisionObject", "class_r_e_1_1_ni_collision_object.html", [
           [ "RE::bhkNiCollisionObject", "class_r_e_1_1bhk_ni_collision_object.html", [
-            [ "RE::bhkCollisionObject", "class_r_e_1_1bhk_collision_object.html", null ]
+            [ "RE::bhkCollisionObject", "class_r_e_1_1bhk_collision_object.html", null ],
+            [ "RE::bhkPCollisionObject", "class_r_e_1_1bhk_p_collision_object.html", [
+              [ "RE::bhkSPCollisionObject", "class_r_e_1_1bhk_s_p_collision_object.html", null ]
+            ] ]
           ] ]
         ] ],
         [ "RE::NiColorData", "class_r_e_1_1_ni_color_data.html", null ],
@@ -4449,7 +5052,9 @@ var hierarchy =
                 [ "RE::BSMultiIndexTriShape", "class_r_e_1_1_b_s_multi_index_tri_shape.html", null ]
               ] ],
               [ "RE::NiParticles", "class_r_e_1_1_ni_particles.html", [
-                [ "RE::NiParticleSystem", "class_r_e_1_1_ni_particle_system.html", null ]
+                [ "RE::NiParticleSystem", "class_r_e_1_1_ni_particle_system.html", [
+                  [ "RE::NiMeshParticleSystem", "class_r_e_1_1_ni_mesh_particle_system.html", null ]
+                ] ]
               ] ]
             ] ],
             [ "RE::NiCamera", "class_r_e_1_1_ni_camera.html", null ],
@@ -4461,9 +5066,14 @@ var hierarchy =
               [ "RE::BGSDecalNode", "class_r_e_1_1_b_g_s_decal_node.html", null ],
               [ "RE::BSFaceGenNiNode", "class_r_e_1_1_b_s_face_gen_ni_node.html", null ],
               [ "RE::BSFadeNode", "class_r_e_1_1_b_s_fade_node.html", null ],
+              [ "RE::BSMasterParticleSystem", "class_r_e_1_1_b_s_master_particle_system.html", null ],
               [ "RE::BSNiNode", "class_r_e_1_1_b_s_ni_node.html", [
                 [ "RE::BSMultiBoundNode", "class_r_e_1_1_b_s_multi_bound_node.html", null ],
-                [ "RE::BSOrderedNode", "class_r_e_1_1_b_s_ordered_node.html", null ]
+                [ "RE::BSOrderedNode", "class_r_e_1_1_b_s_ordered_node.html", null ],
+                [ "RE::BSValueNode", "class_r_e_1_1_b_s_value_node.html", null ]
+              ] ],
+              [ "RE::BSSceneGraph", "class_r_e_1_1_b_s_scene_graph.html", [
+                [ "RE::SceneGraph", "class_r_e_1_1_scene_graph.html", null ]
               ] ],
               [ "RE::ShadowSceneNode", "class_r_e_1_1_shadow_scene_node.html", null ]
             ] ]
@@ -4482,7 +5092,8 @@ var hierarchy =
           ] ]
         ] ],
         [ "RE::NiPSysModifier", "class_r_e_1_1_ni_p_sys_modifier.html", [
-          [ "RE::BSWindModifier", "class_r_e_1_1_b_s_wind_modifier.html", null ]
+          [ "RE::BSWindModifier", "class_r_e_1_1_b_s_wind_modifier.html", null ],
+          [ "RE::NiPSysGravityModifier", "class_r_e_1_1_ni_p_sys_gravity_modifier.html", null ]
         ] ],
         [ "RE::NiParticlesData", "class_r_e_1_1_ni_particles_data.html", [
           [ "RE::NiPSysData", "class_r_e_1_1_ni_p_sys_data.html", null ]
@@ -4542,18 +5153,30 @@ var hierarchy =
       [ "RE::NiTObjectArray< RE::NiPointer< RE::NiAVObject > >", "class_r_e_1_1_ni_t_object_array.html", null ],
       [ "RE::NiTPrimitiveArray< RE::BSAnimNoteListener::BSAnimReceiverType * >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
       [ "RE::NiTPrimitiveArray< RE::CombatGroup * >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
-      [ "RE::NiTPrimitiveArray< std::uint32_t >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
+      [ "RE::NiTPrimitiveArray< RE::ImageSpaceEffect * >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
+      [ "RE::NiTPrimitiveArray< RE::ImageSpaceEffectParam * >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
+      [ "RE::NiTPrimitiveArray< RE::ImageSpaceTexture * >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
+      [ "RE::NiTPrimitiveArray< ImageSpaceEffect::EffectInput * >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
+      [ "RE::NiTPrimitiveArray< std::int32_t >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
+      [ "RE::NiTPrimitiveArray< bool >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
+      [ "RE::NiTPrimitiveArray< BSGraphics::TextureFilterMode >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
       [ "RE::NiTPrimitiveArray< RE::TESObjectCELL * >", "class_r_e_1_1_ni_t_primitive_array.html", null ],
       [ "RE::NiTPrimitiveArray< RE::BGSAddonNode * >", "class_r_e_1_1_ni_t_primitive_array.html", null ]
     ] ],
+    [ "RE::NiTArray< bool, NiTMallocInterface< bool > >", "class_r_e_1_1_ni_t_array.html", null ],
+    [ "RE::NiTArray< BSGraphics::TextureFilterMode, NiTMallocInterface< BSGraphics::TextureFilterMode > >", "class_r_e_1_1_ni_t_array.html", null ],
+    [ "RE::NiTArray< ImageSpaceEffect::EffectInput *, NiTMallocInterface< ImageSpaceEffect::EffectInput * > >", "class_r_e_1_1_ni_t_array.html", null ],
     [ "RE::NiTArray< RE::BGSAddonNode *, NiTMallocInterface< RE::BGSAddonNode * > >", "class_r_e_1_1_ni_t_array.html", null ],
     [ "RE::NiTArray< RE::BSAnimNoteListener::BSAnimReceiverType *, NiTMallocInterface< RE::BSAnimNoteListener::BSAnimReceiverType * > >", "class_r_e_1_1_ni_t_array.html", null ],
     [ "RE::NiTArray< RE::CombatGroup *, NiTMallocInterface< RE::CombatGroup * > >", "class_r_e_1_1_ni_t_array.html", null ],
+    [ "RE::NiTArray< RE::ImageSpaceEffect *, NiTMallocInterface< RE::ImageSpaceEffect * > >", "class_r_e_1_1_ni_t_array.html", null ],
+    [ "RE::NiTArray< RE::ImageSpaceEffectParam *, NiTMallocInterface< RE::ImageSpaceEffectParam * > >", "class_r_e_1_1_ni_t_array.html", null ],
+    [ "RE::NiTArray< RE::ImageSpaceTexture *, NiTMallocInterface< RE::ImageSpaceTexture * > >", "class_r_e_1_1_ni_t_array.html", null ],
     [ "RE::NiTArray< RE::NiPointer< RE::NiAVObject >, NiTNewInterface< RE::NiPointer< RE::NiAVObject > > >", "class_r_e_1_1_ni_t_array.html", null ],
     [ "RE::NiTArray< RE::NiPointer< RE::NiControllerSequence >, NiTNewInterface< RE::NiPointer< RE::NiControllerSequence > > >", "class_r_e_1_1_ni_t_array.html", null ],
     [ "RE::NiTArray< RE::NiPointer< RE::NiTexture >, NiTNewInterface< RE::NiPointer< RE::NiTexture > > >", "class_r_e_1_1_ni_t_array.html", null ],
     [ "RE::NiTArray< RE::TESObjectCELL *, NiTMallocInterface< RE::TESObjectCELL * > >", "class_r_e_1_1_ni_t_array.html", null ],
-    [ "RE::NiTArray< std::uint32_t, NiTMallocInterface< std::uint32_t > >", "class_r_e_1_1_ni_t_array.html", null ],
+    [ "RE::NiTArray< std::int32_t, NiTMallocInterface< std::int32_t > >", "class_r_e_1_1_ni_t_array.html", null ],
     [ "RE::NiTArray< T, NiTMallocInterface< T > >", "class_r_e_1_1_ni_t_array.html", [
       [ "RE::NiTPrimitiveArray< T >", "class_r_e_1_1_ni_t_primitive_array.html", null ]
     ] ],
@@ -4658,6 +5281,7 @@ var hierarchy =
       [ "RE::NiTObjectSet< T >", "class_r_e_1_1_ni_t_object_set.html", null ]
     ] ],
     [ "RE::NiUpdateData", "class_r_e_1_1_ni_update_data.html", null ],
+    [ "RE::GString::NoCaseHashFunctor", "class_r_e_1_1_g_string_1_1_no_case_hash_functor.html", null ],
     [ "RE::BSSimpleList< T >::Node", "struct_r_e_1_1_b_s_simple_list_1_1_node.html", null ],
     [ "RE::GHashNode< C, U, Hash >::NodeAltHashF", "struct_r_e_1_1_g_hash_node_1_1_node_alt_hash_f.html", null ],
     [ "RE::GHashNode< C, U, Hash >::NodeHashF", "struct_r_e_1_1_g_hash_node_1_1_node_hash_f.html", null ],
@@ -4674,11 +5298,14 @@ var hierarchy =
     [ "RE::OBJ_REFR", "struct_r_e_1_1_o_b_j___r_e_f_r.html", null ],
     [ "RE::OBJ_TREE", "struct_r_e_1_1_o_b_j___t_r_e_e.html", null ],
     [ "RE::BSScript::Object", "class_r_e_1_1_b_s_script_1_1_object.html", null ],
+    [ "RE::BSScript::UnlinkedTypes::Object", "class_r_e_1_1_b_s_script_1_1_unlinked_types_1_1_object.html", null ],
     [ "RE::BSScript::ObjectBindPolicy", "class_r_e_1_1_b_s_script_1_1_object_bind_policy.html", [
       [ "RE::SkyrimScript::ObjectBindPolicy", "class_r_e_1_1_skyrim_script_1_1_object_bind_policy.html", null ]
     ] ],
+    [ "RE::FOCollisionListener::ObjectDamageImpactData", "struct_r_e_1_1_f_o_collision_listener_1_1_object_damage_impact_data.html", null ],
     [ "RE::ObjectEquipParams", "struct_r_e_1_1_object_equip_params.html", null ],
     [ "SKSE::ObjectInterface", "class_s_k_s_e_1_1_object_interface.html", null ],
+    [ "RE::ObjectiveState", "struct_r_e_1_1_objective_state.html", null ],
     [ "RE::ObjectstoAcquire", "struct_r_e_1_1_objectsto_acquire.html", null ],
     [ "RE::BSTLocklessQueue::ObjQueueBase< QueueContainer, T, SIZE, UNKNOWN >", "struct_r_e_1_1_b_s_t_lockless_queue_1_1_obj_queue_base.html", [
       [ "RE::BSTLocklessQueue::ObjMultiProdCons< RE::BSCullingProcess::Data, 4096, 0 >", "class_r_e_1_1_b_s_t_lockless_queue_1_1_obj_multi_prod_cons.html", null ]
@@ -4702,6 +5329,7 @@ var hierarchy =
     [ "RE::PackageTarget", "class_r_e_1_1_package_target.html", null ],
     [ "RE::BSScript::ByteCode::PackedInstructionStream", "struct_r_e_1_1_b_s_script_1_1_byte_code_1_1_packed_instruction_stream.html", null ],
     [ "RE::BGSRefAlias::GenericFillData::Padding", "struct_r_e_1_1_b_g_s_ref_alias_1_1_generic_fill_data_1_1_padding.html", null ],
+    [ "RE::BSPCOrbisGamepadDevice::PadTouch", "struct_r_e_1_1_b_s_p_c_orbis_gamepad_device_1_1_pad_touch.html", null ],
     [ "SKSE::PapyrusInterface", "class_s_k_s_e_1_1_papyrus_interface.html", null ],
     [ "RE::GFxFunctionHandler::Params", "struct_r_e_1_1_g_fx_function_handler_1_1_params.html", null ],
     [ "Parent", null, [
@@ -4737,6 +5365,7 @@ var hierarchy =
       [ "RE::BGSPerk::ApplyPerksVisitor", "class_r_e_1_1_b_g_s_perk_1_1_apply_perks_visitor.html", null ],
       [ "RE::BGSPerk::FindPerkInRanksVisitor", "class_r_e_1_1_b_g_s_perk_1_1_find_perk_in_ranks_visitor.html", null ]
     ] ],
+    [ "RE::PermanentMagicFunctor", "struct_r_e_1_1_permanent_magic_functor.html", null ],
     [ "RE::BSScript::ErrorLogger::PerThreadErrorCounts", "struct_r_e_1_1_b_s_script_1_1_error_logger_1_1_per_thread_error_counts.html", null ],
     [ "RE::BSVolumetricLightingRenderData::PhaseFunction", "struct_r_e_1_1_b_s_volumetric_lighting_render_data_1_1_phase_function.html", null ],
     [ "RE::Moon::Phases", "struct_r_e_1_1_moon_1_1_phases.html", null ],
@@ -4746,9 +5375,11 @@ var hierarchy =
     [ "RE::PLAYER_TARGET_LOC", "class_r_e_1_1_p_l_a_y_e_r___t_a_r_g_e_t___l_o_c.html", null ],
     [ "RE::PlayerActionObject", "struct_r_e_1_1_player_action_object.html", null ],
     [ "RE::PlayerControlsData", "class_r_e_1_1_player_controls_data.html", null ],
+    [ "RE::PlayerCharacter::PlayerFlags", "struct_r_e_1_1_player_character_1_1_player_flags.html", null ],
     [ "RE::PlayerInputHandler", "class_r_e_1_1_player_input_handler.html", [
       [ "RE::AutoMoveHandler", "struct_r_e_1_1_auto_move_handler.html", null ],
       [ "RE::FirstPersonState", "class_r_e_1_1_first_person_state.html", null ],
+      [ "RE::FreeCameraState", "class_r_e_1_1_free_camera_state.html", null ],
       [ "RE::HeldStateHandler", "class_r_e_1_1_held_state_handler.html", [
         [ "RE::ActivateHandler", "struct_r_e_1_1_activate_handler.html", null ],
         [ "RE::AttackBlockHandler", "struct_r_e_1_1_attack_block_handler.html", null ],
@@ -4788,7 +5419,10 @@ var hierarchy =
     [ "RE::PreloadResponsesInitializationPolicy< T, Key >", "class_r_e_1_1_preload_responses_initialization_policy.html", null ],
     [ "RE::BaseExtraList::PresenceBitfield", "struct_r_e_1_1_base_extra_list_1_1_presence_bitfield.html", null ],
     [ "RE::TESRace::FaceRelatedData::TintAsset::Presets", "struct_r_e_1_1_t_e_s_race_1_1_face_related_data_1_1_tint_asset_1_1_presets.html", null ],
+    [ "RE::PlayerCharacter::PreTransformationData", "struct_r_e_1_1_player_character_1_1_pre_transformation_data.html", null ],
     [ "RE::Projectile::PROJECTILE_RUNTIME_DATA", "struct_r_e_1_1_projectile_1_1_p_r_o_j_e_c_t_i_l_e___r_u_n_t_i_m_e___d_a_t_a.html", null ],
+    [ "RE::Projectile::ProjectileRot", "struct_r_e_1_1_projectile_1_1_projectile_rot.html", null ],
+    [ "RE::BSScript::UnlinkedTypes::Property", "struct_r_e_1_1_b_s_script_1_1_unlinked_types_1_1_property.html", null ],
     [ "RE::BSScript::ObjectTypeInfo::PropertyInfo", "struct_r_e_1_1_b_s_script_1_1_object_type_info_1_1_property_info.html", null ],
     [ "RE::BSScript::PropertyTypeInfo", "struct_r_e_1_1_b_s_script_1_1_property_type_info.html", null ],
     [ "RE::BSTLocklessQueue::PtrMultiProdCons< T, SIZE, UNKNOWN >", "class_r_e_1_1_b_s_t_lockless_queue_1_1_ptr_multi_prod_cons.html", null ],
@@ -4799,9 +5433,11 @@ var hierarchy =
     ] ],
     [ "RE::QUEST_DATA", "struct_r_e_1_1_q_u_e_s_t___d_a_t_a.html", null ],
     [ "RE::QUEST_STAGE_DATA", "struct_r_e_1_1_q_u_e_s_t___s_t_a_g_e___d_a_t_a.html", null ],
+    [ "RE::QuestStatus", "struct_r_e_1_1_quest_status.html", null ],
     [ "RE::QueuedItem", "class_r_e_1_1_queued_item.html", null ],
     [ "RE::MenuControls::QueuedReg", "struct_r_e_1_1_menu_controls_1_1_queued_reg.html", null ],
     [ "RE::BSScript::Internal::VirtualMachine::QueuedUnbindRefs", "struct_r_e_1_1_b_s_script_1_1_internal_1_1_virtual_machine_1_1_queued_unbind_refs.html", null ],
+    [ "RE::PlayerCharacter::QueuedWeapon", "struct_r_e_1_1_player_character_1_1_queued_weapon.html", null ],
     [ "RE::RACE_DATA", "struct_r_e_1_1_r_a_c_e___d_a_t_a.html", null ],
     [ "RE::PlayerCharacter::RaceData", "struct_r_e_1_1_player_character_1_1_race_data.html", null ],
     [ "RE::RaceSexMenuEvent", "struct_r_e_1_1_race_sex_menu_event.html", null ],
@@ -4810,6 +5446,7 @@ var hierarchy =
     [ "RE::RagDollData", "struct_r_e_1_1_rag_doll_data.html", null ],
     [ "RE::TESObjectWEAP::RangedData", "struct_r_e_1_1_t_e_s_object_w_e_a_p_1_1_ranged_data.html", null ],
     [ "RE::RANK_DATA", "struct_r_e_1_1_r_a_n_k___d_a_t_a.html", null ],
+    [ "RE::BSScript::ReadableStringTable", "class_r_e_1_1_b_s_script_1_1_readable_string_table.html", null ],
     [ "RE::Actor::RecordFlags", "struct_r_e_1_1_actor_1_1_record_flags.html", null ],
     [ "RE::ActorValueInfo::RecordFlags", "struct_r_e_1_1_actor_value_info_1_1_record_flags.html", null ],
     [ "RE::AlchemyItem::RecordFlags", "struct_r_e_1_1_alchemy_item_1_1_record_flags.html", null ],
@@ -4981,23 +5618,37 @@ var hierarchy =
     [ "REL::detail::RelocateVirtualHelper< Ret(This::*)(Args...)>", "struct_r_e_l_1_1detail_1_1_relocate_virtual_helper_3_01_ret_07_this_1_1_5_08_07_args_8_8_8_08_4.html", null ],
     [ "REL::Relocation< T >", "class_r_e_l_1_1_relocation.html", null ],
     [ "REL::RelocationID", "class_r_e_l_1_1_relocation_i_d.html", null ],
+    [ "RE::RENDER_TARGETS", "struct_r_e_1_1_r_e_n_d_e_r___t_a_r_g_e_t_s.html", null ],
+    [ "RE::RENDER_TARGETS_3D", "struct_r_e_1_1_r_e_n_d_e_r___t_a_r_g_e_t_s__3_d.html", null ],
+    [ "RE::RENDER_TARGETS_CUBEMAP", "struct_r_e_1_1_r_e_n_d_e_r___t_a_r_g_e_t_s___c_u_b_e_m_a_p.html", null ],
+    [ "RE::RENDER_TARGETS_DEPTHSTENCIL", "struct_r_e_1_1_r_e_n_d_e_r___t_a_r_g_e_t_s___d_e_p_t_h_s_t_e_n_c_i_l.html", null ],
     [ "RE::GRenderer::RenderCaps", "struct_r_e_1_1_g_renderer_1_1_render_caps.html", null ],
+    [ "RE::BSGraphics::Renderer", "class_r_e_1_1_b_s_graphics_1_1_renderer.html", null ],
+    [ "RE::BSGraphics::RendererData", "struct_r_e_1_1_b_s_graphics_1_1_renderer_data.html", null ],
     [ "RE::NiTexture::RendererData", "class_r_e_1_1_ni_texture_1_1_renderer_data.html", null ],
+    [ "RE::BSGraphics::RendererWindow", "struct_r_e_1_1_b_s_graphics_1_1_renderer_window.html", null ],
     [ "RE::BSShaderProperty::RenderPassArray", "struct_r_e_1_1_b_s_shader_property_1_1_render_pass_array.html", null ],
+    [ "RE::BSGraphics::RenderTargetData", "struct_r_e_1_1_b_s_graphics_1_1_render_target_data.html", null ],
+    [ "RE::BSGraphics::RenderTargetManager", "class_r_e_1_1_b_s_graphics_1_1_render_target_manager.html", null ],
+    [ "RE::BSGraphics::RenderTargetProperties", "struct_r_e_1_1_b_s_graphics_1_1_render_target_properties.html", null ],
     [ "RE::GFxWStringBuffer::ReserveHeader", "struct_r_e_1_1_g_fx_w_string_buffer_1_1_reserve_header.html", [
       [ "RE::GFxWStringBuffer::Reserve< SIZE >", "struct_r_e_1_1_g_fx_w_string_buffer_1_1_reserve.html", null ]
     ] ],
+    [ "RE::GFxResourceWeakLib::ResourceNode", "struct_r_e_1_1_g_fx_resource_weak_lib_1_1_resource_node.html", null ],
+    [ "RE::GFxResourceSource::ResourceUnion", "union_r_e_1_1_g_fx_resource_source_1_1_resource_union.html", null ],
     [ "RE::TESTopicInfo::ResponseData", "struct_r_e_1_1_t_e_s_topic_info_1_1_response_data.html", null ],
     [ "RE::ResponseDefinitionMissPolicy< T, Key >", "class_r_e_1_1_response_definition_miss_policy.html", null ],
     [ "ResponseDefinitionMissPolicy", null, [
       [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy >", "class_r_e_1_1_b_s_t_object_dictionary.html", null ]
     ] ],
+    [ "RE::ReticuleController", "struct_r_e_1_1_reticule_controller.html", null ],
     [ "RE::BGSReverbParameters::ReverbParams", "struct_r_e_1_1_b_g_s_reverb_parameters_1_1_reverb_params.html", null ],
     [ "RE::GColor::RGB32", "struct_r_e_1_1_g_color_1_1_r_g_b32.html", null ],
     [ "RE::RoomRefData", "struct_r_e_1_1_room_ref_data.html", null ],
     [ "RE::GMemoryHeap::RootHeapParameters", "struct_r_e_1_1_g_memory_heap_1_1_root_heap_parameters.html", null ],
     [ "RE::GMemoryHeap::RootStats", "struct_r_e_1_1_g_memory_heap_1_1_root_stats.html", null ],
     [ "RE::bhkThreadMemorySource::Row", "struct_r_e_1_1bhk_thread_memory_source_1_1_row.html", null ],
+    [ "RE::Rumble", "class_r_e_1_1_rumble.html", null ],
     [ "RE::RunOncePackage", "struct_r_e_1_1_run_once_package.html", null ],
     [ "RE::BarterMenu::RUNTIME_DATA", "struct_r_e_1_1_barter_menu_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::BGSDecalNode::RUNTIME_DATA", "struct_r_e_1_1_b_g_s_decal_node_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
@@ -5009,7 +5660,6 @@ var hierarchy =
     [ "RE::BSInputDeviceManager::RUNTIME_DATA", "struct_r_e_1_1_b_s_input_device_manager_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::BSMultiBoundNode::RUNTIME_DATA", "struct_r_e_1_1_b_s_multi_bound_node_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::BSOrderedNode::RUNTIME_DATA", "struct_r_e_1_1_b_s_ordered_node_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
-    [ "RE::BSRenderManager::RUNTIME_DATA", "struct_r_e_1_1_b_s_render_manager_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::Console::RUNTIME_DATA", "struct_r_e_1_1_console_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::ConsoleNativeUIMenu::RUNTIME_DATA", "struct_r_e_1_1_console_native_u_i_menu_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::ContainerMenu::RUNTIME_DATA", "struct_r_e_1_1_container_menu_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
@@ -5056,6 +5706,7 @@ var hierarchy =
     [ "RE::SayOnceTopicInfos", "struct_r_e_1_1_say_once_topic_infos.html", null ],
     [ "SKSE::ScaleformInterface", "class_s_k_s_e_1_1_scaleform_interface.html", null ],
     [ "RE::TESRegionPointList::ScaleResult", "struct_r_e_1_1_t_e_s_region_point_list_1_1_scale_result.html", null ],
+    [ "RE::SceneGraph::SCENE_GRAPH_RUNTIME_DATA", "struct_r_e_1_1_scene_graph_1_1_s_c_e_n_e___g_r_a_p_h___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "SKSE::stl::scope_exit< EF >", "class_s_k_s_e_1_1stl_1_1scope__exit.html", null ],
     [ "RE::SCRIPT_EFFECT_DATA", "struct_r_e_1_1_s_c_r_i_p_t___e_f_f_e_c_t___d_a_t_a.html", null ],
     [ "RE::SCRIPT_FUNCTION", "struct_r_e_1_1_s_c_r_i_p_t___f_u_n_c_t_i_o_n.html", null ],
@@ -5070,6 +5721,7 @@ var hierarchy =
     [ "RE::ScriptVariable", "struct_r_e_1_1_script_variable.html", null ],
     [ "RE::SEASON", "struct_r_e_1_1_s_e_a_s_o_n.html", null ],
     [ "REL::Segment", "class_r_e_l_1_1_segment.html", null ],
+    [ "RE::CraftingSubMenus::EnchantConstructMenu::Selections", "struct_r_e_1_1_crafting_sub_menus_1_1_enchant_construct_menu_1_1_selections.html", null ],
     [ "RE::BSPackedTaskQueue::Semaphore", "struct_r_e_1_1_b_s_packed_task_queue_1_1_semaphore.html", null ],
     [ "SKSE::SerializationInterface", "class_s_k_s_e_1_1_serialization_interface.html", null ],
     [ "RE::SetEventData", "struct_r_e_1_1_set_event_data.html", null ],
@@ -5144,6 +5796,7 @@ var hierarchy =
     [ "RE::Sky::SkyStaticRefData", "struct_r_e_1_1_sky_1_1_sky_static_ref_data.html", null ],
     [ "RE::Actor::SlotTypes", "struct_r_e_1_1_actor_1_1_slot_types.html", null ],
     [ "RE::hkpEntity::SmallArraySerializeOverrideType", "class_r_e_1_1hkp_entity_1_1_small_array_serialize_override_type.html", null ],
+    [ "RE::CraftingSubMenus::SmithingMenu::SmithingItemEntry", "struct_r_e_1_1_crafting_sub_menus_1_1_smithing_menu_1_1_smithing_item_entry.html", null ],
     [ "RE::SoulsTrapped", "struct_r_e_1_1_souls_trapped.html", null ],
     [ "RE::TESRegionDataSound::Sound", "struct_r_e_1_1_t_e_s_region_data_sound_1_1_sound.html", null ],
     [ "RE::EffectSetting::SoundPair", "struct_r_e_1_1_effect_setting_1_1_sound_pair.html", null ],
@@ -5159,6 +5812,7 @@ var hierarchy =
     [ "RE::BSScript::StackFrame", "class_r_e_1_1_b_s_script_1_1_stack_frame.html", null ],
     [ "RE::StandardItemData", "class_r_e_1_1_standard_item_data.html", null ],
     [ "RE::BSGraphics::State", "class_r_e_1_1_b_s_graphics_1_1_state.html", null ],
+    [ "RE::BSShaderManager::State", "class_r_e_1_1_b_s_shader_manager_1_1_state.html", null ],
     [ "RE::BSGeometry::States", "struct_r_e_1_1_b_s_geometry_1_1_states.html", null ],
     [ "RE::StaticFunctionTag", "struct_r_e_1_1_static_function_tag.html", null ],
     [ "RE::GRenderer::Stats", "class_r_e_1_1_g_renderer_1_1_stats.html", null ],
@@ -5178,8 +5832,11 @@ var hierarchy =
     [ "SKSE::PluginDeclaration::String< 252 >", "class_s_k_s_e_1_1_plugin_declaration_1_1_string.html", null ],
     [ "SKSE::PluginDeclaration::String< 256 >", "class_s_k_s_e_1_1_plugin_declaration_1_1_string.html", null ],
     [ "RE::BGSQuestInstanceText::StringData", "struct_r_e_1_1_b_g_s_quest_instance_text_1_1_string_data.html", null ],
+    [ "RE::BSScript::ReadableStringTable::StringEntry", "class_r_e_1_1_b_s_script_1_1_readable_string_table_1_1_string_entry.html", null ],
     [ "RE::SubtitleInfo", "struct_r_e_1_1_subtitle_info.html", null ],
     [ "RE::BSScript::Internal::SuspendedStack", "struct_r_e_1_1_b_s_script_1_1_internal_1_1_suspended_stack.html", null ],
+    [ "SKSE::WinAPI::tagPOINT", "struct_s_k_s_e_1_1_win_a_p_i_1_1tag_p_o_i_n_t.html", null ],
+    [ "SKSE::WinAPI::tagRECT", "struct_s_k_s_e_1_1_win_a_p_i_1_1tag_r_e_c_t.html", null ],
     [ "RE::PackageTarget::Target", "union_r_e_1_1_package_target_1_1_target.html", null ],
     [ "SKSE::detail::TaskDelegate", "class_s_k_s_e_1_1detail_1_1_task_delegate.html", [
       [ "SKSE::TaskInterface::Task", "class_s_k_s_e_1_1_task_interface_1_1_task.html", null ]
@@ -5187,6 +5844,7 @@ var hierarchy =
     [ "SKSE::TaskInterface", "class_s_k_s_e_1_1_task_interface.html", null ],
     [ "RE::TaskQueueInterface", "class_r_e_1_1_task_queue_interface.html", null ],
     [ "RE::OBJ_BOOK::Teaches", "union_r_e_1_1_o_b_j___b_o_o_k_1_1_teaches.html", null ],
+    [ "RE::PlayerCharacter::TeleportPath", "struct_r_e_1_1_player_character_1_1_teleport_path.html", null ],
     [ "RE::TESActivateEvent", "struct_r_e_1_1_t_e_s_activate_event.html", null ],
     [ "RE::TESActiveEffectApplyRemoveEvent", "struct_r_e_1_1_t_e_s_active_effect_apply_remove_event.html", null ],
     [ "RE::TESActorLocationChangeEvent", "struct_r_e_1_1_t_e_s_actor_location_change_event.html", null ],
@@ -5260,17 +5918,21 @@ var hierarchy =
     [ "RE::TESTrackedStatsEvent", "struct_r_e_1_1_t_e_s_tracked_stats_event.html", null ],
     [ "RE::TESUniqueIDChangeEvent", "struct_r_e_1_1_t_e_s_unique_i_d_change_event.html", null ],
     [ "RE::TESWaitStopEvent", "struct_r_e_1_1_t_e_s_wait_stop_event.html", null ],
+    [ "RE::BSGraphics::Texture3DTargetData", "struct_r_e_1_1_b_s_graphics_1_1_texture3_d_target_data.html", null ],
     [ "RE::TEXTURE_HAVOK_DATA", "struct_r_e_1_1_t_e_x_t_u_r_e___h_a_v_o_k___d_a_t_a.html", null ],
     [ "RE::BSParticleShaderEmitter::TextureAnimInfo", "class_r_e_1_1_b_s_particle_shader_emitter_1_1_texture_anim_info.html", null ],
     [ "RE::ShaderReferenceEffect::TextureRequest", "struct_r_e_1_1_shader_reference_effect_1_1_texture_request.html", null ],
     [ "RE::BSTextureSet::Textures", "struct_r_e_1_1_b_s_texture_set_1_1_textures.html", null ],
     [ "RE::MemoryManager::ThreadScrapHeap", "struct_r_e_1_1_memory_manager_1_1_thread_scrap_heap.html", null ],
+    [ "RE::GFxLoadProcess::TimelineType", "struct_r_e_1_1_g_fx_load_process_1_1_timeline_type.html", null ],
     [ "RE::TESClimate::Timing", "struct_r_e_1_1_t_e_s_climate_1_1_timing.html", null ],
     [ "RE::ImageSpaceBaseData::Tint", "struct_r_e_1_1_image_space_base_data_1_1_tint.html", null ],
     [ "RE::TESRace::FaceRelatedData::TintAsset", "struct_r_e_1_1_t_e_s_race_1_1_face_related_data_1_1_tint_asset.html", null ],
     [ "RE::TESRace::FaceRelatedData::TintAsset::TintLayer", "struct_r_e_1_1_t_e_s_race_1_1_face_related_data_1_1_tint_asset_1_1_tint_layer.html", null ],
+    [ "RE::TLSData", "struct_r_e_1_1_t_l_s_data.html", null ],
     [ "RE::TOPIC_INFO_DATA", "struct_r_e_1_1_t_o_p_i_c___i_n_f_o___d_a_t_a.html", null ],
     [ "RE::PackageEventAction::TopicData", "struct_r_e_1_1_package_event_action_1_1_topic_data.html", null ],
+    [ "RE::BSPCOrbisGamepadDevice::TouchPadData", "struct_r_e_1_1_b_s_p_c_orbis_gamepad_device_1_1_touch_pad_data.html", null ],
     [ "RE::hkaAnimation::TrackAnnotation", "struct_r_e_1_1hka_animation_1_1_track_annotation.html", null ],
     [ "Traits", null, [
       [ "RE::BSTSingletonSDMBase< Traits >", "struct_r_e_1_1_b_s_t_singleton_s_d_m_base.html", null ]
@@ -5317,7 +5979,9 @@ var hierarchy =
     [ "RE::UIMessage", "class_r_e_1_1_u_i_message.html", null ],
     [ "RE::BGSRefAlias::UniqueActorFillData", "struct_r_e_1_1_b_g_s_ref_alias_1_1_unique_actor_fill_data.html", null ],
     [ "RE::UniqueNPCData", "struct_r_e_1_1_unique_n_p_c_data.html", null ],
+    [ "RE::PlayerCharacter::TeleportPath::Unk00Data", "struct_r_e_1_1_player_character_1_1_teleport_path_1_1_unk00_data.html", null ],
     [ "RE::PlayerCamera::Unk120", "struct_r_e_1_1_player_camera_1_1_unk120.html", null ],
+    [ "RE::PlayerCharacter::TeleportPath::Unk18Data", "struct_r_e_1_1_player_character_1_1_teleport_path_1_1_unk18_data.html", null ],
     [ "RE::TESObjectWEAP::Unk1B8", "struct_r_e_1_1_t_e_s_object_w_e_a_p_1_1_unk1_b8.html", null ],
     [ "RE::MapMenu::Unk30470Entry", "struct_r_e_1_1_map_menu_1_1_unk30470_entry.html", null ],
     [ "RE::MapMenu::Unk30488Entry", "struct_r_e_1_1_map_menu_1_1_unk30488_entry.html", null ],
@@ -5328,6 +5992,7 @@ var hierarchy =
     [ "RE::BSScript::ObjectTypeInfo::UnlinkedNativeFunction", "struct_r_e_1_1_b_s_script_1_1_object_type_info_1_1_unlinked_native_function.html", null ],
     [ "RE::UnloadedRefData", "struct_r_e_1_1_unloaded_ref_data.html", null ],
     [ "RE::UnreachableLocation", "struct_r_e_1_1_unreachable_location.html", null ],
+    [ "RE::BSPCOrbisGamepadDevice::UnusedExtensionData", "struct_r_e_1_1_b_s_p_c_orbis_gamepad_device_1_1_unused_extension_data.html", null ],
     [ "RE::GTexture::UpdateRect", "struct_r_e_1_1_g_texture_1_1_update_rect.html", null ],
     [ "RE::CraftingSubMenus::AlchemyMenu::UsableEffectMap", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu_1_1_usable_effect_map.html", null ],
     [ "RE::HeapBlock::Used", "struct_r_e_1_1_heap_block_1_1_used.html", null ],
@@ -5336,7 +6001,9 @@ var hierarchy =
     [ "RE::ControlMap::UserEventMapping", "struct_r_e_1_1_control_map_1_1_user_event_mapping.html", null ],
     [ "RE::BSScript::ObjectTypeInfo::UserFlagInfo", "struct_r_e_1_1_b_s_script_1_1_object_type_info_1_1_user_flag_info.html", null ],
     [ "RE::BSAnimationGraphManager::AnimationVariable::Value", "union_r_e_1_1_b_s_animation_graph_manager_1_1_animation_variable_1_1_value.html", null ],
+    [ "RE::BSScript::ByteCode::Argument::Value", "union_r_e_1_1_b_s_script_1_1_byte_code_1_1_argument_1_1_value.html", null ],
     [ "RE::BSScript::Variable::Value", "union_r_e_1_1_b_s_script_1_1_variable_1_1_value.html", null ],
+    [ "RE::BSValueNode::VALUE_NODE_RUNTIME_DATA", "struct_r_e_1_1_b_s_value_node_1_1_v_a_l_u_e___n_o_d_e___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "RE::BSTScatterTable< Hash, KeyEqual, Traits, Allocator >::entry_type::value_union", "union_r_e_1_1_b_s_t_scatter_table_1_1entry__type_1_1value__union.html", null ],
     [ "RE::GFxValue::ValueUnion", "union_r_e_1_1_g_fx_value_1_1_value_union.html", null ],
     [ "RE::BSScript::Variable", "class_r_e_1_1_b_s_script_1_1_variable.html", null ],
@@ -5347,6 +6014,8 @@ var hierarchy =
     [ "RE::TESShout::VariationIDs", "struct_r_e_1_1_t_e_s_shout_1_1_variation_i_ds.html", null ],
     [ "RE::VATSCommand", "class_r_e_1_1_v_a_t_s_command.html", null ],
     [ "RE::BSScript::Internal::VDescTable", "struct_r_e_1_1_b_s_script_1_1_internal_1_1_v_desc_table.html", null ],
+    [ "RE::BSPCOrbisGamepadDevice::Vector3", "struct_r_e_1_1_b_s_p_c_orbis_gamepad_device_1_1_vector3.html", null ],
+    [ "RE::BSPCOrbisGamepadDevice::Vector4", "struct_r_e_1_1_b_s_p_c_orbis_gamepad_device_1_1_vector4.html", null ],
     [ "REL::Version", "class_r_e_l_1_1_version.html", null ],
     [ "SKSE::PluginDeclaration::VersionNumber", "class_s_k_s_e_1_1_plugin_declaration_1_1_version_number.html", null ],
     [ "RE::BSGraphics::Vertex", "struct_r_e_1_1_b_s_graphics_1_1_vertex.html", null ],
@@ -5362,6 +6031,7 @@ var hierarchy =
     [ "RE::VR_NODE_DATA", "struct_r_e_1_1_v_r___n_o_d_e___d_a_t_a.html", null ],
     [ "RE::SkyrimVM::WaitCall", "struct_r_e_1_1_skyrim_v_m_1_1_wait_call.html", null ],
     [ "RE::WaterShaderData", "struct_r_e_1_1_water_shader_data.html", null ],
+    [ "RE::WeaponTypes", "struct_r_e_1_1_weapon_types.html", null ],
     [ "RE::TESWeather::WeatherSound", "struct_r_e_1_1_t_e_s_weather_1_1_weather_sound.html", null ],
     [ "RE::WeatherType", "struct_r_e_1_1_weather_type.html", null ],
     [ "REL::detail::rules::Wildcard", "class_r_e_l_1_1detail_1_1rules_1_1_wildcard.html", null ],
@@ -5370,5 +6040,6 @@ var hierarchy =
     [ "RE::WORLD_LOCATION", "struct_r_e_1_1_w_o_r_l_d___l_o_c_a_t_i_o_n.html", null ],
     [ "RE::WORLD_MAP_DATA", "struct_r_e_1_1_w_o_r_l_d___m_a_p___d_a_t_a.html", null ],
     [ "RE::WORLD_MAP_OFFSET_DATA", "struct_r_e_1_1_w_o_r_l_d___m_a_p___o_f_f_s_e_t___d_a_t_a.html", null ],
+    [ "RE::BSScript::WritableStringTable", "class_r_e_1_1_b_s_script_1_1_writable_string_table.html", null ],
     [ "RE::DirectX::XMFLOAT4X4", "struct_r_e_1_1_direct_x_1_1_x_m_f_l_o_a_t4_x4.html", null ]
 ];

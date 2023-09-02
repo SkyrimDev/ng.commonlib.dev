@@ -30,5 +30,6 @@ var class_r_e_1_1hka_animation =
     [ "numberOfFloatTracks", "class_r_e_1_1hka_animation.html#ae446fe69e8a5292f5c66831eccc399e3", null ],
     [ "numberOfTransformTracks", "class_r_e_1_1hka_animation.html#a2590d62e1374d733c2724d5971c798bf", null ],
     [ "RTTI", "class_r_e_1_1hka_animation.html#ab48f7de3b60e6e53a3e6b7c72f506d6a", null ],
-    [ "type", "class_r_e_1_1hka_animation.html#a92822e8168b8f4bc9c08029a30d19804", null ]
+    [ "type", "class_r_e_1_1hka_animation.html#a92822e8168b8f4bc9c08029a30d19804", null ],
+    [ "VTABLE", "class_r_e_1_1hka_animation.html#a9e5c2dcc49253a9ce212a7490737355b", null ]
 ];

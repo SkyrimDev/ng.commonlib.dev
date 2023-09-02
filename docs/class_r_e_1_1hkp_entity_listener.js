@@ -6,5 +6,6 @@ var class_r_e_1_1hkp_entity_listener =
     [ "EntityRemovedCallback", "class_r_e_1_1hkp_entity_listener.html#a486a1a6381d3e4073417f21b384c617a", null ],
     [ "EntitySetMotionTypeCallback", "class_r_e_1_1hkp_entity_listener.html#a8c3b09f3afdbfa2c211d7aca3622ee9d", null ],
     [ "EntityShapeSetCallback", "class_r_e_1_1hkp_entity_listener.html#a89bc174aeab8891496f73221d582d623", null ],
-    [ "RTTI", "class_r_e_1_1hkp_entity_listener.html#a11f7c6e165e1588d8a760579c9765c69", null ]
+    [ "RTTI", "class_r_e_1_1hkp_entity_listener.html#a11f7c6e165e1588d8a760579c9765c69", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_entity_listener.html#ad081888e6399526c0645d9eed6954506", null ]
 ];

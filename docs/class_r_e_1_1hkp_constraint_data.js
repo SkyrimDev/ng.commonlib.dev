@@ -46,5 +46,6 @@ var class_r_e_1_1hkp_constraint_data =
     [ "SetMaxLinearImpulse", "class_r_e_1_1hkp_constraint_data.html#ab43eeaed6cc06de8266413cabe6c6add", null ],
     [ "SetSolvingMethod", "class_r_e_1_1hkp_constraint_data.html#abf9c6fc442747cd569bec7a66932d7f5", null ],
     [ "RTTI", "class_r_e_1_1hkp_constraint_data.html#ab28bdb976cbd27a308147e3d274dd465", null ],
-    [ "userData", "class_r_e_1_1hkp_constraint_data.html#a1b79d534b6e7077af67034751f0be4f2", null ]
+    [ "userData", "class_r_e_1_1hkp_constraint_data.html#a1b79d534b6e7077af67034751f0be4f2", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_constraint_data.html#abe8d2112046b72ae06a5b483d865dc56", null ]
 ];

@@ -16,5 +16,6 @@ var class_r_e_1_1hkp_character_context =
     [ "pad2A", "class_r_e_1_1hkp_character_context.html#ad7f6e758856fa8449677e29a81bf4fd4", null ],
     [ "previousState", "class_r_e_1_1hkp_character_context.html#a707a4bbb4c1594187bf95ed061890ad9", null ],
     [ "RTTI", "class_r_e_1_1hkp_character_context.html#ae32bf8efcff2aba6d121a52f831d0af2", null ],
-    [ "stateManager", "class_r_e_1_1hkp_character_context.html#a72561253690ae7e6d38c19ed9563a3b7", null ]
+    [ "stateManager", "class_r_e_1_1hkp_character_context.html#a72561253690ae7e6d38c19ed9563a3b7", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_character_context.html#af109a0a4df3e6a10a24c86126e9590e2", null ]
 ];

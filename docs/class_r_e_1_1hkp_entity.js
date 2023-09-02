@@ -41,5 +41,6 @@ var class_r_e_1_1hkp_entity =
     [ "solverData", "class_r_e_1_1hkp_entity.html#ae523041a10bafc96246dc8b978607643", null ],
     [ "spuCollisionCallback", "class_r_e_1_1hkp_entity.html#a376bbea3f22ca159c0ba0ff71831a17d", null ],
     [ "storageIndex", "class_r_e_1_1hkp_entity.html#a57424beb206171cb4a5d3abf3ede001c", null ],
-    [ "uid", "class_r_e_1_1hkp_entity.html#a707d7b09c077ec1b1e907de2721236fd", null ]
+    [ "uid", "class_r_e_1_1hkp_entity.html#a707d7b09c077ec1b1e907de2721236fd", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_entity.html#acf16b2fcdcb5a8e76b83c84c04b30877", null ]
 ];

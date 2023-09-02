@@ -1,6 +1,8 @@
 var class_r_e_1_1_b_g_s_skill_perk_tree_node =
 [
-    [ "~BGSSkillPerkTreeNode", "class_r_e_1_1_b_g_s_skill_perk_tree_node.html#ae591210c1e3efff6a671747f40fe09a9", null ],
+    [ "BGSSkillPerkTreeNode", "class_r_e_1_1_b_g_s_skill_perk_tree_node.html#a701dd141c4fa169471755e54d5bec3f3", null ],
+    [ "~BGSSkillPerkTreeNode", "class_r_e_1_1_b_g_s_skill_perk_tree_node.html#a01a48aed1e97f8f9686ecf11b239f513", null ],
+    [ "TES_HEAP_REDEFINE_NEW", "class_r_e_1_1_b_g_s_skill_perk_tree_node.html#abe7fbdae16f45c09f63e591b2b626bd8", null ],
     [ "associatedSkill", "class_r_e_1_1_b_g_s_skill_perk_tree_node.html#af5da2f5e3a846b493ca0b4d4ce1262c7", null ],
     [ "children", "class_r_e_1_1_b_g_s_skill_perk_tree_node.html#a2acae352308539cd657474c16fd920e0", null ],
     [ "horizontalPosition", "class_r_e_1_1_b_g_s_skill_perk_tree_node.html#a1f3757be49674857caa4e60f41ba0d25", null ],

@@ -24,5 +24,6 @@ var class_r_e_1_1hkp_shape_collection =
     [ "disableWelding", "class_r_e_1_1hkp_shape_collection.html#a0f89db692a84545c8b572b07f35985e6", null ],
     [ "pad2A", "class_r_e_1_1hkp_shape_collection.html#a6b3658fd3ba33a97a2e0ae92af2269c6", null ],
     [ "pad2C", "class_r_e_1_1hkp_shape_collection.html#a53d2f7d52f46d80c634fbdeff59c7fd8", null ],
-    [ "RTTI", "class_r_e_1_1hkp_shape_collection.html#a246f2b749beb75a941f6867cf1becc07", null ]
+    [ "RTTI", "class_r_e_1_1hkp_shape_collection.html#a246f2b749beb75a941f6867cf1becc07", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_shape_collection.html#a29763ada55559f165c98138ac6304f0c", null ]
 ];

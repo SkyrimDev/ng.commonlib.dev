@@ -2,6 +2,7 @@ var class_r_e_1_1_b_g_s_keyword_form =
 [
     [ "~BGSKeywordForm", "class_r_e_1_1_b_g_s_keyword_form.html#ab3d090d0b322f9888e06ec01f2c4213d", null ],
     [ "AddKeyword", "class_r_e_1_1_b_g_s_keyword_form.html#a6272572b343d98c62b317a687253e4d0", null ],
+    [ "AddKeywords", "class_r_e_1_1_b_g_s_keyword_form.html#a76f6e5d0400022e71278a461edbb86a0", null ],
     [ "ClearDataComponent", "class_r_e_1_1_b_g_s_keyword_form.html#acaf12826a5775c96f135fb3a8fec3b07", null ],
     [ "ContainsKeywordString", "class_r_e_1_1_b_g_s_keyword_form.html#a88b8a8321221d41c1ef071e7ef514a9f", null ],
     [ "CopyComponent", "class_r_e_1_1_b_g_s_keyword_form.html#ab6f8ef122840536a30247d35026d930f", null ],
@@ -18,6 +19,7 @@ var class_r_e_1_1_b_g_s_keyword_form =
     [ "InitializeDataComponent", "class_r_e_1_1_b_g_s_keyword_form.html#a65167ceb862b24eba5e3d475fcc3333b", null ],
     [ "RemoveKeyword", "class_r_e_1_1_b_g_s_keyword_form.html#a51d6f52ae06bb0783b8b4ce02591d476", null ],
     [ "RemoveKeyword", "class_r_e_1_1_b_g_s_keyword_form.html#afbb6e52aff7ff244c3de3aed0bde00b1", null ],
+    [ "RemoveKeywords", "class_r_e_1_1_b_g_s_keyword_form.html#a20b309fc5ab9b228cfc92db43c7585fe", null ],
     [ "keywords", "class_r_e_1_1_b_g_s_keyword_form.html#a7640933da155c25ad0d3ccc53712dfd6", null ],
     [ "numKeywords", "class_r_e_1_1_b_g_s_keyword_form.html#a0f7716be8ff5c10b6eb6928a07951162", null ],
     [ "pad14", "class_r_e_1_1_b_g_s_keyword_form.html#a4289e9a7013b89b46b3143e6dd765940", null ],

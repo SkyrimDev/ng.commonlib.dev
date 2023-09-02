@@ -24,6 +24,7 @@ var class_r_e_1_1hkb_character =
     [ "raycastInterface", "class_r_e_1_1hkb_character.html#a7c9cee3657ec41e104376d4c50a292c9", null ],
     [ "RTTI", "class_r_e_1_1hkb_character.html#af809bf606a66412fdc6cc09bcfb00777", null ],
     [ "setup", "class_r_e_1_1hkb_character.html#a3f6eb87bfe414dac93419b4b72b3a084", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_character.html#a74967d43e74c2dd437feded0b4d9fa1a", null ],
     [ "world", "class_r_e_1_1hkb_character.html#aa96b6a4312030567ff8c2b8f549732d7", null ],
     [ "worldFromModel", "class_r_e_1_1hkb_character.html#add5e54b8864473e755cad8daafe4452a", null ]
 ];

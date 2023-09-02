@@ -13,5 +13,6 @@ var class_r_e_1_1hkp_phantom =
     [ "UpdateShapeCollectionFilter", "class_r_e_1_1hkp_phantom.html#adc2e9f10445549c50465a85c1733ce04", null ],
     [ "overlapListeners", "class_r_e_1_1hkp_phantom.html#a6d15e8ada38015d4290cc359e1c8f3bb", null ],
     [ "phantomListeners", "class_r_e_1_1hkp_phantom.html#a6b0576469a2d5863f282a009ba531598", null ],
-    [ "RTTI", "class_r_e_1_1hkp_phantom.html#af5949ccd9c12486ec59e2012bb37285b", null ]
+    [ "RTTI", "class_r_e_1_1hkp_phantom.html#af5949ccd9c12486ec59e2012bb37285b", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_phantom.html#a88b7260c9f16c85b241d49a616a91d81", null ]
 ];

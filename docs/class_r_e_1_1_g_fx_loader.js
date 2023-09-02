@@ -21,7 +21,7 @@ var class_r_e_1_1_g_fx_loader =
     [ "GetLoaderImpl", "class_r_e_1_1_g_fx_loader.html#ab2558f222a88bc21d7e2dc9bf900c0e6", null ],
     [ "GetStateBagImpl", "class_r_e_1_1_g_fx_loader.html#a155e2f112f4fb4eec64b1cafd7d8c7ff", null ],
     [ "defLoadFlags", "class_r_e_1_1_g_fx_loader.html#a9ac38552400c892fb3b1275991ba3ee8", null ],
-    [ "impl", "class_r_e_1_1_g_fx_loader.html#af41cde927556234358bfc3edf19b4c4c", null ],
+    [ "impl", "class_r_e_1_1_g_fx_loader.html#ae6048cad2df5f8861b731b4ec5afb3d6", null ],
     [ "pad1C", "class_r_e_1_1_g_fx_loader.html#af577697d2a3d8786b3fba4420395e008", null ],
-    [ "strongResourceLib", "class_r_e_1_1_g_fx_loader.html#a6caabed7a1980f0ee7de5740da6f4c85", null ]
+    [ "strongResourceLib", "class_r_e_1_1_g_fx_loader.html#a0c7682064a0bf4e17304b3a7c6b05902", null ]
 ];

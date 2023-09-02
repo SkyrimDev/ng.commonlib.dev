@@ -14,5 +14,6 @@ var searchData=
   ['grectd_11',['GRectD',['../namespace_r_e.html#a65ab57e441b6b564b9f82681b79c785f',1,'RE']]],
   ['grectf_12',['GRectF',['../namespace_r_e.html#aa894d650efe98be5d004f13b6ddd6fe2',1,'RE']]],
   ['gstatgroup_13',['GStatGroup',['../namespace_r_e.html#a44b581a05cb72a18277e15b7ac6890da',1,'RE']]],
-  ['gstatrenderer_14',['GStatRenderer',['../namespace_r_e.html#aa706c5865508af416dfe9e630c7a400e',1,'RE']]]
+  ['gstatrenderer_14',['GStatRenderer',['../namespace_r_e.html#aa706c5865508af416dfe9e630c7a400e',1,'RE']]],
+  ['guid_15',['GUID',['../namespace_r_e_1_1_direct_input8.html#a576acaca6ada15f6e3495f725ff35bae',1,'RE::DirectInput8::GUID'],['../namespace_s_k_s_e_1_1_win_a_p_i.html#a2463a64a3de95a7c64123ab83ba40b89',1,'SKSE::WinAPI::GUID']]]
 ];

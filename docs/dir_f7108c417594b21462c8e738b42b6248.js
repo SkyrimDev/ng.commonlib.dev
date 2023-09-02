@@ -3,6 +3,7 @@ var dir_f7108c417594b21462c8e738b42b6248 =
     [ "RaceSexCamera.h", "_race_sex_camera_8h.html", "_race_sex_camera_8h" ],
     [ "RaceSexMenu.h", "_race_sex_menu_8h.html", "_race_sex_menu_8h" ],
     [ "RaceSexMenuEvent.h", "_race_sex_menu_event_8h.html", "_race_sex_menu_event_8h" ],
+    [ "RallyEffect.h", "_rally_effect_8h.html", "_rally_effect_8h" ],
     [ "RawFuncCallQuery.h", "_raw_func_call_query_8h.html", "_raw_func_call_query_8h" ],
     [ "ReadyWeaponHandler.h", "_ready_weapon_handler_8h.html", "_ready_weapon_handler_8h" ],
     [ "ReanimateEffect.h", "_reanimate_effect_8h.html", "_reanimate_effect_8h" ],
@@ -16,6 +17,12 @@ var dir_f7108c417594b21462c8e738b42b6248 =
     [ "RegSettingCollection.h", "_reg_setting_collection_8h.html", "_reg_setting_collection_8h" ],
     [ "RemoveCallbackVisitor.h", "_remove_callback_visitor_8h.html", "_remove_callback_visitor_8h" ],
     [ "RemoveItemFunctor.h", "_remove_item_functor_8h.html", "_remove_item_functor_8h" ],
+    [ "Renderer.h", "_renderer_8h.html", "_renderer_8h" ],
+    [ "RenderTargetData.h", "_render_target_data_8h.html", "_render_target_data_8h" ],
+    [ "RenderTargetManager.h", "_render_target_manager_8h.html", "_render_target_manager_8h" ],
+    [ "RenderTargetProperties.h", "_render_target_properties_8h.html", "_render_target_properties_8h" ],
     [ "Request.h", "_request_8h.html", "_request_8h" ],
+    [ "ReticuleController.h", "_reticule_controller_8h.html", "_reticule_controller_8h" ],
+    [ "Rumble.h", "_rumble_8h.html", "_rumble_8h" ],
     [ "RunHandler.h", "_run_handler_8h.html", "_run_handler_8h" ]
 ];

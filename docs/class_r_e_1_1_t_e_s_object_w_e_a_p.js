@@ -10,6 +10,7 @@ var class_r_e_1_1_t_e_s_object_w_e_a_p =
     [ "GetCritDamage", "class_r_e_1_1_t_e_s_object_w_e_a_p.html#ae68e7b6532aa329005c207640eed86aa", null ],
     [ "GetDefaultKeyword", "class_r_e_1_1_t_e_s_object_w_e_a_p.html#a6e34285dd1197be7d30dfd41be04370b", null ],
     [ "GetDescriptionOwnerFile", "class_r_e_1_1_t_e_s_object_w_e_a_p.html#ab041191efca454dbf8aedf083630831b", null ],
+    [ "GetFireNode", "class_r_e_1_1_t_e_s_object_w_e_a_p.html#a195f3efa42b10abec46419b134d0ee14", null ],
     [ "GetMaxRange", "class_r_e_1_1_t_e_s_object_w_e_a_p.html#a4a167870c435395f7e8d0e895a02e330", null ],
     [ "GetMinRange", "class_r_e_1_1_t_e_s_object_w_e_a_p.html#aab267e02e8c53a41ce79fcb8e0c942e5", null ],
     [ "GetNodeName", "class_r_e_1_1_t_e_s_object_w_e_a_p.html#a0d5a402fbf3ca6526302fe3d4d2dbe56", null ],

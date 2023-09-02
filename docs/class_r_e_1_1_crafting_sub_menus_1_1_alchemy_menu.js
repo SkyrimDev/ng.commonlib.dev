@@ -6,7 +6,7 @@ var class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu =
     [ "UsableEffectMap", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu_1_1_usable_effect_map.html", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu_1_1_usable_effect_map" ],
     [ "~AlchemyMenu", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu.html#aaefac53fce54a6e118738348ddd479a7", null ],
     [ "Accept", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu.html#aaa7807d4f3d1a92d5a5608f5cf6f54c9", null ],
-    [ "Unk_05", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu.html#a43e5a92a2be870536f3d4619475bf089", null ],
+    [ "ProcessUserEvent", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu.html#a13c6a28b4791851d68bc400c95905e43", null ],
     [ "ingredientIndex1", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu.html#aada4ac31b9464f49759572d8c878a4db", null ],
     [ "ingredientIndex2", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu.html#a941e3d5dace90795d68eda2acc490aff", null ],
     [ "ingredientIndex3", "class_r_e_1_1_crafting_sub_menus_1_1_alchemy_menu.html#a815f90a9cfc826eab8ec0ea6baa51aa9", null ],

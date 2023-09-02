@@ -14,6 +14,7 @@ var class_r_e_1_1hkp_collidable =
       [ "kModifierRequest", "class_r_e_1_1hkp_collidable.html#a9ed4a6393eb9cdf1af33de1680268f19a33b5c82384657c9b79ccfb512d14507d", null ],
       [ "kShapeUnchecked", "class_r_e_1_1hkp_collidable.html#a9ed4a6393eb9cdf1af33de1680268f19a76654845751c960854b945c4d12e24a1", null ]
     ] ],
+    [ "GetCollisionLayer", "class_r_e_1_1hkp_collidable.html#a2e1e228c19ff81a8e84816052b9affa9", null ],
     [ "GetOwner", "class_r_e_1_1hkp_collidable.html#a1ec76b0593912c1d6a6d9b030666196d", null ],
     [ "GetOwner", "class_r_e_1_1hkp_collidable.html#ac7acf762cef46160bd57c040a44d7f8f", null ],
     [ "allowedPenetrationDepth", "class_r_e_1_1hkp_collidable.html#a46316576fd48ba7d4adf9031c5390535", null ],

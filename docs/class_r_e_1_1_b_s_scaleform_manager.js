@@ -1,7 +1,9 @@
 var class_r_e_1_1_b_s_scaleform_manager =
 [
     [ "ScaleModeType", "class_r_e_1_1_b_s_scaleform_manager.html#a49c9f208fedba2eebeeece8960f3d6fa", null ],
+    [ "FileExists", "class_r_e_1_1_b_s_scaleform_manager.html#a0f070a0bbd550d863f492575d332dd9a", null ],
     [ "GetSingleton", "class_r_e_1_1_b_s_scaleform_manager.html#a03242f1808697537f8f98355d4e94c6f", null ],
+    [ "IsValidName", "class_r_e_1_1_b_s_scaleform_manager.html#a9f2240d0407b4e1b28b6347cf3ca9f17", null ],
     [ "LoadMovie", "class_r_e_1_1_b_s_scaleform_manager.html#a857333b5ed11bfbaadb69475964f5873", null ],
     [ "LoadMovie_Impl", "class_r_e_1_1_b_s_scaleform_manager.html#a2a27e0b5a07e1a7986e9af379c511140", null ],
     [ "LoadMovieEx", "class_r_e_1_1_b_s_scaleform_manager.html#a543bcf5ecfd5a94cd9d0809da8af057b", null ],

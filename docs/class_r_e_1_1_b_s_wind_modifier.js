@@ -1,6 +1,7 @@
 var class_r_e_1_1_b_s_wind_modifier =
 [
     [ "~BSWindModifier", "class_r_e_1_1_b_s_wind_modifier.html#a4a28e78a64065521966e9e5b986e4dc9", null ],
+    [ "Create", "class_r_e_1_1_b_s_wind_modifier.html#a1b77336add429b17c221811871d4b13f", null ],
     [ "CreateClone", "class_r_e_1_1_b_s_wind_modifier.html#a4ffdf42465c4c01845b365a0b647ea4f", null ],
     [ "GetRTTI", "class_r_e_1_1_b_s_wind_modifier.html#ab43592bef1cabc2169ce5ad1c899e13d", null ],
     [ "IsEqual", "class_r_e_1_1_b_s_wind_modifier.html#a6105385b352eaa3173f4f579b40ce7d3", null ],

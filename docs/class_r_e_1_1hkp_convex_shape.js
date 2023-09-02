@@ -11,5 +11,6 @@ var class_r_e_1_1hkp_convex_shape =
     [ "Unk_11", "class_r_e_1_1hkp_convex_shape.html#a4996704d6325de923d15ae5a6d81ceb7", null ],
     [ "pad1C", "class_r_e_1_1hkp_convex_shape.html#a1a27fe97d9b28959cb5205e211676558", null ],
     [ "radius", "class_r_e_1_1hkp_convex_shape.html#abe384fce8492410ab5f143006278fdd2", null ],
-    [ "RTTI", "class_r_e_1_1hkp_convex_shape.html#a272c842ab4ae32d1949d55294668451a", null ]
+    [ "RTTI", "class_r_e_1_1hkp_convex_shape.html#a272c842ab4ae32d1949d55294668451a", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_convex_shape.html#ae71129cf9bbf0a97fd148743d54eef96", null ]
 ];

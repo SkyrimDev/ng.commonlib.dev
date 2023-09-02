@@ -5,5 +5,6 @@ var class_r_e_1_1hkp_fixed_rigid_motion =
     [ "SetAngularVelocity", "class_r_e_1_1hkp_fixed_rigid_motion.html#a6c380aee4a5ab6666dd024f48ade0bd2", null ],
     [ "SetLinearVelocity", "class_r_e_1_1hkp_fixed_rigid_motion.html#ad17c20644f571b77858afc802f2c3232", null ],
     [ "SetStepPosition", "class_r_e_1_1hkp_fixed_rigid_motion.html#ae8f2badbcacd94b6be7eede6d1bc2146", null ],
-    [ "RTTI", "class_r_e_1_1hkp_fixed_rigid_motion.html#ad3b5c35a47aba5177cdbc3aab5d3d85d", null ]
+    [ "RTTI", "class_r_e_1_1hkp_fixed_rigid_motion.html#ad3b5c35a47aba5177cdbc3aab5d3d85d", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_fixed_rigid_motion.html#acf4cded0a806ba3bad7942e26fec93f8", null ]
 ];

@@ -37,6 +37,7 @@ var class_r_e_1_1_ni_time_controller =
     [ "SaveBinary", "class_r_e_1_1_ni_time_controller.html#a04580dec9dcf9d21e9cf55ef20b75ca2", null ],
     [ "SetTarget", "class_r_e_1_1_ni_time_controller.html#a24f4f9f11a9409c88e02ec559e33f165", null ],
     [ "Start", "class_r_e_1_1_ni_time_controller.html#a4b9a55a1b13d49fa8481a7e6cf422ffa", null ],
+    [ "StartAnimations", "class_r_e_1_1_ni_time_controller.html#a40a398dc869050c9a81aa1370187556a", null ],
     [ "Stop", "class_r_e_1_1_ni_time_controller.html#a16886eb2f44844c5c24a502fab59281f", null ],
     [ "TargetIsRequiredType", "class_r_e_1_1_ni_time_controller.html#a03645f0ea11632cb737d555efaa842ee", null ],
     [ "Update", "class_r_e_1_1_ni_time_controller.html#ae4acc1580bc06df984f2b2d7a68632fe", null ],

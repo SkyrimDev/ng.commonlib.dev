@@ -11,5 +11,6 @@ var class_r_e_1_1_h_u_d_object =
     [ "Update", "class_r_e_1_1_h_u_d_object.html#ab439dbad83e7c3c0965d18b7674baa68", null ],
     [ "root", "class_r_e_1_1_h_u_d_object.html#a3cb86bb8b6e5908ec63eda84697d7c0b", null ],
     [ "RTTI", "class_r_e_1_1_h_u_d_object.html#a55f4b58eb42f0760218371e1d28ad367", null ],
-    [ "view", "class_r_e_1_1_h_u_d_object.html#abe9936db6b7afc69626ea931a8db1e4b", null ]
+    [ "view", "class_r_e_1_1_h_u_d_object.html#abe9936db6b7afc69626ea931a8db1e4b", null ],
+    [ "VTABLE", "class_r_e_1_1_h_u_d_object.html#af14621eb8b291e47e4c4186ed37e4ab7", null ]
 ];

@@ -14,5 +14,6 @@ var class_r_e_1_1_b_s_resource_ni_binary_stream =
     [ "lastError", "class_r_e_1_1_b_s_resource_ni_binary_stream.html#ae128d8d006351809a2bdd9e90ed867e4", null ],
     [ "RTTI", "class_r_e_1_1_b_s_resource_ni_binary_stream.html#ad51478bf7ea032780a448d769fe90acd", null ],
     [ "stream", "class_r_e_1_1_b_s_resource_ni_binary_stream.html#a608bad0dc43b2d0f70d31f8c2f35a82b", null ],
-    [ "streamPos", "class_r_e_1_1_b_s_resource_ni_binary_stream.html#a17418fa04f4e9186019e135a64a7aba9", null ]
+    [ "streamPos", "class_r_e_1_1_b_s_resource_ni_binary_stream.html#a17418fa04f4e9186019e135a64a7aba9", null ],
+    [ "VTABLE", "class_r_e_1_1_b_s_resource_ni_binary_stream.html#a6beea47e8e95c750c4b7fc3ea829e5d0", null ]
 ];

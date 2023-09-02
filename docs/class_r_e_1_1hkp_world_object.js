@@ -28,5 +28,6 @@ var class_r_e_1_1hkp_world_object =
     [ "RTTI", "class_r_e_1_1hkp_world_object.html#a0744b033b70eceee4a146e7e5a074951", null ],
     [ "treeData", "class_r_e_1_1hkp_world_object.html#ab5324b6794906acd9249fde7bddb9a01", null ],
     [ "userData", "class_r_e_1_1hkp_world_object.html#afa16550cf839583a531962111694933e", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_world_object.html#a5cabfa0a6241bd4fd8e19581eb6ef0e5", null ],
     [ "world", "class_r_e_1_1hkp_world_object.html#a60ed5e2384b7b14dee410dee1f7f81f3", null ]
 ];

@@ -16,5 +16,6 @@ var class_r_e_1_1_journal_menu =
     [ "ProcessMessage", "class_r_e_1_1_journal_menu.html#a168a5a15b4db0c03379cfa54dff9a9cc", null ],
     [ "ProcessThumbstick", "class_r_e_1_1_journal_menu.html#a6cc578712a23b9bb8719c6139ad1d846", null ],
     [ "MENU_NAME", "class_r_e_1_1_journal_menu.html#a26d327ab7f252c521e103483db5a39fb", null ],
-    [ "RTTI", "class_r_e_1_1_journal_menu.html#aa606f9afc5948197e3c5033eed1e0210", null ]
+    [ "RTTI", "class_r_e_1_1_journal_menu.html#aa606f9afc5948197e3c5033eed1e0210", null ],
+    [ "VTABLE", "class_r_e_1_1_journal_menu.html#ad0c4457a2ae1e7f492956193fb77f87e", null ]
 ];

@@ -16,7 +16,6 @@ var class_r_e_1_1_map_marker_data =
     [ "flags", "class_r_e_1_1_map_marker_data.html#adbe48dae5d10e91d8f96a1e71404a6af", null ],
     [ "locationName", "class_r_e_1_1_map_marker_data.html#a492f784eb7eb4c617d7b08a24b652bba", null ],
     [ "pad11", "class_r_e_1_1_map_marker_data.html#aa23fe0d0ee6571b7f8fccf4c70cb2f26", null ],
-    [ "pad13", "class_r_e_1_1_map_marker_data.html#ab5224cbe297f115fbdf0c3e8de48a237", null ],
     [ "pad14", "class_r_e_1_1_map_marker_data.html#ae22919d0046da8f19018a15dc935656e", null ],
-    [ "type", "class_r_e_1_1_map_marker_data.html#a907b169815fb90301bd4101947d2bbc1", null ]
+    [ "type", "class_r_e_1_1_map_marker_data.html#a6a81e2c95862a50aea21499921ab069d", null ]
 ];

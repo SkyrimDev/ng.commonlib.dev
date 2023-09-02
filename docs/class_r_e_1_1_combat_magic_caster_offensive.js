@@ -12,7 +12,7 @@ var class_r_e_1_1_combat_magic_caster_offensive =
     [ "NotifyStopCast", "class_r_e_1_1_combat_magic_caster_offensive.html#a92293edbf7bccbf73991770ecf88e3d6", null ],
     [ "SaveGame", "class_r_e_1_1_combat_magic_caster_offensive.html#a1463467ce8619da13dce6f96a76eaaa1", null ],
     [ "RTTI", "class_r_e_1_1_combat_magic_caster_offensive.html#aae3fa927b7456a80b729f2d4c27f384a", null ],
-    [ "unk20", "class_r_e_1_1_combat_magic_caster_offensive.html#adfdd8674422e5fd2b00eb0e92e85405f", null ],
-    [ "unk28", "class_r_e_1_1_combat_magic_caster_offensive.html#afe7e2b527a3e33fb4c3e156121300651", null ],
+    [ "startCastTimer", "class_r_e_1_1_combat_magic_caster_offensive.html#aa8e963138b4e13fa9cd40a47ed17ee42", null ],
+    [ "stopCastTimer", "class_r_e_1_1_combat_magic_caster_offensive.html#a89b9cc7d11625ca2350a88a6dc8fbbd4", null ],
     [ "VTABLE", "class_r_e_1_1_combat_magic_caster_offensive.html#a3cc5ee02e8e82cf1b4a2726e80c7d014", null ]
 ];

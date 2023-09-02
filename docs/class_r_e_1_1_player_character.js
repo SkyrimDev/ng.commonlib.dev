@@ -1,12 +1,15 @@
 var class_r_e_1_1_player_character =
 [
     [ "CrimeValue", "struct_r_e_1_1_player_character_1_1_crime_value.html", null ],
-    [ "Data928", "struct_r_e_1_1_player_character_1_1_data928.html", "struct_r_e_1_1_player_character_1_1_data928" ],
     [ "GameStateData", "struct_r_e_1_1_player_character_1_1_game_state_data.html", null ],
     [ "INFO_RUNTIME_DATA", "struct_r_e_1_1_player_character_1_1_i_n_f_o___r_u_n_t_i_m_e___d_a_t_a.html", null ],
     [ "PLAYER_RUNTIME_DATA", "struct_r_e_1_1_player_character_1_1_p_l_a_y_e_r___r_u_n_t_i_m_e___d_a_t_a.html", null ],
+    [ "PlayerFlags", "struct_r_e_1_1_player_character_1_1_player_flags.html", "struct_r_e_1_1_player_character_1_1_player_flags" ],
     [ "PlayerSkills", "struct_r_e_1_1_player_character_1_1_player_skills.html", "struct_r_e_1_1_player_character_1_1_player_skills" ],
+    [ "PreTransformationData", "struct_r_e_1_1_player_character_1_1_pre_transformation_data.html", "struct_r_e_1_1_player_character_1_1_pre_transformation_data" ],
+    [ "QueuedWeapon", "struct_r_e_1_1_player_character_1_1_queued_weapon.html", "struct_r_e_1_1_player_character_1_1_queued_weapon" ],
     [ "RaceData", "struct_r_e_1_1_player_character_1_1_race_data.html", null ],
+    [ "TeleportPath", "struct_r_e_1_1_player_character_1_1_teleport_path.html", "struct_r_e_1_1_player_character_1_1_teleport_path" ],
     [ "ByCharGenFlag", "class_r_e_1_1_player_character.html#a28ee0394d07829423e4300f4f6873049", [
       [ "kNone", "class_r_e_1_1_player_character.html#a28ee0394d07829423e4300f4f6873049a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kHandsBound", "class_r_e_1_1_player_character.html#a28ee0394d07829423e4300f4f6873049a7df2b00e6dd821e307489f63f7749528", null ]
@@ -15,30 +18,6 @@ var class_r_e_1_1_player_character =
       [ "kThief", "class_r_e_1_1_player_character.html#af33201ee8e993e1ff53a5e312c7ee22ca8b6b5fef05fc13c58082ddc00f3ad956", null ],
       [ "kContainer", "class_r_e_1_1_player_character.html#af33201ee8e993e1ff53a5e312c7ee22ca06f09fb20e7545c75a7952ddba9736fd", null ],
       [ "kDeadBody", "class_r_e_1_1_player_character.html#af33201ee8e993e1ff53a5e312c7ee22cada57869c64af0f202875059e6af7d4e8", null ]
-    ] ],
-    [ "FlagBD9", "class_r_e_1_1_player_character.html#af549fa6b3afc2a4f2d7380beee227387", [
-      [ "kNone", "class_r_e_1_1_player_character.html#af549fa6b3afc2a4f2d7380beee227387a35c3ace1970663a16e5c65baa5941b13", null ],
-      [ "kIsSleeping", "class_r_e_1_1_player_character.html#af549fa6b3afc2a4f2d7380beee227387ac25fa1e8978ea371175b9bbed208c6da", null ],
-      [ "kGreetingPlayer", "class_r_e_1_1_player_character.html#af549fa6b3afc2a4f2d7380beee227387a1dc4d9c3f17c70647ed7eebd56f8ce9b", null ]
-    ] ],
-    [ "FlagBDB", "class_r_e_1_1_player_character.html#aaefbf8a24b2c1269d3fa16ddc201ec11", [
-      [ "kNone", "class_r_e_1_1_player_character.html#aaefbf8a24b2c1269d3fa16ddc201ec11a35c3ace1970663a16e5c65baa5941b13", null ],
-      [ "kIsInThirdPersonMode", "class_r_e_1_1_player_character.html#aaefbf8a24b2c1269d3fa16ddc201ec11a735b01928750186d3e671dff84a892ba", null ],
-      [ "kIsInCombat", "class_r_e_1_1_player_character.html#aaefbf8a24b2c1269d3fa16ddc201ec11ad39658efa4045ba8ccc980c6e0504619", null ]
-    ] ],
-    [ "FlagBDC", "class_r_e_1_1_player_character.html#aeb8c3300a8d0f6fa56d9add2948c6dd3", [
-      [ "kNone", "class_r_e_1_1_player_character.html#aeb8c3300a8d0f6fa56d9add2948c6dd3a35c3ace1970663a16e5c65baa5941b13", null ],
-      [ "kHealthTutorialShown", "class_r_e_1_1_player_character.html#aeb8c3300a8d0f6fa56d9add2948c6dd3a1f3a8219ace565ceefce07e5b8edcfcf", null ],
-      [ "kMagickaTutorialShown", "class_r_e_1_1_player_character.html#aeb8c3300a8d0f6fa56d9add2948c6dd3aa35e9c358123ccccb8ddfb2c9549faf6", null ],
-      [ "kStaminaTutorialShown", "class_r_e_1_1_player_character.html#aeb8c3300a8d0f6fa56d9add2948c6dd3ae3af0a4d89a2edaa7fe1601eefa9b45c", null ],
-      [ "kGoToJailQueued", "class_r_e_1_1_player_character.html#aeb8c3300a8d0f6fa56d9add2948c6dd3ace1a108c2bff996a84ad6e5787b8d386", null ]
-    ] ],
-    [ "FlagBDD", "class_r_e_1_1_player_character.html#aedee1c2a67e14f87e83928a75a5e71b3", [
-      [ "kNone", "class_r_e_1_1_player_character.html#aedee1c2a67e14f87e83928a75a5e71b3a35c3ace1970663a16e5c65baa5941b13", null ],
-      [ "kSprinting", "class_r_e_1_1_player_character.html#aedee1c2a67e14f87e83928a75a5e71b3afe8fbc8965e4a80d510d3e3f5254956c", null ],
-      [ "kDragonRideTargetLocked", "class_r_e_1_1_player_character.html#aedee1c2a67e14f87e83928a75a5e71b3ad96f93eedba6b70c75ffa66736a357e3", null ],
-      [ "kEverModded", "class_r_e_1_1_player_character.html#aedee1c2a67e14f87e83928a75a5e71b3af0245fc5a800451bd9bf742cbbe8c628", null ],
-      [ "kServingJailTime", "class_r_e_1_1_player_character.html#aedee1c2a67e14f87e83928a75a5e71b3a220e68d9600be71646757bad5c5140de", null ]
     ] ],
     [ "GrabbingType", "class_r_e_1_1_player_character.html#ac8eb3a534255ca9c1085cf82df6b03ca", [
       [ "kNone", "class_r_e_1_1_player_character.html#ac8eb3a534255ca9c1085cf82df6b03caa35c3ace1970663a16e5c65baa5941b13", null ],
@@ -65,8 +44,11 @@ var class_r_e_1_1_player_character =
     [ "AsUserEventEnabledEventSink", "class_r_e_1_1_player_character.html#a71957b064f7b9a49cf6576959022a9e4", null ],
     [ "AttemptPickpocket", "class_r_e_1_1_player_character.html#a5a6fe0e7e4149a3b9dd85d43924aab24", null ],
     [ "CenterOnCell", "class_r_e_1_1_player_character.html#a36950ede96a3d94eca386e1b6bef9047", null ],
-    [ "CenterOnCell", "class_r_e_1_1_player_character.html#a672aec0d989e9248f2bb595728a6e21e", null ],
+    [ "CenterOnCell", "class_r_e_1_1_player_character.html#a7ff61637f0f220f2a26a46313549c9af", null ],
+    [ "CheckCast", "class_r_e_1_1_player_character.html#ae56ae631af5ac5b2323a9aa4e180eafa", null ],
     [ "ClearAllCrimeGold", "class_r_e_1_1_player_character.html#afb503a66732e0c33f6b8183adb168176", null ],
+    [ "DestroyMouseSprings", "class_r_e_1_1_player_character.html#a86036f18b6987afcb8157e341319fc8b", null ],
+    [ "EndGrabObject", "class_r_e_1_1_player_character.html#a42f6d9da0851f67ef52626d2913f9079", null ],
     [ "GetActorDoingPlayerCommand", "class_r_e_1_1_player_character.html#a794f9762e67427ad18e7dbdf729770e2", null ],
     [ "GetArmorValue", "class_r_e_1_1_player_character.html#ac85f5543126a2f714a3462c800acbe36", null ],
     [ "GetCrimeValue", "class_r_e_1_1_player_character.html#ab5606b834ac96e21f25ca48e04f78f41", null ],
@@ -92,8 +74,10 @@ var class_r_e_1_1_player_character =
     [ "GetVRNodeData", "class_r_e_1_1_player_character.html#ac3bb01a30f5fcf3fc7f493af33a53ebb", null ],
     [ "GetVRNodeData", "class_r_e_1_1_player_character.html#aa12ac8c5617e7c168ba7fd84b1751aff", null ],
     [ "HasActorDoingCommand", "class_r_e_1_1_player_character.html#a9e86d4b1a6c0b50bdfd4b5fde2bc3669", null ],
+    [ "IsGodMode", "class_r_e_1_1_player_character.html#a0a8c67c8e7ce2b7c505b0942bb5b04e1", null ],
     [ "IsGrabbing", "class_r_e_1_1_player_character.html#acd79198f70e809f84fbe82ef375062c6", null ],
     [ "PlayPickupEvent", "class_r_e_1_1_player_character.html#aab24bbbd59cb8d2f3111cd2913fd6fcb", null ],
+    [ "RemoveWeapon", "class_r_e_1_1_player_character.html#a620186b1645f41ec7f59710bce95135a", null ],
     [ "SetAIDriven", "class_r_e_1_1_player_character.html#a73df8c05372e4d98971dc0d4a4452cd8", null ],
     [ "SetEscaping", "class_r_e_1_1_player_character.html#ab0c43799ba7bbd018b4e3dcebd703a1c", null ],
     [ "StartGrabObject", "class_r_e_1_1_player_character.html#af8c98162b28726dd2259c3186a0c21a3", null ],

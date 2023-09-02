@@ -1,5 +1,7 @@
 var dir_024df1a22f43db4c15bebdb0bf03a48d =
 [
+    [ "DarknessEffect.h", "_darkness_effect_8h.html", "_darkness_effect_8h" ],
+    [ "DBTraits.h", "_d_b_traits_8h.html", "_d_b_traits_8h" ],
     [ "DecalData.h", "_decal_data_8h.html", "_decal_data_8h" ],
     [ "DefaultObjectsReadyEvent.h", "_default_objects_ready_event_8h.html", "_default_objects_ready_event_8h" ],
     [ "DelayFunctor.h", "_delay_functor_8h.html", "_delay_functor_8h" ],
@@ -8,6 +10,7 @@ var dir_024df1a22f43db4c15bebdb0bf03a48d =
     [ "DetectionListener.h", "_detection_listener_8h.html", "_detection_listener_8h" ],
     [ "DetectionPriorities.h", "_detection_priorities_8h.html", "_detection_priorities_8h" ],
     [ "DetectionState.h", "_detection_state_8h.html", "_detection_state_8h" ],
+    [ "DetectLifeEffect.h", "_detect_life_effect_8h.html", "_detect_life_effect_8h" ],
     [ "DeviceConnectEvent.h", "_device_connect_event_8h.html", "_device_connect_event_8h" ],
     [ "DevNull.h", "_dev_null_8h.html", "_dev_null_8h" ],
     [ "DialogueItem.h", "_dialogue_item_8h.html", "_dialogue_item_8h" ],
@@ -15,7 +18,11 @@ var dir_024df1a22f43db4c15bebdb0bf03a48d =
     [ "DialoguePackage.h", "_dialogue_package_8h.html", "_dialogue_package_8h" ],
     [ "DialogueTypes.h", "_dialogue_types_8h.html", "_dialogue_types_8h" ],
     [ "DisarmedEvent.h", "_disarmed_event_8h.html", "_disarmed_event_8h" ],
+    [ "DisarmEffect.h", "_disarm_effect_8h.html", "_disarm_effect_8h" ],
+    [ "DisguiseEffect.h", "_disguise_effect_8h.html", "_disguise_effect_8h" ],
+    [ "DispelEffect.h", "_dispel_effect_8h.html", "_dispel_effect_8h" ],
     [ "DoNothingUnhandledPolicy.h", "_do_nothing_unhandled_policy_8h.html", "_do_nothing_unhandled_policy_8h" ],
     [ "DragonSoulsGained.h", "_dragon_souls_gained_8h.html", "_dragon_souls_gained_8h" ],
-    [ "DropObjectFunctor.h", "_drop_object_functor_8h.html", "_drop_object_functor_8h" ]
+    [ "DropObjectFunctor.h", "_drop_object_functor_8h.html", "_drop_object_functor_8h" ],
+    [ "DualValueModifierEffect.h", "_dual_value_modifier_effect_8h.html", "_dual_value_modifier_effect_8h" ]
 ];

@@ -1,12 +1,12 @@
 var class_r_e_1_1_combat_controller =
 [
     [ "IsFleeing", "class_r_e_1_1_combat_controller.html#a12c0a71f81619174e69c59dd4ad15bf5", null ],
-    [ "actorHandle", "class_r_e_1_1_combat_controller.html#a2ad14b6e126f985367cb6aaeba7f7b2a", null ],
     [ "aimControllers", "class_r_e_1_1_combat_controller.html#ae47d8fd472cd3eb76b81a8f57bbd95b3", null ],
     [ "areas", "class_r_e_1_1_combat_controller.html#a5ca6085ccc04e5dcb823a892f62d28af", null ],
+    [ "attackerHandle", "class_r_e_1_1_combat_controller.html#a8e6ec13f96979750add660e53ecf4ae1", null ],
     [ "behaviorController", "class_r_e_1_1_combat_controller.html#a9d5d2f01eeecd4480ed891180a0b94ee", null ],
     [ "blackboard", "class_r_e_1_1_combat_controller.html#a9b7fc349f16421153da0e29de28aa1ba", null ],
-    [ "cachedActor", "class_r_e_1_1_combat_controller.html#a6c2ca054fa154cbd92d2f6add1ccb8ec", null ],
+    [ "cachedAttacker", "class_r_e_1_1_combat_controller.html#a657b0f7201a696b4e13e1cd62e950be9", null ],
     [ "cachedTarget", "class_r_e_1_1_combat_controller.html#aecbdbd90bccbadbfa8e6a7bd0a9bdb59", null ],
     [ "combatGroup", "class_r_e_1_1_combat_controller.html#a8e4b84f4680230e57b0fb8e2dd6bddb5", null ],
     [ "combatStyle", "class_r_e_1_1_combat_controller.html#a6ecf098dfe7b6d9093eb83c9c1383c36", null ],

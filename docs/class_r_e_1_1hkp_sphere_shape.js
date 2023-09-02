@@ -11,5 +11,6 @@ var class_r_e_1_1hkp_sphere_shape =
     [ "Unk_0E", "class_r_e_1_1hkp_sphere_shape.html#ad9a42fdf0531fcc14b233818f14d9a3c", null ],
     [ "Unk_0F", "class_r_e_1_1hkp_sphere_shape.html#a7ba257d8cac154010c4fe797e5e959dd", null ],
     [ "Unk_11", "class_r_e_1_1hkp_sphere_shape.html#a2961f1df8fe713a20350dedc43ba2c1a", null ],
-    [ "RTTI", "class_r_e_1_1hkp_sphere_shape.html#a265a490f2d1da143f5cd84f38dd2a3de", null ]
+    [ "RTTI", "class_r_e_1_1hkp_sphere_shape.html#a265a490f2d1da143f5cd84f38dd2a3de", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_sphere_shape.html#a84cfa1a697accb55a635427138b5eed0", null ]
 ];

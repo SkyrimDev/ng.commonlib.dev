@@ -19,6 +19,7 @@ var class_r_e_1_1_t_e_s_object_d_o_o_r =
     [ "HandleOpen", "class_r_e_1_1_t_e_s_object_d_o_o_r.html#aea9d83177f5e74996402ad73d04b7fb6", null ],
     [ "InitializeData", "class_r_e_1_1_t_e_s_object_d_o_o_r.html#ad367ff291d8da7e22821c1b64089d50f", null ],
     [ "InitItemImpl", "class_r_e_1_1_t_e_s_object_d_o_o_r.html#a0aa6b257ae1ab6decd29ac51f2daa041", null ],
+    [ "LinkRandomTeleportDoors", "class_r_e_1_1_t_e_s_object_d_o_o_r.html#adb9937306fbe74ec3d460e5f86b74c7f", null ],
     [ "Load", "class_r_e_1_1_t_e_s_object_d_o_o_r.html#a69a29155f831a87aa111fa9ba6887636", null ],
     [ "closeSound", "class_r_e_1_1_t_e_s_object_d_o_o_r.html#afd372df450cb122a41b9f190dbb5c6ef", null ],
     [ "flags", "class_r_e_1_1_t_e_s_object_d_o_o_r.html#a5c3a4cdf0b71baa82b9f2c69c08737ea", null ],

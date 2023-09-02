@@ -14,7 +14,7 @@ var class_r_e_1_1_combat_magic_caster =
     [ "NotifyStopCast", "class_r_e_1_1_combat_magic_caster.html#a139f0c644a8a0e664ab062907cfaa045", null ],
     [ "SaveGame", "class_r_e_1_1_combat_magic_caster.html#a447d50bcef33de7e3ab81e7d4a08ffa2", null ],
     [ "SetupAimController", "class_r_e_1_1_combat_magic_caster.html#aa81cf6f6ae9bbd08a031f78fbc0ba4e8", null ],
-    [ "inventoryItem", "class_r_e_1_1_combat_magic_caster.html#ad7d67ccd391691155746e00eefa44671", null ],
+    [ "inventoryItem", "class_r_e_1_1_combat_magic_caster.html#a4bd48e2899e92bfb0c0989939b341c77", null ],
     [ "magicItem", "class_r_e_1_1_combat_magic_caster.html#a04cd11e95f6051f926cc709e59f7a34f", null ],
     [ "RTTI", "class_r_e_1_1_combat_magic_caster.html#ad8ecd403787500cbfe57893edd4a74f6", null ],
     [ "VTABLE", "class_r_e_1_1_combat_magic_caster.html#a11bcd49c2468d690b5c5aac8d4f18e4d", null ]

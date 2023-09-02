@@ -13,11 +13,14 @@ var searchData=
   ['permissions_10',['Permissions',['../struct_r_e_1_1_b_s_script_1_1_property_type_info.html#a0147c1867987c9ed04eb892bf311b7da',1,'RE::BSScript::PropertyTypeInfo']]],
   ['phase_11',['Phase',['../struct_r_e_1_1_moon_1_1_phases.html#a7ab1133bc5febb825d15a884eee6a7bb',1,'RE::Moon::Phases']]],
   ['pixellayout_12',['PixelLayout',['../class_r_e_1_1_ni_texture_1_1_format_prefs.html#acf97a2d905017ea8a9f84dec5a298bbf',1,'RE::NiTexture::FormatPrefs']]],
-  ['plane_13',['Plane',['../struct_r_e_1_1_ni_frustum_planes_1_1_planes.html#a61b7f1fa4f2074cacd3e609795ae6b29',1,'RE::NiFrustumPlanes::Planes']]],
-  ['playbackmode_14',['PlaybackMode',['../class_r_e_1_1hkb_clip_generator.html#a8e4219e9f28ffee96d7304cfbc75fc93',1,'RE::hkbClipGenerator']]],
-  ['player_5faction_15',['PLAYER_ACTION',['../namespace_r_e.html#a633bd933fc8acc96505b2e8294769a9f',1,'RE']]],
-  ['playstate_16',['PlayState',['../class_r_e_1_1_g_fx_movie.html#ad2caf54eb7563c5a4d1b3836229cf872',1,'RE::GFxMovie']]],
-  ['preferredspeed_17',['PreferredSpeed',['../struct_r_e_1_1_p_a_c_k_a_g_e___d_a_t_a.html#a93d4fb078e499611aa3a0c2cf4487e26',1,'RE::PACKAGE_DATA']]],
-  ['previouslos_18',['PreviousLOS',['../struct_r_e_1_1_skyrim_v_m_1_1_l_o_s_data_event.html#aaed942bf755e85f110f57b5398a0fe83',1,'RE::SkyrimVM::LOSDataEvent']]],
-  ['process_5ftype_19',['PROCESS_TYPE',['../namespace_r_e.html#ae41fbd543640c2747613bcfee755ad29',1,'RE']]]
+  ['placeflags_13',['PlaceFlags',['../class_r_e_1_1_g_fx_place_object2.html#a4db314904d2127966533d2acf27eeb9f',1,'RE::GFxPlaceObject2']]],
+  ['placeflags1_14',['PlaceFlags1',['../class_r_e_1_1_g_fx_place_object3.html#a89c9d6712e52719de27f31c74475e207',1,'RE::GFxPlaceObject3']]],
+  ['placeflags2_15',['PlaceFlags2',['../class_r_e_1_1_g_fx_place_object3.html#a58e0bfa181f1bbfc7bbaa6aad0bc9b78',1,'RE::GFxPlaceObject3']]],
+  ['plane_16',['Plane',['../struct_r_e_1_1_ni_frustum_planes_1_1_planes.html#a61b7f1fa4f2074cacd3e609795ae6b29',1,'RE::NiFrustumPlanes::Planes']]],
+  ['playbackmode_17',['PlaybackMode',['../class_r_e_1_1hkb_clip_generator.html#a8e4219e9f28ffee96d7304cfbc75fc93',1,'RE::hkbClipGenerator']]],
+  ['player_5faction_18',['PLAYER_ACTION',['../namespace_r_e.html#a633bd933fc8acc96505b2e8294769a9f',1,'RE']]],
+  ['playstate_19',['PlayState',['../class_r_e_1_1_g_fx_movie.html#ad2caf54eb7563c5a4d1b3836229cf872',1,'RE::GFxMovie']]],
+  ['preferredspeed_20',['PreferredSpeed',['../struct_r_e_1_1_p_a_c_k_a_g_e___d_a_t_a.html#a93d4fb078e499611aa3a0c2cf4487e26',1,'RE::PACKAGE_DATA']]],
+  ['previouslos_21',['PreviousLOS',['../struct_r_e_1_1_skyrim_v_m_1_1_l_o_s_data_event.html#aaed942bf755e85f110f57b5398a0fe83',1,'RE::SkyrimVM::LOSDataEvent']]],
+  ['process_5ftype_22',['PROCESS_TYPE',['../namespace_r_e.html#ae41fbd543640c2747613bcfee755ad29',1,'RE']]]
 ];

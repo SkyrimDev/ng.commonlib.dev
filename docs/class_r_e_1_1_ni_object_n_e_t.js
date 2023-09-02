@@ -4,6 +4,7 @@ var class_r_e_1_1_ni_object_n_e_t =
     [ "AddExtraData", "class_r_e_1_1_ni_object_n_e_t.html#a7ef145ca2b4ad1792231a17cefb54fc7", null ],
     [ "AddExtraData", "class_r_e_1_1_ni_object_n_e_t.html#a00443474dc2dd1dce9d1fb41b9b3acf8", null ],
     [ "DeleteExtraData", "class_r_e_1_1_ni_object_n_e_t.html#aa8dab1f46d0d5a5cfc913680271b150e", null ],
+    [ "GetController", "class_r_e_1_1_ni_object_n_e_t.html#ad80bdf24134cfeda82e091157e18f782", null ],
     [ "GetController", "class_r_e_1_1_ni_object_n_e_t.html#a78b84157bdf17e6c3797e60b60ab2670", null ],
     [ "GetControllers", "class_r_e_1_1_ni_object_n_e_t.html#a3ebb923c693d5dd5cd941228dca43fa9", null ],
     [ "GetExtraData", "class_r_e_1_1_ni_object_n_e_t.html#aca74c4b91a6b8e612702accd3cf5afb2", null ],

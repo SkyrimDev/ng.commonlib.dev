@@ -1,13 +1,18 @@
 var class_r_e_1_1_actor_magic_caster =
 [
+    [ "InterruptHandler_t", "class_r_e_1_1_actor_magic_caster.html#a05b3fd567cfbb5831ca71981e34134dd", null ],
     [ "Flags", "class_r_e_1_1_actor_magic_caster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5", [
       [ "kNone", "class_r_e_1_1_actor_magic_caster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kDualCasting", "class_r_e_1_1_actor_magic_caster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5a346f241bd7ccd0b5a1e283b77378a575", null ],
       [ "kSkipCheckCast", "class_r_e_1_1_actor_magic_caster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5ad8f729eb87661b2efd4c6941a276d0f3", null ],
-      [ "kUsesHands", "class_r_e_1_1_actor_magic_caster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5ab8d18f85fbc692ac33931528433ece44", null ]
+      [ "kStartCloneTask", "class_r_e_1_1_actor_magic_caster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5ae7274a5d87acebce8e6934ad561e9a9c", null ],
+      [ "kCastingArtAttached", "class_r_e_1_1_actor_magic_caster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5a6be435422da9df2bae8a3a2acf0333dd", null ],
+      [ "kCheckDeferredInterrupt", "class_r_e_1_1_actor_magic_caster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5a3ae1747f4686dd58581aab5c756ab5e3", null ],
+      [ "kDeferInterrupt", "class_r_e_1_1_actor_magic_caster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5a8f07911e68964bfe1514acfb1e7c95b3", null ]
     ] ],
     [ "~ActorMagicCaster", "class_r_e_1_1_actor_magic_caster.html#ac8ce3fb7e6b1a4173e221c6029b077da", null ],
     [ "AdjustActiveEffect", "class_r_e_1_1_actor_magic_caster.html#a9c90032062630128a6d9d8caa1f841a1", null ],
+    [ "CheckAttachCastingArt", "class_r_e_1_1_actor_magic_caster.html#ad735ed82c63c59e4ed7dba88cc1f875e", null ],
     [ "CheckCast", "class_r_e_1_1_actor_magic_caster.html#aca15a69ac0e43400d4db435a37a43634", null ],
     [ "ClearMagicNode", "class_r_e_1_1_actor_magic_caster.html#abaee6a08eb5cb1cd73f8632f8266f280", null ],
     [ "DeselectSpellImpl", "class_r_e_1_1_actor_magic_caster.html#ab33d0fdb68a1b134b60335cebe95e431", null ],
@@ -35,15 +40,15 @@ var class_r_e_1_1_actor_magic_caster =
     [ "Update", "class_r_e_1_1_actor_magic_caster.html#adc85bde82229b11107d16cc4f6739621", null ],
     [ "actor", "class_r_e_1_1_actor_magic_caster.html#ae8ef7f7e4d2092dcd63f6a9bcd6a180f", null ],
     [ "castingArt", "class_r_e_1_1_actor_magic_caster.html#a9da468bac3fc8917a74b67c47307d57a", null ],
+    [ "castingArtData", "class_r_e_1_1_actor_magic_caster.html#acd80529632803cdf8f66067f06c1ba81", null ],
     [ "castingSource", "class_r_e_1_1_actor_magic_caster.html#aa402d40aa7fe2fbb061c3295441f4b2b", null ],
+    [ "cloneTask", "class_r_e_1_1_actor_magic_caster.html#a5004d47a489684cf73cacf9515853bd8", null ],
+    [ "costCharged", "class_r_e_1_1_actor_magic_caster.html#a86d1bbb1bcef3567b95a2c71328b0802", null ],
     [ "flags", "class_r_e_1_1_actor_magic_caster.html#a33120789cdb523bc847c0a659426a7de", null ],
+    [ "interruptHandler", "class_r_e_1_1_actor_magic_caster.html#ae3d3699b3b1c667a1ef804a25662d5d0", null ],
     [ "light", "class_r_e_1_1_actor_magic_caster.html#a9f28c93a399245a488b40a1c4f042d2d", null ],
+    [ "loadGameSubBuffer", "class_r_e_1_1_actor_magic_caster.html#a796416228ee127bc2ee130bf172d7ccd", null ],
     [ "magicNode", "class_r_e_1_1_actor_magic_caster.html#a4f32d05357ee22107143723e0acabb4c", null ],
     [ "RTTI", "class_r_e_1_1_actor_magic_caster.html#a0726b68ff90b19e894292dc3700f18b5", null ],
-    [ "unk64", "class_r_e_1_1_actor_magic_caster.html#abe1f4df5c8f354dc8743f0f820e51e48", null ],
-    [ "unkB0", "class_r_e_1_1_actor_magic_caster.html#ace759e8758290d583040bd5e104e51c0", null ],
-    [ "unkD0", "class_r_e_1_1_actor_magic_caster.html#a55af1e883f9e200714f4dfc64647892b", null ],
-    [ "unkD8", "class_r_e_1_1_actor_magic_caster.html#a1b009519f816f960ed89d0c8bdb2984a", null ],
-    [ "unkF0", "class_r_e_1_1_actor_magic_caster.html#a9fb76de600fbc5002b83d602ddba3751", null ],
     [ "weaponEnchantmentController", "class_r_e_1_1_actor_magic_caster.html#a179f50ea8bfd2c518d5a17691b64b955", null ]
 ];

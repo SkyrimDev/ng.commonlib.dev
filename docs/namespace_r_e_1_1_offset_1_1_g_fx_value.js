@@ -4,7 +4,9 @@ var namespace_r_e_1_1_offset_1_1_g_fx_value =
       [ "AttachMovie", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a18277c71c739d31ec42256a5ac033126", null ],
       [ "DeleteMember", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a559637f07d7649bda8e28f3e1e80fc01", null ],
       [ "GetArraySize", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a4a7a0af80085e2d0e96189912d5c222e", null ],
+      [ "GetCxform", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a5966ede421ee7449d3ad7b075a072f5d", null ],
       [ "GetDisplayInfo", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#ab3d0801f2790aee1a827b8572e5429d6", null ],
+      [ "GetDisplayMatrix", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#acb83aaa67dfd3fccfc35fbe47641b0ce", null ],
       [ "GetElement", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#aef67bfccdd495be95e8f670fa3be5951", null ],
       [ "GetMember", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a9a5f959e50164623c3b61fba1b259bf4", null ],
       [ "GotoAndPlay", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a9fc962755d731f00fd5478dee2bd149d", null ],
@@ -15,9 +17,12 @@ var namespace_r_e_1_1_offset_1_1_g_fx_value =
       [ "PushBack", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a5fb87c7bd3dbaf949983b884ea7a1cc0", null ],
       [ "RemoveElements", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a444a625e98edd042f1087e8954a88c0a", null ],
       [ "SetArraySize", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a65941d892b2fdf3fe7fdb7d5c5736468", null ],
+      [ "SetCxform", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a5d42fab5ccad83fc7c9e9bae56b2549d", null ],
       [ "SetDisplayInfo", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a64605537f733b7811842b613bc4f94b2", null ],
+      [ "SetDisplayMatrix", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#afa8176f3e2c60c3398c7ca6c799e4a14", null ],
       [ "SetElement", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a8a3f22d418e8bad267265ec3e17fe946", null ],
       [ "SetMember", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a22648dbc1a81ed7d1c6d0dafe169213c", null ],
-      [ "SetText", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a4a7d4cb0396a0340d32d4192f340690c", null ]
+      [ "SetText", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#a4a7d4cb0396a0340d32d4192f340690c", null ],
+      [ "VisitMembers", "namespace_r_e_1_1_offset_1_1_g_fx_value_1_1_object_interface.html#ad8e68414f17464dff38117838ce6c480", null ]
     ] ]
 ];

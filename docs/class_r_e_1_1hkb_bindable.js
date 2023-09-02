@@ -8,5 +8,6 @@ var class_r_e_1_1hkb_bindable =
     [ "pad2A", "class_r_e_1_1hkb_bindable.html#a5ec0bce6871d7b9c95d079b110853888", null ],
     [ "pad2C", "class_r_e_1_1hkb_bindable.html#ae38dc39f1b12c5415bcb644a8af34359", null ],
     [ "RTTI", "class_r_e_1_1hkb_bindable.html#a8084c22271d0d0ababb79ed5121f607c", null ],
-    [ "variableBindingSet", "class_r_e_1_1hkb_bindable.html#abebc73492f187cd186d4019412e8bf94", null ]
+    [ "variableBindingSet", "class_r_e_1_1hkb_bindable.html#abebc73492f187cd186d4019412e8bf94", null ],
+    [ "VTABLE", "class_r_e_1_1hkb_bindable.html#a4a7c1d881bc88cc439886c4f0b31f318", null ]
 ];

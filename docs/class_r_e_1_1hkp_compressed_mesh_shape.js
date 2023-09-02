@@ -42,6 +42,7 @@ var class_r_e_1_1hkp_compressed_mesh_shape =
     [ "radius", "class_r_e_1_1hkp_compressed_mesh_shape.html#a4f188d0519a72d877b94d424ced8e4a1", null ],
     [ "RTTI", "class_r_e_1_1hkp_compressed_mesh_shape.html#ac72c42a248e0a01dc09ec6ad04aa1bc2", null ],
     [ "transforms", "class_r_e_1_1hkp_compressed_mesh_shape.html#abb8484f3172405db5d1bb9a2d8d86516", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_compressed_mesh_shape.html#aa61b3eb2a875bdbb1216791817d647de", null ],
     [ "weldingType", "class_r_e_1_1hkp_compressed_mesh_shape.html#a4240d1ca78ab5e9033d4916d81b32e0c", null ],
     [ "wIndexMask", "class_r_e_1_1hkp_compressed_mesh_shape.html#a3b2dc59f6b7cbdff4f530dde3d12b246", null ]
 ];

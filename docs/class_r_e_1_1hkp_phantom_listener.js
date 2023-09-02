@@ -5,5 +5,6 @@ var class_r_e_1_1hkp_phantom_listener =
     [ "PhantomDeletedCallback", "class_r_e_1_1hkp_phantom_listener.html#a6750b0955af65fde69ba361d9c9c4e77", null ],
     [ "PhantomRemovedCallback", "class_r_e_1_1hkp_phantom_listener.html#a6ee29b3f7ead3f33ac489390e36a29be", null ],
     [ "PhantomShapeSetCallback", "class_r_e_1_1hkp_phantom_listener.html#a2319e742a15799bad6b1462326d8d2e6", null ],
-    [ "RTTI", "class_r_e_1_1hkp_phantom_listener.html#ad0a86ea36a20147751d4ed7250327679", null ]
+    [ "RTTI", "class_r_e_1_1hkp_phantom_listener.html#ad0a86ea36a20147751d4ed7250327679", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_phantom_listener.html#a246fba4876dd64e7d2daa173f9197716", null ]
 ];

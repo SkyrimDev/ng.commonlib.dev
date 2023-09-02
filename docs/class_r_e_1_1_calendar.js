@@ -11,6 +11,7 @@ var class_r_e_1_1_calendar =
     [ "GetDaysPassed", "class_r_e_1_1_calendar.html#a5590adb11d8c1c0e7b30f38aad8cbcb6", null ],
     [ "GetHour", "class_r_e_1_1_calendar.html#a1c1f1e2a8391d8c79ec78bde09609df3", null ],
     [ "GetHoursPassed", "class_r_e_1_1_calendar.html#a3cf7868c09bd7fe773d202d16b04d8b7", null ],
+    [ "GetHoursPerDay", "class_r_e_1_1_calendar.html#ac64b8238c417a9b49f4c5804fd7772ef", null ],
     [ "GetMonth", "class_r_e_1_1_calendar.html#a17f61a307f25273970b6b9c3876df3ee", null ],
     [ "GetMonthName", "class_r_e_1_1_calendar.html#afa3e457c0523f622f806b4f748e01ab2", null ],
     [ "GetSingleton", "class_r_e_1_1_calendar.html#aed9707d806a87f64e64ea3b74b8c930b", null ],

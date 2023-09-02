@@ -92,7 +92,5 @@ var class_r_e_1_1_g_memory_heap =
     [ "_refCount", "class_r_e_1_1_g_memory_heap.html#af18dc27304e2a3539e90243e0b5819b9", null ],
     [ "_selfSize", "class_r_e_1_1_g_memory_heap.html#aa4ae29ece0dbf8bd51d6175b42fd28f6", null ],
     [ "_trackDebugInfo", "class_r_e_1_1_g_memory_heap.html#aeafb4bf4c2c07bcffba988046fec7b13", null ],
-    [ "_unkC8", "class_r_e_1_1_g_memory_heap.html#a706b5e19cda1c746d6b82c1557479e85", null ],
-    [ "_unkD0", "class_r_e_1_1_g_memory_heap.html#ad447cc436d19f13b1121e6058be465c8", null ],
     [ "_useLocks", "class_r_e_1_1_g_memory_heap.html#a2286b62a79209ebda67e420a8c0d9ff6", null ]
 ];

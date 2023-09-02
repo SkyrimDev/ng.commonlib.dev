@@ -26,6 +26,7 @@ var class_r_e_1_1_ni_point3 =
     [ "SqrLength", "class_r_e_1_1_ni_point3.html#aff9cb72c36686fcabdf55c287b2c195f", null ],
     [ "UnitCross", "class_r_e_1_1_ni_point3.html#aa0398e6e6148c610a08d19741c455b27", null ],
     [ "Unitize", "class_r_e_1_1_ni_point3.html#a9ef4d4ef8d791927a9416444a2437a3f", null ],
+    [ "Zero", "class_r_e_1_1_ni_point3.html#a61d1a77645900beb2af352abe0691e6e", null ],
     [ "x", "class_r_e_1_1_ni_point3.html#aa69c751b7b70f971bd96714d6a1e0d02", null ],
     [ "y", "class_r_e_1_1_ni_point3.html#afe659c07a5e3e8f7fc7436b2e4c4dc7e", null ],
     [ "z", "class_r_e_1_1_ni_point3.html#a78276b390d1cbb5d1e0d0675018bb381", null ]

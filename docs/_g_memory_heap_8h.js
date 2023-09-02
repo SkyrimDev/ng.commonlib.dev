@@ -8,5 +8,6 @@ var _g_memory_heap_8h =
     [ "RE::GMemoryHeap::HeapVisitor", "struct_r_e_1_1_g_memory_heap_1_1_heap_visitor.html", "struct_r_e_1_1_g_memory_heap_1_1_heap_visitor" ],
     [ "RE::GMemoryHeap::LimitHandler", "struct_r_e_1_1_g_memory_heap_1_1_limit_handler.html", "struct_r_e_1_1_g_memory_heap_1_1_limit_handler" ],
     [ "RE::GMemoryHeap::HeapTracer", "struct_r_e_1_1_g_memory_heap_1_1_heap_tracer.html", "struct_r_e_1_1_g_memory_heap_1_1_heap_tracer" ],
-    [ "RE::GMemoryHeap::RootStats", "struct_r_e_1_1_g_memory_heap_1_1_root_stats.html", "struct_r_e_1_1_g_memory_heap_1_1_root_stats" ]
+    [ "RE::GMemoryHeap::RootStats", "struct_r_e_1_1_g_memory_heap_1_1_root_stats.html", "struct_r_e_1_1_g_memory_heap_1_1_root_stats" ],
+    [ "RE::GMemoryHeapPT", "class_r_e_1_1_g_memory_heap_p_t.html", null ]
 ];

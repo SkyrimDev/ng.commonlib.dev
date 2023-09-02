@@ -1,7 +1,12 @@
 var class_r_e_1_1_u_i3_d_scene_manager =
 [
-    [ "MenuLight", "struct_r_e_1_1_u_i3_d_scene_manager_1_1_menu_light.html", "struct_r_e_1_1_u_i3_d_scene_manager_1_1_menu_light" ],
+    [ "AttachChild", "class_r_e_1_1_u_i3_d_scene_manager.html#aee3b5aec227f73080a8bc63c28c422ea", null ],
+    [ "AttachChild", "class_r_e_1_1_u_i3_d_scene_manager.html#aa5999361f4e312cc7a9018155d78f0e9", null ],
+    [ "DetachChild", "class_r_e_1_1_u_i3_d_scene_manager.html#a607a9e2b6f878aad7c029cba272f805a", null ],
     [ "GetSingleton", "class_r_e_1_1_u_i3_d_scene_manager.html#afd054b53053a35da925feded8ee1651e", null ],
+    [ "SetCameraFOV", "class_r_e_1_1_u_i3_d_scene_manager.html#a7f7ca10b5a8b112c31fc0a6eaeecef2b", null ],
+    [ "SetCameraPosition", "class_r_e_1_1_u_i3_d_scene_manager.html#a325613c33f394c89fe9454c87bada80c", null ],
+    [ "SetCameraRotate", "class_r_e_1_1_u_i3_d_scene_manager.html#a54b1e43954ecfcc46895b75798c9af92", null ],
     [ "cachedCameraPos", "class_r_e_1_1_u_i3_d_scene_manager.html#ad07427f18b42675234a1b2ebb6b4f41b", null ],
     [ "cachedCameraRot", "class_r_e_1_1_u_i3_d_scene_manager.html#a313204fe27cf2fec000061947f17781d", null ],
     [ "camera", "class_r_e_1_1_u_i3_d_scene_manager.html#a07eb04d4884a4c95e951e6d8bafc49e2", null ],

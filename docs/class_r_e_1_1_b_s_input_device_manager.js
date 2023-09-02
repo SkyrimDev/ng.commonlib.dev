@@ -1,6 +1,10 @@
 var class_r_e_1_1_b_s_input_device_manager =
 [
     [ "RUNTIME_DATA", "struct_r_e_1_1_b_s_input_device_manager_1_1_r_u_n_t_i_m_e___d_a_t_a.html", null ],
+    [ "CreateInputDevices", "class_r_e_1_1_b_s_input_device_manager.html#ade90040762e35aec910d88c54135d307", null ],
+    [ "DestroyInputDevices", "class_r_e_1_1_b_s_input_device_manager.html#a83aa3f14006b180bd43654bd15b4c158", null ],
+    [ "GetDeviceKeyMapping", "class_r_e_1_1_b_s_input_device_manager.html#ab2e9d17ecf54ae53aae52c8ef1e24084", null ],
+    [ "GetDeviceMappedKeycode", "class_r_e_1_1_b_s_input_device_manager.html#a50c54c2136b9550ced44944e8949fc0b", null ],
     [ "GetGamepad", "class_r_e_1_1_b_s_input_device_manager.html#a64e9dba85cc698786a1eb232af97724c", null ],
     [ "GetGamepadHandler", "class_r_e_1_1_b_s_input_device_manager.html#aafa0eaef6e4dbf7ab82eae900767a25c", null ],
     [ "GetKeyboard", "class_r_e_1_1_b_s_input_device_manager.html#a381987dc818b0c39027b1dac71e76352", null ],
@@ -13,6 +17,11 @@ var class_r_e_1_1_b_s_input_device_manager =
     [ "GetVRControllerRight", "class_r_e_1_1_b_s_input_device_manager.html#aeaa2a9b2571452af3b29c29fddc43a37", null ],
     [ "IsGamepadConnected", "class_r_e_1_1_b_s_input_device_manager.html#a51cd6d635c1fd0a8107be4235e07353c", null ],
     [ "IsGamepadEnabled", "class_r_e_1_1_b_s_input_device_manager.html#abee0c3cfd3248f8287aa4e6217a340c9", null ],
+    [ "IsMouseBackground", "class_r_e_1_1_b_s_input_device_manager.html#a759cf2cc884fd9c20f007122458e2f4f", null ],
+    [ "PollInputDevices", "class_r_e_1_1_b_s_input_device_manager.html#a5f43bb875459e5d99bd1c8af351b4283", null ],
+    [ "ProcessGamepadEnabledChange", "class_r_e_1_1_b_s_input_device_manager.html#a87b27f63175aef91d7811f2da04310df", null ],
+    [ "ReinitializeMouse", "class_r_e_1_1_b_s_input_device_manager.html#a78e85e312baa28a5b002b7752438ebbb", null ],
+    [ "ResetInputDevices", "class_r_e_1_1_b_s_input_device_manager.html#a4859d43ae08ebda604b86cd1ba53e6f0", null ],
     [ "devices", "class_r_e_1_1_b_s_input_device_manager.html#a100ec06238ae75569a5194d8da0a9fe1", null ],
     [ "pad59", "class_r_e_1_1_b_s_input_device_manager.html#aff6a67d7fd6b2eb580110c36b3cdd309", null ],
     [ "pad5A", "class_r_e_1_1_b_s_input_device_manager.html#af2d23951054c878140618fe4ef6da7d5", null ],

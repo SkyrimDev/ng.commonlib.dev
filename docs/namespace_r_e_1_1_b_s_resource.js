@@ -8,6 +8,7 @@ var namespace_r_e_1_1_b_s_resource =
     [ "GlobalLocations", "class_r_e_1_1_b_s_resource_1_1_global_locations.html", "class_r_e_1_1_b_s_resource_1_1_global_locations" ],
     [ "GlobalPaths", "class_r_e_1_1_b_s_resource_1_1_global_paths.html", "class_r_e_1_1_b_s_resource_1_1_global_paths" ],
     [ "ID", "struct_r_e_1_1_b_s_resource_1_1_i_d.html", "struct_r_e_1_1_b_s_resource_1_1_i_d" ],
+    [ "IEntryDB", "class_r_e_1_1_b_s_resource_1_1_i_entry_d_b.html", "class_r_e_1_1_b_s_resource_1_1_i_entry_d_b" ],
     [ "Info", "struct_r_e_1_1_b_s_resource_1_1_info.html", "struct_r_e_1_1_b_s_resource_1_1_info" ],
     [ "Location", "class_r_e_1_1_b_s_resource_1_1_location.html", "class_r_e_1_1_b_s_resource_1_1_location" ],
     [ "LocationTraverser", "class_r_e_1_1_b_s_resource_1_1_location_traverser.html", "class_r_e_1_1_b_s_resource_1_1_location_traverser" ],

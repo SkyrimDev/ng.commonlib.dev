@@ -19,5 +19,6 @@ var class_r_e_1_1hkp_keyframed_rigid_motion =
     [ "SetMassInv", "class_r_e_1_1hkp_keyframed_rigid_motion.html#a724f5edeb0624b0c0357a858034553ec", null ],
     [ "SetStepPosition", "class_r_e_1_1hkp_keyframed_rigid_motion.html#a0bd086f7ea7d14fd968dcf9c994287e3", null ],
     [ "SetStoredMotion", "class_r_e_1_1hkp_keyframed_rigid_motion.html#a0effb1cb4e80995494cea2cbe4eecda7", null ],
-    [ "RTTI", "class_r_e_1_1hkp_keyframed_rigid_motion.html#a3c841a7e152418f19b1c3bf9ba90017b", null ]
+    [ "RTTI", "class_r_e_1_1hkp_keyframed_rigid_motion.html#a3c841a7e152418f19b1c3bf9ba90017b", null ],
+    [ "VTABLE", "class_r_e_1_1hkp_keyframed_rigid_motion.html#ade80e97a9017b48ec83702aee285c179", null ]
 ];

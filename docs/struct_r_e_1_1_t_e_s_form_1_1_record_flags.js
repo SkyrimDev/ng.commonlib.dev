@@ -32,6 +32,7 @@ var struct_r_e_1_1_t_e_s_form_1_1_record_flags =
       [ "kStillLoading", "struct_r_e_1_1_t_e_s_form_1_1_record_flags.html#abc9239eacd9a59dd52a46e09ed0a8f00a0e6903108029469050804167c0038b0b", null ],
       [ "kFormRetainsID", "struct_r_e_1_1_t_e_s_form_1_1_record_flags.html#abc9239eacd9a59dd52a46e09ed0a8f00a76f462fcae0a5e64eddeaafd37bc902e", null ],
       [ "kDestroyed", "struct_r_e_1_1_t_e_s_form_1_1_record_flags.html#abc9239eacd9a59dd52a46e09ed0a8f00aeac4196c7f3307cf8e23948f9584b8e8", null ],
+      [ "kUnk24", "struct_r_e_1_1_t_e_s_form_1_1_record_flags.html#abc9239eacd9a59dd52a46e09ed0a8f00a94580421829364c96edab45731061e98", null ],
       [ "kNoAIAcquire", "struct_r_e_1_1_t_e_s_form_1_1_record_flags.html#abc9239eacd9a59dd52a46e09ed0a8f00a71c82e1a4fd9b12f600717cb6e4155b8", null ],
       [ "kObstacle", "struct_r_e_1_1_t_e_s_form_1_1_record_flags.html#abc9239eacd9a59dd52a46e09ed0a8f00ab4cd348a40980eef58829c143ca816bc", null ],
       [ "kVATSTargetOverride", "struct_r_e_1_1_t_e_s_form_1_1_record_flags.html#abc9239eacd9a59dd52a46e09ed0a8f00a60be11923b5c0c97e7b6ca87b19128df", null ],

@@ -17,9 +17,10 @@ var searchData=
   ['destructible_5fobject_5fstage_5fflags_14',['DESTRUCTIBLE_OBJECT_STAGE_FLAGS',['../struct_r_e_1_1_destructible_object_stage.html#a95a8d5ab757ce690a0deaf6bc552bc9b',1,'RE::DestructibleObjectStage']]],
   ['detection_5fpriority_15',['DETECTION_PRIORITY',['../namespace_r_e.html#a7ac49546beb5a13e790060ce3810a859',1,'RE']]],
   ['dialogue_5ftype_16',['DIALOGUE_TYPE',['../struct_r_e_1_1_d_i_a_l_o_g_u_e___t_y_p_e_s.html#a3a8eebb8bbe25b9a849f43650439b199',1,'RE::DIALOGUE_TYPES']]],
-  ['dirtyflag_17',['DirtyFlag',['../class_r_e_1_1_ni_geometry_data.html#a53cccdf2ebefe5feb6515a4d240cb0d2',1,'RE::NiGeometryData']]],
-  ['disabledpoint_18',['DisabledPoint',['../struct_r_e_1_1_t_e_s_furniture_1_1_entry_point_data_1_1_disabled_entry_point.html#a8420bb890278a1a0a2b6dcc622a60e38',1,'RE::TESFurniture::EntryPointData::DisabledEntryPoint']]],
-  ['discovery_19',['Discovery',['../class_r_e_1_1_h_u_d_data.html#a5bbc8f252cedc3e562a938edff8b948f',1,'RE::HUDData']]],
-  ['dispatcher_20',['Dispatcher',['../class_s_k_s_e_1_1_messaging_interface.html#a05b60fcc34e1f9472abc9d057f689788',1,'SKSE::MessagingInterface']]],
-  ['displaydatatype_21',['DisplayDataType',['../class_r_e_1_1_extra_text_display_data.html#ab8c25664a7e98bfd45d82762480c4c5e',1,'RE::ExtraTextDisplayData']]]
+  ['dikey_17',['DIKey',['../namespace_r_e_1_1_direct_input8.html#a48638face2626899ee30387d41e24775',1,'RE::DirectInput8']]],
+  ['dirtyflag_18',['DirtyFlag',['../class_r_e_1_1_ni_geometry_data.html#a53cccdf2ebefe5feb6515a4d240cb0d2',1,'RE::NiGeometryData']]],
+  ['disabledpoint_19',['DisabledPoint',['../struct_r_e_1_1_t_e_s_furniture_1_1_entry_point_data_1_1_disabled_entry_point.html#a8420bb890278a1a0a2b6dcc622a60e38',1,'RE::TESFurniture::EntryPointData::DisabledEntryPoint']]],
+  ['discovery_20',['Discovery',['../class_r_e_1_1_h_u_d_data.html#a5bbc8f252cedc3e562a938edff8b948f',1,'RE::HUDData']]],
+  ['dispatcher_21',['Dispatcher',['../class_s_k_s_e_1_1_messaging_interface.html#a05b60fcc34e1f9472abc9d057f689788',1,'SKSE::MessagingInterface']]],
+  ['displaydatatype_22',['DisplayDataType',['../class_r_e_1_1_extra_text_display_data.html#ab8c25664a7e98bfd45d82762480c4c5e',1,'RE::ExtraTextDisplayData']]]
 ];

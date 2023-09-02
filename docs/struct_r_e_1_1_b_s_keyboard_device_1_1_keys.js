@@ -42,7 +42,7 @@ var struct_r_e_1_1_b_s_keyboard_device_1_1_keys =
       [ "kL", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144a4657318876faa12339ba0c2b529ab5da", null ],
       [ "kSemicolon", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144a64d9e43556407bb3ae34b8ec2681a242", null ],
       [ "kApostrophe", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144a7d248c0533d6b3eedc2281202e2e7b4c", null ],
-      [ "kTilda", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144a3b6a01b0522360154473f92a1e77a703", null ],
+      [ "kTilde", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144aac775234bb446252686f86076e61e5e6", null ],
       [ "kLeftShift", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144aa97ee91a46296f2de5352893b0168fb1", null ],
       [ "kBackslash", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144acbfc9f0d8e5730f86e6520c10f6181e9", null ],
       [ "kZ", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144aa2f899607df8ac7c11f11ffc164bb70e", null ],
@@ -102,6 +102,8 @@ var struct_r_e_1_1_b_s_keyboard_device_1_1_keys =
       [ "kDown", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144ae5826ed55b20f0a012df7b0df89a1a8c", null ],
       [ "kPageDown", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144a6c7cb2bc82a02b2d4914742ceb76552a", null ],
       [ "kInsert", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144a4763e16a303f8f3dc643466e77edb015", null ],
-      [ "kDelete", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144ab65f8d225e1e09c7ed8ee6b066479b98", null ]
+      [ "kDelete", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144ab65f8d225e1e09c7ed8ee6b066479b98", null ],
+      [ "kLeftWin", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144a6d568632fff2fbf7580df22d12541644", null ],
+      [ "kRightWin", "struct_r_e_1_1_b_s_keyboard_device_1_1_keys.html#a3259b352672a87fa9ffb97600a92c144ae0cbc689d71a6797ea2210346d4a5276", null ]
     ] ]
 ];
