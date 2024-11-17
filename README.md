@@ -4,9 +4,9 @@ This API documentation for the `NG` fork of `CommonLibSSE`:
 
 https://github.com/CharmedBaryon/CommonLibSSE-NG
 
-> Last Updated: TIMESTAMP_PLACEHOLDER
+> Last Updated: 2024-11-17 06:38:39 UTC
 >
-> Git revision: https://github.com/CharmedBaryon/CommonLibSSE-NG/commit/COMMIT_SHA_PLACEHOLDER
+> Git revision: https://github.com/CharmedBaryon/CommonLibSSE-NG/commit/b93280e
 
 # About the NG fork
 

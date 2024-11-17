@@ -1,8 +1,18 @@
 var dir_985aec550a58b0624a9738891e854932 =
 [
-    [ "WeaponAnimationGraphManagerHolder.h", "_weapon_animation_graph_manager_holder_8h.html", "_weapon_animation_graph_manager_holder_8h" ],
-    [ "WeatherType.h", "_weather_type_8h.html", "_weather_type_8h" ],
-    [ "WerewolfEffect.h", "_werewolf_effect_8h.html", "_werewolf_effect_8h" ],
-    [ "WerewolfFeedEffect.h", "_werewolf_feed_effect_8h.html", "_werewolf_feed_effect_8h" ],
-    [ "WorldSpaceMenu.h", "_world_space_menu_8h.html", "_world_space_menu_8h" ]
+    [ "WeaponAnimationGraphManagerHolder.h", "WeaponAnimationGraphManagerHolder_8h.html", [
+      [ "WeaponAnimationGraphManagerHolder", "classRE_1_1WeaponAnimationGraphManagerHolder.html", "classRE_1_1WeaponAnimationGraphManagerHolder" ]
+    ] ],
+    [ "WeatherType.h", "WeatherType_8h.html", [
+      [ "WeatherType", "structRE_1_1WeatherType.html", "structRE_1_1WeatherType" ]
+    ] ],
+    [ "WerewolfEffect.h", "WerewolfEffect_8h.html", [
+      [ "WerewolfEffect", "classRE_1_1WerewolfEffect.html", "classRE_1_1WerewolfEffect" ]
+    ] ],
+    [ "WerewolfFeedEffect.h", "WerewolfFeedEffect_8h.html", [
+      [ "WerewolfFeedEffect", "classRE_1_1WerewolfFeedEffect.html", "classRE_1_1WerewolfFeedEffect" ]
+    ] ],
+    [ "WorldSpaceMenu.h", "WorldSpaceMenu_8h.html", [
+      [ "WorldSpaceMenu", "classRE_1_1WorldSpaceMenu.html", "classRE_1_1WorldSpaceMenu" ]
+    ] ]
 ];

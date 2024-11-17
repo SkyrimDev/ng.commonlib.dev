@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['xinputbutton_0',['XInputButton',['../namespace_r_e_1_1_x_input.html#affa113e106fb0998fca8598c5fe91553',1,'RE::XInput']]]
+  ['xinput_5fgamepad_5fbutton_80296',['XINPUT_GAMEPAD_BUTTON',['../namespaceREX_1_1W32.html#a1fa1e339831bf5dab24fd601dad3aa93',1,'REX::W32']]]
 ];
