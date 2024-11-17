@@ -4,6 +4,10 @@ This API documentation for the `NG` fork of `CommonLibSSE`:
 
 https://github.com/CharmedBaryon/CommonLibSSE-NG
 
+> Last Updated: TIMESTAMP_PLACEHOLDER
+>
+> Git revision: https://github.com/CharmedBaryon/CommonLibSSE-NG/commit/COMMIT_SHA_PLACEHOLDER
+
 # About the NG fork
 
 > CommonLibSSE NG is a fork of CommonLibSSE which tracks upstream updates but adds a number of enhancements
